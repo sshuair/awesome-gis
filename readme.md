@@ -164,7 +164,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 # 7. Geospatial Start-ups And Companies
 
 |   Name    |   Category    |   City    |   Country |   Founded |
-|    -      |      -        |      -    |      -   |      -      |     
+|    -----  |  -------    |   -------   | -------  |  -------   |     
 |   [3D Robotics](http://3drobotics.com/)   |   Drones  |   San Diego, CA   |   US  |   2009    |
 |   [ADCi](http://www.adci.com/)    |   Maps    |   Appleton, WI    |   US  |   1988    |
 |   [Admoove](http://admoove.com/)  |   LBMarketing |   Paryż   |   France  |   2010    |
