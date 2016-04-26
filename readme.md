@@ -26,8 +26,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ----
 
 ## Desktop Application
-- [ArcGIS](https://www.arcgis.com/)
-- [QGIS](http://qgis.org/en/site/)
+- [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
+- [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
 - [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world.
 - [uDig](http://udig.refractions.net/)
 - [gvSIG](http://www.gvsig.com/en)
