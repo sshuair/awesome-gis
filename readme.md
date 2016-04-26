@@ -123,7 +123,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
-
+    
+- **Data Format**
+    - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
+    - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
+    - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
+    - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
 
 ----
 ## Conference & Communities
