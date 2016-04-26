@@ -6,7 +6,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
-**Table Of Contents : **
+**Table Of Contents:**
 
 - [Desktop Application](#desktop-application)
 - [Web Map Servers](#web-map-servers)
