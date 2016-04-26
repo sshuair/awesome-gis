@@ -9,14 +9,14 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 ## 1.1 Desktop
 - [ArcGIS](https://www.arcgis.com/)
 - [QGIS](http://qgis.org/en/site/)
-- [GRASS GIS](https://grass.osgeo.org/) Bringing advanced geospatial technologies to the world.
+- [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world.
 - [uDig](http://udig.refractions.net/)
 - [gvSIG](http://www.gvsig.com/en)
-- [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas
+- [Marble](https://marble.kde.org/) - a virtual globe and world atlas
 - [SharpMap](https://sharpmap.codeplex.com/)
 - [JUMP GIS](http://jump-pilot.sourceforge.net/)
 - [World Wind](http://worldwind.arc.nasa.gov/java/)
-- [Google Earth]()
+- [Google Earth](http://earth.google.com/)
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
 
 
@@ -26,7 +26,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [GeoServer](http://geoserver.org/)
 - [deegree](http://www.deegree.org/)
 - [GeoDjango](http://geodjango.org/)
-- [Mapnik](http://mapnik.org/) is an open source mapping toolkit for desktop- and server-based map rendering, written in C++.
+- [Mapnik](http://mapnik.org/) - an open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
 - [geomajas](http://www.geomajas.org/)
 - [GeoMOOSE](http://www.geomoose.org/)
 - [mapbender3](http://mapbender3.org/)
@@ -38,8 +38,8 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 ## 1.3 Front-end Frameworks
 - [Leaflet](http://leafletjs.com/) – Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 - [OpenLayer3](http://openlayers.org/)
-- [three.js](http://threejs.org/) A JavaScript 3D Library which makes WebGL simpler
-- [cesiumjs](https://cesiumjs.org/) – An open-source JavaScript library for world-class 3D globes and maps
+- [three.js](http://threejs.org/) - a JavaScript 3D Library which makes WebGL simpler
+- [cesiumjs](https://cesiumjs.org/) – an open-source JavaScript library for world-class 3D globes and maps
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
 - [D3.js](https://d3js.org/)
 - [Echarts](http://echarts.baidu.com/)
@@ -51,14 +51,14 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 ## 1.4 IOS & Android
 
 ## 1.5 Geospatial Libraries (non-web)
-- [GDAL](http://www.gdal.org/) is a translator library for raster and vector geospatial data formats
-- [GeoTools](http://www.geotools.org/) is an open source Java library that provides tools for geospatial data.
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) is an open-source C++ library for remote sensing images processing.
+- [GDAL](http://www.gdal.org/) - a translator library for raster and vector geospatial data formats
+- [GeoTools](http://www.geotools.org/) - an open source Java library that provides tools for geospatial data.
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - an open-source C++ library for remote sensing images processing.
 
 ## 1.6 Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html)
-- [Sptialite](https://www.gaia-gis.it/fossil/libspatialite/index) Based on [SQLite](https://www.sqlite.org/)
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/)
 - [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
 - [MBtiles](https://github.com/mapbox/mbtiles-spec)
 - [mySQL](https://www.mysql.com/)
@@ -66,7 +66,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 
 ## 1.7 Map Render Engine
 - Global Mapper
-- [mapnik](http://mapnik.org/) mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+- [mapnik](http://mapnik.org/) - mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill)
 - [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native)
 
@@ -96,7 +96,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [Los Angeles GeoHub](http://geohub.lacity.org/)
 - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
 - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
-- [NetworkRepository.com - The First Interactive Network Repository with Visual Analytics](http://networkrepository.com/index.php)
+- [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
 - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
 - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
 - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
@@ -124,7 +124,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
 - [The GIS News Tweets Daily](http://paper.li/gisuser)
 - [Geoawesomeness](http://geoawesomeness.com/)
-- [GISuser](http://gisuser.com/) The GIS And Mapping Professional Resource
+- [GISuser](http://gisuser.com/) - The GIS And Mapping Professional Resource
 - [ESRI news](http://www.esri.com/esri-news)
 - [Directions Magazine - GIS News and Geospatial](http://www.directionsmag.com/)
 - [GISCafe](http://www.giscafe.com/)
@@ -148,7 +148,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 # 6. Amazing Map Site
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
-- [snazzymaps](https://snazzymaps.com/) a google map style gallery
+- [snazzymaps](https://snazzymaps.com/) - a google map style gallery
 - [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 - [Amazing Maps](http://amazing-maps.tumblr.com/)
 - [Beijing City Lab](http://www.beijingcitylab.com/)
