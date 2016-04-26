@@ -2,11 +2,30 @@
 
 Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
-**Welcome to add. Let's make it better.**
+**Welcome to add. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
+
+Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
+
+**Table Of Contents:**
+
+- [Desktop Application](#desktop-application)
+- [Web Map Servers](#web-map-servers)
+- [Front-end Frameworks](#front-end-frameworks)
+- [IOS & Android](#ios--android)
+- [Geospatial Libraries (non-web)](#geospatial-libraries-non-web)
+- [Spatial Database](#spatial-database)
+- [Map Render Engine](#map-render-engine)
+- [Saas](#saas)
+- [Data](#data)
+- [Conference & Communities](#conference--communities)
+- [News Site](#news-site)
+- [Amazing Map Site](#amazing-map-site)
+- [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
+
 
 ----
-# 1. Tools
-## 1.1 Desktop
+
+## Desktop Application
 - [ArcGIS](https://www.arcgis.com/)
 - [QGIS](http://qgis.org/en/site/)
 - [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world.
@@ -20,7 +39,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
 
 
-## 1.2 Web Map Servers
+## Web Map Servers
 - [ArcGIS Server](http://server.arcgis.com/)
 - [MapServer](http://www.mapserver.org/)
 - [GeoServer](http://geoserver.org/)
@@ -35,7 +54,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 
 
-## 1.3 Front-end Frameworks
+## Front-end Frameworks
 - [Leaflet](http://leafletjs.com/) – Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
 - [OpenLayer3](http://openlayers.org/)
 - [three.js](http://threejs.org/) - a JavaScript 3D Library which makes WebGL simpler
@@ -48,14 +67,14 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map)
 - [turf.js](http://turfjs.org/)
 
-## 1.4 IOS & Android
+## IOS & Android
 
-## 1.5 Geospatial Libraries (non-web)
+## Geospatial Libraries (non-web)
 - [GDAL](http://www.gdal.org/) - a translator library for raster and vector geospatial data formats
 - [GeoTools](http://www.geotools.org/) - an open source Java library that provides tools for geospatial data.
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - an open-source C++ library for remote sensing images processing.
 
-## 1.6 Spatial Database
+## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html)
 - [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/)
@@ -64,13 +83,13 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [mySQL](https://www.mysql.com/)
 - [mongoDB](https://www.mongodb.org/)
 
-## 1.7 Map Render Engine
+## Map Render Engine
 - Global Mapper
 - [mapnik](http://mapnik.org/) - mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill)
 - [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native)
 
-## 1.8 Saas （Online Map Tools）
+## Saas
 - [Mapbox](https://www.mapbox.com/)
 - [Cartodb](http://cartodb.com/)
 - [GIS Clound](http://www.giscloud.com/)
@@ -83,44 +102,44 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [地图无忧](http://www.dituwuyou.com/) Chinese
 
 ----
-# 2. Data
-## 2.1 Data List Site
-- [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
-- [Free GIS Data](http://freegisdata.rtwilson.com/)
+## Data
+- **Data List Site**
+    - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
+    - [Free GIS Data](http://freegisdata.rtwilson.com/)
 
-## 2.2 Data Site
-- [199it](http://hao.199it.com/)
-- [Harvard Dataverse](https://dataverse.harvard.edu/)
-- [WorldPop](http://www.worldpop.org.uk/)
-- [NYC Open Data](https://nycopendata.socrata.com/)
-- [Los Angeles GeoHub](http://geohub.lacity.org/)
-- [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
-- [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
-- [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
-- [OpenFlights: Airport and airline data](http://openflights.org/data.html)
-- [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
-- [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
-- [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-- [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
-- [pm2.5-China](http://www.pm25.in/)
-- [Remote sensing imge](http://earthexplorer.usgs.gov/)
+- **Data Site**
+    - [199it](http://hao.199it.com/)
+    - [Harvard Dataverse](https://dataverse.harvard.edu/)
+    - [WorldPop](http://www.worldpop.org.uk/)
+    - [NYC Open Data](https://nycopendata.socrata.com/)
+    - [Los Angeles GeoHub](http://geohub.lacity.org/)
+    - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
+    - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
+    - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
+    - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
+    - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
+    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+    - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
+    - [pm2.5-China](http://www.pm25.in/)
+    - [Remote sensing imge](http://earthexplorer.usgs.gov/)
 
-
-----
-# 3. Conference & Communities
-## 3.1 Conference
-- [Esri International User Conference](http://www.esri.com/events/user-conference)
-- [Esri Developer Summit](http://www.esri.com/events/devsummit)
-- [FOSS4G](http://foss4g.org/)
-
-## 3.2 Communities
-- GISTribe
-- [Maptime](http://maptime.io/)
-- [geo community](http://spatialnews.geocomm.com/)
-- [GIS stackexchange](http://gis.stackexchange.com/)
 
 ----
-# 4. News Site
+## Conference & Communities
+- **Conference**
+    - [Esri International User Conference](http://www.esri.com/events/user-conference)
+    - [Esri Developer Summit](http://www.esri.com/events/devsummit)
+    - [FOSS4G](http://foss4g.org/)
+
+- **Communities**
+    - GISTribe
+    - [Maptime](http://maptime.io/)
+    - [geo community](http://spatialnews.geocomm.com/)
+    - [GIS stackexchange](http://gis.stackexchange.com/)
+
+----
+## News Site
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
 - [The GIS News Tweets Daily](http://paper.li/gisuser)
 - [Geoawesomeness](http://geoawesomeness.com/)
@@ -135,7 +154,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [MAPCITE](https://www.mapcite.com/default.aspx)
 
 ----
-# 5. Blogs
+## Blogs
 - [Geo Blogs](http://www.gisdoctor.com/site/gis-help/blogs/)
 - [mastermaps](http://mastermaps.com/)
 - [Anita Graser](http://anitagraser.com/)
@@ -145,7 +164,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [ KARTO PICS](http://kartopics.com/)
 
 ----
-# 6. Amazing Map Site
+## Amazing Map Site
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
 - [snazzymaps](https://snazzymaps.com/) - a google map style gallery
@@ -161,7 +180,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
 
 ---
-# 7. Geospatial Start-ups And Companies
+## Geospatial Start-ups And Companies
 
 |   Name    |   Category    |   City    |   Country |   Founded |
 |    -----  |  -------    |   -------   | -------  |  -------   |     
