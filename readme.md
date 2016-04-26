@@ -16,7 +16,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 - [SharpMap](https://sharpmap.codeplex.com/)
 - [JUMP GIS](http://jump-pilot.sourceforge.net/)
 - [World Wind](http://worldwind.arc.nasa.gov/java/)
-- [Google Earth]()
+- [Google Earth](http://earth.google.com/)
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
 
 
