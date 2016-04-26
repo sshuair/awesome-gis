@@ -58,7 +58,7 @@ Awesome GIS is for collecting the GIS related sources, including cartographer to
 ## 1.6 Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html)
-- [Sptialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/)
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/)
 - [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
 - [MBtiles](https://github.com/mapbox/mbtiles-spec)
 - [mySQL](https://www.mysql.com/)
