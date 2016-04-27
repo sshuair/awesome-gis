@@ -70,9 +70,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## IOS & Android
 
 ## Geospatial Libraries (non-web)
-- [GDAL](http://www.gdal.org/) - a translator library for raster and vector geospatial data formats
-- [GeoTools](http://www.geotools.org/) - an open source Java library that provides tools for geospatial data.
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - an open-source C++ library for remote sensing images processing.
+- [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
+- [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
+- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data.
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing.
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
