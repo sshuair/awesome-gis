@@ -26,8 +26,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ----
 
 ## Desktop Application
-- [ArcGIS](https://www.arcgis.com/)
-- [QGIS](http://qgis.org/en/site/)
+- [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
+- [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
 - [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world.
 - [uDig](http://udig.refractions.net/)
 - [gvSIG](http://www.gvsig.com/en)
@@ -70,9 +70,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## IOS & Android
 
 ## Geospatial Libraries (non-web)
-- [GDAL](http://www.gdal.org/) - a translator library for raster and vector geospatial data formats
-- [GeoTools](http://www.geotools.org/) - an open source Java library that provides tools for geospatial data.
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - an open-source C++ library for remote sensing images processing.
+- [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
+- [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
+- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
+- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data.
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing.
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
@@ -123,7 +125,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
-
+    
+- **Data Format**
+    - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
+    - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
+    - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
+    - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
 
 ----
 ## Conference & Communities
