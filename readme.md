@@ -28,7 +28,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Desktop Application
 - [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
 - [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
-- [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world
+- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas
