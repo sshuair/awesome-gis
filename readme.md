@@ -28,44 +28,44 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Desktop Application
 - [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
 - [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
-- [GRASS GIS](https://grass.osgeo.org/) - bringing advanced geospatial technologies to the world.
-- [uDig](http://udig.refractions.net/)
-- [gvSIG](http://www.gvsig.com/en)
-- [Marble](https://marble.kde.org/) - a virtual globe and world atlas
-- [SharpMap](https://sharpmap.codeplex.com/)
-- [JUMP GIS](http://jump-pilot.sourceforge.net/)
-- [World Wind](http://worldwind.arc.nasa.gov/java/)
-- [Google Earth](http://earth.google.com/)
-- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/)
+- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
+- [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
+- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
+- [Marble](https://marble.kde.org/) - A virtual globe and world atlas
+- [SharpMap](https://sharpmap.codeplex.com/) - An mapping library in web and desktop applications built in .NET
+- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
+- [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
+- [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
+- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 
 
 ## Web Map Servers
-- [ArcGIS Server](http://server.arcgis.com/)
-- [MapServer](http://www.mapserver.org/)
-- [GeoServer](http://geoserver.org/)
-- [deegree](http://www.deegree.org/)
-- [GeoDjango](http://geodjango.org/)
-- [Mapnik](http://mapnik.org/) - an open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
-- [geomajas](http://www.geomajas.org/)
-- [GeoMOOSE](http://www.geomoose.org/)
-- [mapbender3](http://mapbender3.org/)
-- [MapFish](http://www.mapfish.org/)
-- [MapGuide ](http://mapguide.osgeo.org/)
+- [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
+- [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
+- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
+- [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
+- [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
+- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
+- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
+- [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
+- [mapbender3](http://mapbender3.org/) - Publishing spatial data infrastructure services on the Symfony 2 PHP
+- [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
+- [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 
 
 ## Front-end Frameworks
-- [Leaflet](http://leafletjs.com/) – Open-Source JavaScript Library for Mobile-Friendly Interactive Maps
-- [OpenLayer3](http://openlayers.org/)
-- [three.js](http://threejs.org/) - a JavaScript 3D Library which makes WebGL simpler
-- [cesiumjs](https://cesiumjs.org/) – an open-source JavaScript library for world-class 3D globes and maps
-- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/)
-- [D3.js](https://d3js.org/)
-- [Echarts](http://echarts.baidu.com/)
-- [geomajas-client javascript](http://www.geomajas.org/client-javascript)
-- [Google Maps Javascript API](https://developers.google.com/maps/)
-- [d3-carto-map](https://github.com/emeeks/d3-carto-map)
-- [turf.js](http://turfjs.org/)
+- [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
+- [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
+- [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
+- [cesiumjs](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
+- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
+- [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
+- [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
+- [geomajas-client javascript](http://www.geomajas.org/client-javascript) - Open source javascript mapping API for cool maps and apps
+- [Google Maps Javascript API](https://developers.google.com/maps/) - A javascript api for google map
+- [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
+- [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 
 ## IOS & Android
 
@@ -77,31 +77,31 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing.
 
 ## Spatial Database
-- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/)
-- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html)
-- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/)
-- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/)
-- [MBtiles](https://github.com/mapbox/mbtiles-spec)
-- [mySQL](https://www.mysql.com/)
-- [mongoDB](https://www.mongodb.org/)
+- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
+- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
+- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
+- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
+- [mySQL](https://www.mysql.com/) - the world's most popular open source database
+- [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
 
 ## Map Render Engine
 - Global Mapper
-- [mapnik](http://mapnik.org/) - mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
-- [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill)
-- [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native)
+- [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
+- [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill) - Creating beautiful interactive maps with CartoCSS
+- [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native) - A new framework for live, responsive maps
 
 ## Saas
-- [Mapbox](https://www.mapbox.com/)
-- [Cartodb](http://cartodb.com/)
-- [GIS Clound](http://www.giscloud.com/)
-- [stamen](http://stamen.com/)
-- [citytracking](http://citytracking.org/)
-- [worldmap](http://worldmap.harvard.edu/)
-- [Geohey](https://geohey.com) Chinese
-- [GeoQ](http://www.geoq.cn/) Chinese
-- [地图慧](http://www.dituhui.com/) Chinese
-- [地图无忧](http://www.dituwuyou.com/) Chinese
+- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
+- [GIS Clound](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
+- [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
+- [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [Geohey](https://geohey.com) - A geographic online one-stop solution (Chinese)
+- [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
+- [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
+- [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 
 ----
 ## Data
