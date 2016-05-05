@@ -126,6 +126,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
+    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
     
 - **Data Format**
     - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
