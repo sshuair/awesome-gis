@@ -11,7 +11,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Desktop Application](#desktop-application)
 - [Web Map Servers](#web-map-servers)
 - [Front-end Frameworks](#front-end-frameworks)
-- [IOS & Android](#ios--android)
+- [iOS & Android](#ios--android)
 - [Geospatial Libraries (non-web)](#geospatial-libraries-non-web)
 - [Spatial Database](#spatial-database)
 - [Map Render Engine](#map-render-engine)
