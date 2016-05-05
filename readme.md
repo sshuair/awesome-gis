@@ -52,6 +52,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
+- [Nanocubes](https://github.com/laurolins/nanocube) - An in-memory data structure for spatiotemporal data cubes.
 
 
 ## Front-end Frameworks
