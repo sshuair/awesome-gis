@@ -127,6 +127,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
+    - [Geofabrik](http://download.geofabrik.de/)
     
 - **Data Format**
     - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
