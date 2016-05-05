@@ -147,6 +147,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Maptime](http://maptime.io/)
     - [geo community](http://spatialnews.geocomm.com/)
     - [GIS stackexchange](http://gis.stackexchange.com/)
+    - [GeoNet](https://geonet.esri.com/) - The Esri Community
 
 ----
 ## News Site
