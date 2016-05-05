@@ -52,6 +52,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
+- [Nanocubes](https://github.com/laurolins/nanocube) - An in-memory data structure for spatiotemporal data cubes.
 
 
 ## Front-end Frameworks
@@ -125,6 +126,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
+    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
+    - [Geofabrik](http://download.geofabrik.de/)
     
 - **Data Format**
     - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
