@@ -68,7 +68,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 
-## IOS & Android
+## iOS & Android
 
 ## Geospatial Libraries (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
