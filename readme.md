@@ -2,7 +2,7 @@
 
 Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
-**Welcome to add. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
+**Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
@@ -20,6 +20,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Conference & Communities](#conference--communities)
 - [News Site](#news-site)
 - [Amazing Map Site](#amazing-map-site)
+- [MOOC](#MOOC)
 - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
 
 
@@ -165,6 +166,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## Blogs
+- [Wiki.GIS.com](http://wiki.gis.com/wiki/index.php/Main_Page)  - The GIS Encyclopedia
 - [Geo Blogs](http://www.gisdoctor.com/site/gis-help/blogs/)
 - [mastermaps](http://mastermaps.com/)
 - [Anita Graser](http://anitagraser.com/)
@@ -188,6 +190,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [OpenWebGIS is free online GIS](http://openwebgisystem.blogspot.com/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
+- [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
+
+----
+## MOOC
+-  [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
+- [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
+- [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
+- [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
 
 ---
 ## Geospatial Start-ups And Companies
@@ -300,7 +310,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 
 ----
-# Reference:
+## Reference:
 >1. [List of geographic information systems software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
 >2. [osgeo](http://www.osgeo.org/)
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
