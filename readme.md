@@ -71,13 +71,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## iOS & Android
 - **iOS**
-	- [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
+    - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
 
 - **Android**
-	- [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
+    - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
 
 - **Cross-Platform**
-	- [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
+    - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
 
 ## Geospatial Libraries (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
