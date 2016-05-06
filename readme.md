@@ -70,9 +70,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 
 ## iOS & Android
-- [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
-- [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
-- [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
+- **iOS**
+	- [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
+- **Android**
+	- [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
+- **Cross-Platform**
+	- [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
 
 ## Geospatial Libraries (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
@@ -320,3 +323,5 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
 >3. [brandonxiang's Awesome GIS](http://www.jianshu.com/p/3b3efa92dd6d)
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
+
+
