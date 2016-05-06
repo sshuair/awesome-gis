@@ -1,6 +1,6 @@
 # Awesome GIS
 
-Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
+Awesome GIS is for collecting the [geographic information system (GIS) ](https://en.wikipedia.org/wiki/Geographic_information_system) related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
 **Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
 
