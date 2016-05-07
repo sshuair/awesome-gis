@@ -69,6 +69,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 - [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG
+- [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
 
 ## iOS & Android
 - **iOS**
