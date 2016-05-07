@@ -68,6 +68,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Google Maps Javascript API](https://developers.google.com/maps/) - A javascript api for google map
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
+- [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG
 
 ## iOS & Android
 - **iOS**
@@ -118,6 +119,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
     - [Free GIS Data](http://freegisdata.rtwilson.com/)
+    - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
     - [199it](http://hao.199it.com/)
