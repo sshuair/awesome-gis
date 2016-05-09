@@ -9,13 +9,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 **Table Of Contents:**
 
 - [Desktop Application](#desktop-application)
-- [Web Map Servers](#web-map-servers)
-- [Front-end Frameworks](#front-end-frameworks)
+- [Web Map Server](#web-map-server)
+- [Front-end Framework](#front-end-framework)
 - [iOS & Android](#ios--android)
-- [Geospatial Libraries (non-web)](#geospatial-libraries-non-web)
+- [Geospatial Library (non-web)](#geospatial-library-non-web)
 - [Spatial Database](#spatial-database)
 - [Map Render Engine](#map-render-engine)
 - [Saas](#saas)
+- [Data Format](#data-format)
 - [Data](#data)
 - [Conference & Communities](#conference--communities)
 - [News Site](#news-site)
@@ -40,7 +41,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 
 
-## Web Map Servers
+## Web Map Server
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
@@ -56,7 +57,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 
 
-## Front-end Frameworks
+## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
 - [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
@@ -81,7 +82,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
 
-## Geospatial Libraries (non-web)
+## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
@@ -116,6 +117,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 
 ----
+##Data Format
+- [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
+- [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
+- [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
+- [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
+
+----
 ## Data
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
@@ -140,12 +148,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
     - [Geofabrik](http://download.geofabrik.de/)
-    
-- **Data Format**
-    - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
-    - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
-    - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
-    - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
 
 ----
 ## Conference & Communities
