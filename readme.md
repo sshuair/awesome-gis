@@ -159,7 +159,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [FOSS4G](http://foss4g.org/)
 
 - **Communities**
-    - GISTribe
+    - [OGC](http://www.opengeospatial.org/)
     - [Maptime](http://maptime.io/)
     - [geo community](http://spatialnews.geocomm.com/)
     - [GIS stackexchange](http://gis.stackexchange.com/)
