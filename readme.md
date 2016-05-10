@@ -85,9 +85,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
-- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
-- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data.
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing.
+- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane
+- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
+- [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features
+- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
@@ -146,7 +148,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
-    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
+    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
     - [Geofabrik](http://download.geofabrik.de/)
 
 ----
