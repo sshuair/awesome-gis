@@ -86,6 +86,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
+- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
 - [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data.
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing.
 
