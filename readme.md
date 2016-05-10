@@ -1,25 +1,27 @@
 # Awesome GIS
 
-Awesome GIS is for collecting the GIS related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
+Awesome GIS is for collecting the [geographic information system (GIS) ](https://en.wikipedia.org/wiki/Geographic_information_system) related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
-**Welcome to add. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
+**Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
 
 - [Desktop Application](#desktop-application)
-- [Web Map Servers](#web-map-servers)
-- [Front-end Frameworks](#front-end-frameworks)
-- [IOS & Android](#ios--android)
-- [Geospatial Libraries (non-web)](#geospatial-libraries-non-web)
+- [Web Map Server](#web-map-server)
+- [Front-end Framework](#front-end-framework)
+- [iOS & Android](#ios--android)
+- [Geospatial Library (non-web)](#geospatial-library-non-web)
 - [Spatial Database](#spatial-database)
 - [Map Render Engine](#map-render-engine)
 - [Saas](#saas)
+- [Data Format](#data-format)
 - [Data](#data)
 - [Conference & Communities](#conference--communities)
 - [News Site](#news-site)
 - [Amazing Map Site](#amazing-map-site)
+- [MOOC](#mooc)
 - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
 
 
@@ -39,7 +41,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 
 
-## Web Map Servers
+## Web Map Server
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
@@ -52,9 +54,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
+- [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 
 
-## Front-end Frameworks
+## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
 - [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
@@ -66,10 +69,20 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Google Maps Javascript API](https://developers.google.com/maps/) - A javascript api for google map
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
+- [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG
+- [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
 
-## IOS & Android
+## iOS & Android
+- **iOS**
+    - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
 
-## Geospatial Libraries (non-web)
+- **Android**
+    - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
+
+- **Cross-Platform**
+    - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Technical Preview)
+
+## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
@@ -94,7 +107,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
-- [GIS Clound](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
@@ -104,10 +117,18 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 
 ----
+##Data Format
+- [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
+- [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
+- [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
+- [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
+
+----
 ## Data
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
     - [Free GIS Data](http://freegisdata.rtwilson.com/)
+    - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
     - [199it](http://hao.199it.com/)
@@ -125,12 +146,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
-    
-- **Data Format**
-    - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
-    - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
-    - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
-    - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
+    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap.
+    - [Geofabrik](http://download.geofabrik.de/)
 
 ----
 ## Conference & Communities
@@ -144,6 +161,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Maptime](http://maptime.io/)
     - [geo community](http://spatialnews.geocomm.com/)
     - [GIS stackexchange](http://gis.stackexchange.com/)
+    - [GeoNet](https://geonet.esri.com/) - The Esri Community
 
 ----
 ## News Site
@@ -162,6 +180,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## Blogs
+- [Wiki.GIS.com](http://wiki.gis.com/wiki/index.php/Main_Page)  - The GIS Encyclopedia
 - [Geo Blogs](http://www.gisdoctor.com/site/gis-help/blogs/)
 - [mastermaps](http://mastermaps.com/)
 - [Anita Graser](http://anitagraser.com/)
@@ -185,6 +204,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [OpenWebGIS is free online GIS](http://openwebgisystem.blogspot.com/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
+- [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
+
+----
+## MOOC
+-  [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
+- [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
+- [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
+- [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
 
 ---
 ## Geospatial Start-ups And Companies
@@ -297,7 +324,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 
 ----
-# Reference:
+## Reference:
 >1. [List of geographic information systems software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
 >2. [osgeo](http://www.osgeo.org/)
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
