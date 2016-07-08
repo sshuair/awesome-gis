@@ -62,6 +62,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
 - [cesiumjs](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
+- [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
 - [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
 - [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
@@ -104,7 +105,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - Global Mapper
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill) - Creating beautiful interactive maps with CartoCSS
-- [Mapbox GL vector](https://www.mapbox.com/blog/mapbox-gl/) the github code [link](https://github.com/mapbox/mapbox-gl-native) - A new framework for live, responsive maps
+- [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
+- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - A javascript library rendering interactive vector maps in the browser
+- [Tangram](https://github.com/tangrams/tangram) - a javaScript library for rendering 2D & 3D maps live in a web browser with WebGL
 
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
