@@ -40,9 +40,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 
 ## 3D Application
-- [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets. 
-- [CityEngine](http://www.esri.com/software/cityengine/) - Transform 2D GIS Data into Smart 3D City Models.
-- [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world. 
+- [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
+- [CityEngine](http://www.esri.com/software/cityengine/) - Transform 2D GIS Data into Smart 3D City Models
+- [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 - [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
 
@@ -110,7 +110,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Map Render Engine
 - Global Mapper
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
-- [TileMill](http://tilemill.com) the github code [link](https://github.com/mapbox/tilemill) - Creating beautiful interactive maps with CartoCSS
+- [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - A javascript library rendering interactive vector maps in the browser
 - [Tangram](https://github.com/tangrams/tangram) - a javaScript library for rendering 2D & 3D maps live in a web browser with WebGL
@@ -219,7 +219,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## MOOC
-- [discoverspatial](http://discoverspatial.com/) - Easy to follow spatial courses & tutorials from the world's leading instructors.
+- [discoverspatial](http://discoverspatial.com/) - Easy to follow spatial courses & tutorials from the world's leading instructors
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
