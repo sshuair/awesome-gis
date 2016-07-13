@@ -172,6 +172,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Maptime](http://maptime.io/)
     - [geo community](http://spatialnews.geocomm.com/)
     - [GIS stackexchange](http://gis.stackexchange.com/)
+    - [GIS-Lab](http://gis-lab.info/) - informal community of russian-speaking GIS/RS specialists, we get better ourselves and help get better others
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
 
 ----
