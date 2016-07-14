@@ -65,6 +65,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
+- [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - Is a JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
 - [cesiumjs](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
