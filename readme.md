@@ -38,6 +38,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SharpMap](https://sharpmap.codeplex.com/) - An mapping library in web and desktop applications built in .NET
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
+- [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -65,7 +66,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
-- [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - Is a JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
+- [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [OpenLayer3](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
 - [cesiumjs](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
@@ -79,6 +80,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 - [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG
 - [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
+- [Tangram](https://github.com/tangrams/tangram) - A javaScript library for rendering 2D & 3D maps live in a web browser with WebGL
 
 ## iOS & Android
 - **iOS**
@@ -111,10 +113,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Map Render Engine
 - Global Mapper
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
-- [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
-- [mapbox-gl-js](https://github.com/mapbox/mapbox-gl-js) - A javascript library rendering interactive vector maps in the browser
-- [Tangram](https://github.com/tangrams/tangram) - a javaScript library for rendering 2D & 3D maps live in a web browser with WebGL
+- [tangram-es](https://github.com/tangrams/tangram-es)- A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
@@ -190,6 +190,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [gisgeography](http://gisgeography.com/)
 - [canadiangis](http://canadiangis.com/)
 - [MAPCITE](https://www.mapcite.com/default.aspx)
+- [Geospatial World](http://www.geospatialworld.net/)
 
 ----
 ## Blogs
@@ -206,7 +207,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Amazing Map Site
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
-- [snazzymaps](https://snazzymaps.com/) - a google map style gallery
+- [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 - [Amazing Maps](http://amazing-maps.tumblr.com/)
 - [Beijing City Lab](http://www.beijingcitylab.com/)
