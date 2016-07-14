@@ -39,6 +39,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
+- [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -111,10 +112,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
 
 ## Map Render Engine
-- Global Mapper
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
-- [tangram-es](https://github.com/tangrams/tangram-es)- A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
+- [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
@@ -123,7 +123,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
-- [Geohey](https://geohey.com) - A geographic online one-stop solution (Chinese)
+- [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
