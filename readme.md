@@ -23,7 +23,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [News Site](#news-site)
 - [Amazing Map Site](#amazing-map-site)
 - [MOOC](#mooc)
-- [Related Resources](#related-esources)
+- [Related Resources](#related-resources)
 - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
 
 
