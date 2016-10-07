@@ -23,6 +23,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [News Site](#news-site)
 - [Amazing Map Site](#amazing-map-site)
 - [MOOC](#mooc)
+- [Related Resources](#related-esources)
 - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
 
 
@@ -169,13 +170,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [FOSS4G](http://foss4g.org/)
 
 - **Communities**
-    - [OGC](http://www.opengeospatial.org/)
+    - [OGC](http://www.opengeospatial.org/) - an international not for profit organization committed to making quality open standards for the global geospatial community
     - [Maptime](http://maptime.io/)
     - [geo community](http://spatialnews.geocomm.com/)
     - [GIS stackexchange](http://gis.stackexchange.com/)
     - [GIS-Lab](http://gis-lab.info/) - informal community of russian-speaking GIS/RS specialists, we get better ourselves and help get better others
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
-
+ 
 ----
 ## News Site
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
@@ -219,6 +220,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenWebGIS is free online GIS](http://openwebgisystem.blogspot.com/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
+- [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 
 ----
 ## MOOC
@@ -227,6 +229,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
+
+---
+## Related Resources
+- [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
 
 ---
 ## Geospatial Start-ups And Companies
@@ -241,3 +247,5 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
 >3. [brandonxiang's Awesome GIS](http://www.jianshu.com/p/3b3efa92dd6d)
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
+
+
