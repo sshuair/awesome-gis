@@ -48,6 +48,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 - [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
+- [Cesium](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 
 
 ## Web Map Server
