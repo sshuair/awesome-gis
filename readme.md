@@ -64,6 +64,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
+- [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 
 
 ## Front-end Framework
