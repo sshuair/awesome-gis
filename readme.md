@@ -171,6 +171,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
     - [Esri Developer Summit](http://www.esri.com/events/devsummit)
     - [FOSS4G](http://foss4g.org/)
+    - [State of the Map](https://stateofthemap.org/)
 
 - **Communities**
     - [OGC](http://www.opengeospatial.org/) - an international not for profit organization committed to making quality open standards for the global geospatial community
