@@ -240,7 +240,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ---
 ## Geospatial Start-ups And Companies
-[Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial Start-ups And Companies.md)
+[Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
 
 
 
