@@ -88,10 +88,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## iOS & Android
 - **iOS**
     - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
+    - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
 
 - **Android**
     - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
-
+    - [Google Maps API for Android](https://developers.google.com/maps/android/)
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
