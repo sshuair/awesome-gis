@@ -133,7 +133,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 
 ----
-##Data Format
+## Data Format
 - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
 - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
 - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
