@@ -89,6 +89,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **iOS**
     - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
+    - [Mapbox iOS SKD](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
 
 - **Android**
     - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
