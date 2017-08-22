@@ -32,6 +32,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Desktop Application
 - [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
 - [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
+- [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
@@ -101,6 +102,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane
 - [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
+- [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data
 - [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features
 - [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
@@ -132,6 +134,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
+- [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
+
 
 ----
 ## Data Format
@@ -140,6 +144,17 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
 - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
 - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
+- [KMZ/KML]
+- [FileGDB]
+- [DXF]
+- [ArcInfo Coverage]
+- [E00 ArcInfo Interchange]
+- [Esri Grid]
+- [GeoTIFF]
+- [Erdas Imagine]
+- [HDF]
+- [MBTiles]
+- [MapBox Vector Tile]
 
 ----
 ## Data
