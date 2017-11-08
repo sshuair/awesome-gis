@@ -146,6 +146,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
 - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
 - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
+- [SLD](http://www.opengeospatial.org/standards/sld) - An XML schema for describing the appearance of map layers.
 - [KMZ/KML]
 - [FileGDB]
 - [DXF]
