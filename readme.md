@@ -108,6 +108,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features
 - [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
+- [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
