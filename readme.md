@@ -55,6 +55,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
+- [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
 - [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
 - [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
@@ -109,6 +110,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
@@ -249,7 +251,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## MOOC
-- [discoverspatial](http://discoverspatial.com/) - Easy to follow spatial courses & tutorials from the world's leading instructors
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
