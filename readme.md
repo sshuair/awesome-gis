@@ -250,7 +250,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## MOOC
-- [discoverspatial](http://discoverspatial.com/) - Easy to follow spatial courses & tutorials from the world's leading instructors
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
