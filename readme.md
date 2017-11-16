@@ -97,6 +97,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
     - [Google Maps API for Android](https://developers.google.com/maps/android/)
     - [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) Includes APIs for static vector and raster maps, camera use, navigation, and custom marker drawing.
+- **Android Library**
+    - [TileView](https://github.com/moagrius/TileView) - Asynchronously display tile-based images, with additional functionality for 2D map.
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
@@ -120,6 +122,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mySQL](https://www.mysql.com/) - the world's most popular open source database
 - [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
 - [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
+- [GeoCouch](https://github.com/couchbase/geocouch) - is a spatial extension for Couchbase(https://www.couchbase.com/) and CouchDB(http://couchdb.apache.org/).
 
 ## Map Render Engine
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
