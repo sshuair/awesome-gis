@@ -187,6 +187,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Remote sensing imge](http://earthexplorer.usgs.gov/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
     - [Geofabrik](http://download.geofabrik.de/)
+    - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
 
 ----
 ## Conference & Communities
