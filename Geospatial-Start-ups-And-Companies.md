@@ -32,6 +32,7 @@
 |   [Garmin](http://www.garmin.com/garmin/cms/site/us)  |   Navigation  |   Olathe, KS  |   US  |   1989    |
 |   [Geofeedia](http://geofeedia.com/)  |   LBMarketing |   Chicago, IL |   US  |   2011    |
 |   [Geoloqi](http://geoloqi.com/)  |   Maps    |   Portland, OR    |   US  |   2010    |
+|   [GISbiz](http://www.gisbiz.com/)   |   Consulting |   Nashville, TN  |   US  |   2003    |
 |   [GIS Cloud](http://www.giscloud.com/)   |   GIS |   London  |   UK  |   2008    |
 |   [Google](http://www.google.com/)    |   Maps    |   Mountain View, CA   |   US  |   1998    |
 |   [Here](http://here.com/)    |   Maps    |   Berlin  |   Germany |   2012    |
