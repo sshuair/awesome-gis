@@ -85,7 +85,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [turf.js](http://turfjs.org/) - Advanced geospatial analysis for browsers and node supported by Mapbox
 - [Polymaps](http://polymaps.org/) - A JavaScript library for image- and vector-tiled maps using SVG
 - [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
-- [Tangram](https://github.com/tangrams/tangram) - A javaScript library for rendering 2D & 3D maps live in a web browser with WebGL
+- [Tangram](https://github.com/tangrams/tangram) - A JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL
+- [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps. 
 
 ## iOS & Android
 - **iOS**
