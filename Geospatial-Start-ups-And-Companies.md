@@ -66,6 +66,7 @@
 |   [Micello](http://www.micello.com/)  |   Indoor  |   Santa Clara, CA |   US  |   2007    |
 |   [Moovit](http://moovitapp.com/) |   Transit |   Ness Ziona  |   Israel  |   2011    |
 |   [Navigine](https://navigine.com/)   |   Indoor  |   Wilmington  |   US  |   2011    |
+|   [NextGIS](http://nextgis.com/)   |   GIS  |   Moscow  |   Russia  |   2010    |
 |   [Navmii](http://www.navmii.com/)    |   Navigation  |   San Francisco, CA   |   US  |   2010    |
 |   [Nextome](http://www.nextome.org/)  |   Indoor  |   Valenzano   |   Italy   |   2013    |
 |   [Nofity Nearby](http://www.notifynearby.com/)   |   LBMarketing |   New York, NY    |   US  |   2015    |

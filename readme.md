@@ -67,6 +67,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
+- [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 
 
 ## Front-end Framework
@@ -93,11 +94,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
     - [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
+    - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
 
 - **Android**
     - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
     - [Google Maps API for Android](https://developers.google.com/maps/android/)
     - [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) Includes APIs for static vector and raster maps, camera use, navigation, and custom marker drawing.
+    - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
@@ -141,6 +144,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
+- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 
 
 ----
