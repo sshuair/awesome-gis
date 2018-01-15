@@ -35,7 +35,7 @@
 |   [GISbiz](http://www.gisbiz.com/)   |   Consulting |   Nashville, TN  |   US  |   2003    |
 |   [GIS Cloud](http://www.giscloud.com/)   |   GIS |   London  |   UK  |   2008    |
 |   [Google](http://www.google.com/)    |   Maps    |   Mountain View, CA   |   US  |   1998    |
-|   [Here](http://here.com/)    |   Maps    |   Berlin  |   Germany |   2012    |
+|   [HERE](http://here.com/)    |   Maps    |   Eindhoven  |   Netherlands |   2012    |
 |   [Hivemapper](http://hivemapper.com/home)    |   Drones  |   Burlingame, CA  |   US  |   2014    |
 |   [Hudway](http://hudwayglass.com/)   |   Navigation  |   Marina Del Rey, CA  |   US  |   2013    |
 |   [ifinity](http://www.getifinity.com/)   |   LBMarketing |   Warsaw  |   Poland  |   2013    |
@@ -43,6 +43,7 @@
 |   [IndoorAtlas](http://www.indooratlas.com/)  |   Indoor  |   Palo Alto, CA   |   US  |   2012    |
 |   [Inrix](http://www.inrix.com/)  |   Traffic |   Kirkland, WA    |   US  |   2004    |
 |   [Intergraph](http://www.intergraph.com/)    |   GIS |   Madison, AL |   US  |   1969    |
+|   [Klokan Technologies](https://www.klokantech.com/)    |   GIS |   Unterageri  |   Switzerland  |   2011    |
 |   [Kontakt.io](http://kontakt.io/)    |   LBMarketing |   Kraków  |   Poland  |   2013    |
 |   [Life360](http://www.life360.com/)  |   LBS |   San Francisco, CA   |   US  |   2008    |
 |   [Locaid](http://www.loc-aid.com/)   |   Location Big Data   |   Carlsbad, CA    |   US  |   2005    |
@@ -70,6 +71,7 @@
 |   [Navmii](http://www.navmii.com/)    |   Navigation  |   San Francisco, CA   |   US  |   2010    |
 |   [Nextome](http://www.nextome.org/)  |   Indoor  |   Valenzano   |   Italy   |   2013    |
 |   [Nofity Nearby](http://www.notifynearby.com/)   |   LBMarketing |   New York, NY    |   US  |   2015    |
+|   [OctoGEO](https://octogeo.com/)    |   Maps |   Brno  |   Czech Republic |   2015    |
 |   [Pitney Bowes](http://www.pb.com/)  |   GIS |   Stamford, CT    |   US  |   1920    |
 |   [Placeable](http://placeable.com/)  |   Location Big Data   |   Denver, CO  |   US  |   1996    |
 |   [PlaceIQ](http://www.placeiq.com/)  |   Location Big Data   |   New York, NY    |   US  |   2010    |
