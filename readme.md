@@ -68,6 +68,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
+- [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
 
 
 ## Front-end Framework
@@ -88,7 +89,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
 - [Tangram](https://github.com/tangrams/tangram) - A JavaScript library for rendering 2D & 3D maps live in a web browser with WebGL
 - [Mapv](https://github.com/huiyan-fe/mapv/) - A library of geography visualization
-- [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps
+- [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
+- [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
+
 
 ## iOS & Android
 - **iOS**
@@ -135,7 +138,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
-- [Mapzen](https://mapzen.com/) - An open, sustainable, and accessible mapping platform. Their tools let you display, search, and navigate your world.
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
