@@ -62,7 +62,6 @@
 |   [Mapsense](http://www.mapsense.co/) |   Maps    |   San Francisco, CA   |   US  |   2013    |
 |   [Maptia](http://maptia.com/)    |   Maps    |   Seattle, WA |   US  |   2012    |
 |   [Maptiks](http://www.maptiks.com/)  |   Maps    |   British Columbia    |   Canada  |   2014    |
-|   [Mapzen](https://mapzen.com/)   |   Maps    |   New York    |   US  |   2013    |
 |   [Media mobile](http://www.mediamobile.com/index.php/en/)    |   Traffic |   Paris   |   France  |   2005    |
 |   [Micello](http://www.micello.com/)  |   Indoor  |   Santa Clara, CA |   US  |   2007    |
 |   [Moovit](http://moovitapp.com/) |   Transit |   Ness Ziona  |   Israel  |   2011    |
