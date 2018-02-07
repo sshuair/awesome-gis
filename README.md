@@ -154,23 +154,26 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 ## Data Format
+- **[Vector Formats](http://www.gdal.org/ogr_formats.html)** -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo (tab and mid/mif), GML, KML, PostGIS, Oracle Spatial, GeoPackage, ...
+- **[Raster Formats](http://www.gdal.org/formats_list.html)** - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, GeoPackage, ...
 - [Shapefile](https://en.wikipedia.org/wiki/Shapefile)
 - [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
 - [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
 - [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
 - [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
 - [SLD](http://www.opengeospatial.org/standards/sld) - An XML schema for describing the appearance of map layers.
-- [KMZ/KML]
+- [KMZ/KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language) - An XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.
+- [GeoTIFF](https://trac.osgeo.org/geotiff/) - A public domain metadata standard which allows georeferencing information to be embedded within a TIFF file.
+- [MapBox Vector Tile](https://github.com/mapbox/vector-tile-spec) - Packets of geographic data, packaged into pre-defined roughly-square shaped "tiles" for transfer over the web. 
+- [MBTiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing arbitrary tiled map data in SQLite databases for immediate usage and for efficient transfer.
 - [FileGDB]
 - [DXF]
 - [ArcInfo Coverage]
 - [E00 ArcInfo Interchange]
 - [Esri Grid]
-- [GeoTIFF]
-- [Erdas Imagine]
 - [HDF]
-- [MBTiles]
-- [MapBox Vector Tile]
+
+
 
 ----
 ## Data
