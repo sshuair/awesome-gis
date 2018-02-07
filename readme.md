@@ -1,4 +1,4 @@
-# Awesome GIS
+# Awesome GIS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sshuair/awesome-gis)
 
 Awesome GIS is for collecting the [geographic information system (GIS) ](https://en.wikipedia.org/wiki/Geographic_information_system) related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
@@ -42,6 +42,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
+- [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -134,6 +135,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
+- [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
 
 ## Saas
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
