@@ -16,8 +16,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Library (non-web)](#geospatial-library-non-web)
 - [Spatial Database](#spatial-database)
 - [Map Render Engine](#map-render-engine)
-- [Saas](#saas)
 - [Data Format](#data-format)
+- [Saas](#saas)
 - [Data](#data)
 - [Conference & Communities](#conference--communities)
 - [News Site](#news-site)
@@ -43,6 +43,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -109,6 +110,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
+
 ## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
@@ -121,6 +123,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
 
+
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
@@ -132,28 +135,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
 - [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
 
+
 ## Map Render Engine
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 - [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
 
-## Saas
-- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
-- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
-- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
-- [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
-- [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
-- [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
-- [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
-- [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
-- [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
-- [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
-- [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
-- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 
-
-----
 ## Data Format
 - **[Vector Formats](http://www.gdal.org/ogr_formats.html)** -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
 - **[Raster Formats](http://www.gdal.org/formats_list.html)** - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
@@ -175,7 +164,21 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [HDF]
 
 
-----
+## Saas
+- [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
+- [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
+- [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
+- [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
+- [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
+- [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
+- [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
+- [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
+- [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+
+
 ## Data
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
@@ -202,7 +205,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
 
-----
+
 ## Conference & Communities
 - **Conference**
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
@@ -218,7 +221,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GIS-Lab](http://gis-lab.info/) - informal community of russian-speaking GIS/RS specialists, we get better ourselves and help get better others
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
  
-----
+
 ## News Site
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
 - [The GIS News Tweets Daily](http://paper.li/gisuser)
@@ -234,7 +237,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MAPCITE](https://www.mapcite.com/default.aspx)
 - [Geospatial World](http://www.geospatialworld.net/)
 
-----
+
 ## Blogs
 - [Wiki.GIS.com](http://wiki.gis.com/wiki/index.php/Main_Page)  - The GIS Encyclopedia
 - [Geo Blogs](http://www.gisdoctor.com/site/gis-help/blogs/)
@@ -245,7 +248,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Gretchen Peterson](http://gretchenpeterson.com/)
 - [ KARTO PICS](http://kartopics.com/)
 
-----
+
 ## Amazing Map Site
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
@@ -263,24 +266,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 
-----
+
 ## MOOC
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
 
----
+
 ## Related Resources
 - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
 
----
+
 ## Geospatial Start-ups And Companies
 [Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
 
 
-
-----
 ## Reference:
 >1. [List of geographic information systems software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
 >2. [osgeo](http://www.osgeo.org/)
