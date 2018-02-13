@@ -178,6 +178,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+- [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 
 
 ## Data
