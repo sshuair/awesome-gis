@@ -122,6 +122,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
+- [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 
 
 ## Spatial Database
