@@ -123,6 +123,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
+- [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 
 
 ## Spatial Database
@@ -178,6 +179,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图无忧](http://www.dituwuyou.com/) - A enterprise-level map service (Chinese)
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+- [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 
 
 ## Data
