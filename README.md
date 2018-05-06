@@ -117,6 +117,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
+- [Pyproj](https://github.com/jswhit/pyproj) - python interface to PROJ4 library for cartographic transformations
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane
 - [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
 - [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data
