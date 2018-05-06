@@ -109,6 +109,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) Includes APIs for static vector and raster maps, camera use, navigation, and custom marker drawing.
     - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
     - [TileView](https://github.com/moagrius/TileView) - Asynchronously display tile-based images, with additional functionality for 2D map.
+    - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
     
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
