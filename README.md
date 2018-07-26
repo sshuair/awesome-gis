@@ -81,6 +81,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 - [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
+- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
 - [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
 - [geomajas-client javascript](http://www.geomajas.org/client-javascript) - Open source javascript mapping API for cool maps and apps
@@ -94,7 +95,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
-
 
 ## iOS & Android
 - **iOS**
