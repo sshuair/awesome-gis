@@ -54,6 +54,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 
 ## Web Map Server
+- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
@@ -130,6 +131,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
+- [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
 
 
 ## Spatial Database
