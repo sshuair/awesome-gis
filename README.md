@@ -77,11 +77,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Leaflet](http://leafletjs.com/) - Open-source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [OpenLayer](http://openlayers.org/) - Open-source javascript map viewing library
+- [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
 - [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 - [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
-- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
 - [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
 - [geomajas-client javascript](http://www.geomajas.org/client-javascript) - Open source javascript mapping API for cool maps and apps
