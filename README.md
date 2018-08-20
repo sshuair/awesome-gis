@@ -71,6 +71,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 - [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
+- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
 
 
 ## Front-end Framework
@@ -94,6 +95,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
+- [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap
 
 
 ## iOS & Android
@@ -129,6 +131,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
+- [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
 
 
 ## Spatial Database
