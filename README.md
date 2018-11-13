@@ -38,12 +38,12 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas
 - [SharpMap](https://sharpmap.codeplex.com/) - An mapping library in web and desktop applications built in .NET
-- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
+- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
-
+- [mapinfo](https://www.pitneybowes.com/ca/en/location-intelligence/geographic-information-systems/mapinfo-pro.html) - Access more data, gain richer insight and find the right answer with ease
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -60,18 +60,18 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
 - [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
-- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
-- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
+- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering
+- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications
 - [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [mapbender3](http://mapbender3.org/) - Publishing spatial data infrastructure services on the Symfony 2 PHP
 - [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
-- [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
+- [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data.
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 - [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
-- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
+- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
 
 
 ## Front-end Framework
@@ -112,7 +112,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
     - [TileView](https://github.com/moagrius/TileView) - Asynchronously display tile-based images, with additional functionality for 2D map.
     - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
-    
+
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
@@ -129,7 +129,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
-- [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
+- [sf](https://github.com/r-spatial/sf) - R tools for geographic data.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
 
@@ -150,7 +150,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
-- [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
+- [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 
 
 ## Data Format
@@ -164,7 +164,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SLD](http://www.opengeospatial.org/standards/sld) - An XML schema for describing the appearance of map layers.
 - [KMZ/KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language) - An XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.
 - [GeoTIFF](https://trac.osgeo.org/geotiff/) - A public domain metadata standard which allows georeferencing information to be embedded within a TIFF file.
-- [MapBox Vector Tile](https://github.com/mapbox/vector-tile-spec) - Packets of geographic data, packaged into pre-defined roughly-square shaped "tiles" for transfer over the web. 
+- [MapBox Vector Tile](https://github.com/mapbox/vector-tile-spec) - Packets of geographic data, packaged into pre-defined roughly-square shaped "tiles" for transfer over the web.
 - [MBTiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing arbitrary tiled map data in SQLite databases for immediate usage and for efficient transfer.
 - [FileGDB]
 - [DXF]
@@ -231,7 +231,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GIS stackexchange](http://gis.stackexchange.com/)
     - [GIS-Lab](http://gis-lab.info/) - informal community of russian-speaking GIS/RS specialists, we get better ourselves and help get better others
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
- 
+
 
 ## News Site
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
@@ -299,5 +299,3 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
 >3. [brandonxiang's Awesome GIS](http://www.jianshu.com/p/3b3efa92dd6d)
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
-
-
