@@ -80,6 +80,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenLayer](http://openlayers.org/) - Open-source javascript map viewing library
 - [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
 - [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
+- [three-geo](https://github.com/w3reality/three-geo) - Is a three.js based geographic visualization library
 - [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
 - [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
 - [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
