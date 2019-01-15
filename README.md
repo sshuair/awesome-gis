@@ -134,6 +134,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
+- [DotSpatial](https://github.com/DotSpatial/DotSpatial) - A geographic information system library written for .NET Framework.
 
 
 ## Spatial Database
