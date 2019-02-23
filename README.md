@@ -8,30 +8,37 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
 
-- [Desktop Application](#desktop-application)
-- [3D Application](#3d-application)
-- [Web Map Server](#web-map-server)
-- [Front-end Framework](#front-end-framework)
-- [iOS & Android](#ios--android)
-- [Geospatial Library (non-web)](#geospatial-library-non-web)
-- [Spatial Database](#spatial-database)
-- [Map Render Engine](#map-render-engine)
-- [Data Format](#data-format)
-- [Saas](#saas)
-- [Data](#data)
-- [Conference & Communities](#conference--communities)
-- [News Site](#news-site)
-- [Amazing Map Site](#amazing-map-site)
-- [MOOC](#mooc)
-- [Related Resources](#related-resources)
-- [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
+- [Awesome GIS ![Awesome](https://github.com/sshuair/awesome-gis)](#awesome-gis-awesomehttpsgithubcomsshuairawesome-gis)
+  - [GIS Desktop Application](#gis-desktop-application)
+  - [RS Desktop Application](#rs-desktop-application)
+  - [3D Application](#3d-application)
+  - [Web Map Server](#web-map-server)
+  - [Front-end Framework](#front-end-framework)
+  - [iOS & Android](#ios--android)
+  - [Deep Learning](#deep-learning)
+    - [Framework for Geospatial](#framework-for-geospatial)
+    - [Datasets](#datasets)
+  - [Geospatial Library (non-web)](#geospatial-library-non-web)
+  - [Spatial Database](#spatial-database)
+  - [Map Render Engine](#map-render-engine)
+  - [Data Format](#data-format)
+  - [Saas](#saas)
+  - [Data](#data)
+  - [Conference & Communities](#conference--communities)
+  - [News Site](#news-site)
+  - [Blogs](#blogs)
+  - [Amazing Map Site](#amazing-map-site)
+  - [MOOC](#mooc)
+  - [Related Resources](#related-resources)
+  - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
+  - [Reference:](#reference)
 
 
 ----
 
-## Desktop Application
-- [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
-- [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
+## GIS Desktop Application
+- [ArcGIS](https://www.arcgis.com/) :star2: - A enterprise level desktop GIS software published by Ersi
+- [QGIS](http://qgis.org/en/site/) :star2: - A cross-platform free and open-source desktop GIS software
 - [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
@@ -44,6 +51,17 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 
+## RS Desktop Application
+- [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing application.[Commercial]
+- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing application. [Commercial]
+- [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
+- [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A software for object-based image analysis.
+- [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data. [Commercial]
+- [Google Earth](https://www.google.com/earth/) - is a computer program that renders a 3D representation of Earth based on satellite imagery.
+- [Google Earth Studio](https://www.google.com/earth/studio/) - A powerful earth motion design software.
+- [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform.
+- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) -  A open-source library for remote sensing image processing.
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -116,6 +134,17 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
+## Deep Learning
+### Framework for Geospatial
+- [robosat]
+- [rastervision]
+- [label-maker]
+- [Awesome Semantic Segmentation]()
+- [deep learning object detection]([deep learning object detection](https://github.com/hoya012/deep_learning_object_detection))
+- [eo-learn](https://github.com/sentinel-hub/eo-learn)
+
+### Datasets
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning
 
 ## Geospatial Library (non-web)
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
