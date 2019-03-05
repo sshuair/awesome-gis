@@ -9,16 +9,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 **Table Of Contents:**
 - [Geographic Information System SoftWare](#geographic-information-system-software)
 - [Remote Sensing Software](#remote-sensing-software)
+  - [Atmospheric Correction](#atmospheric-correction)
 - [3D Application](#3d-application)
 - [Front-end Framework](#front-end-framework)
 - [Web Map Server](#web-map-server)
+- [Spatial Database](#spatial-database)
 - [Mobile Develop Tools](#mobile-develop-tools)
 - [Deep Learning](#deep-learning)
   - [Deep Learning Framework for Geospatial](#deep-learning-framework-for-geospatial)
   - [Deep Learning Datasets](#deep-learning-datasets)
-- [Spatial Database](#spatial-database)
 - [Map Render Engine](#map-render-engine)
-- [Geospatial Library (non-web)](#geospatial-library-non-web)
+- [Geospatial Library](#geospatial-library)
+  - [C++](#c)
+  - [R](#r)
+  - [Python](#python)
+  - [Golang](#golang)
+  - [Java](#java)
 - [Cloud Service](#cloud-service)
   - [DaaS](#daas)
   - [SaaS](#saas)
@@ -31,6 +37,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Design Material](#design-material)
   - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
   - [MOOC](#mooc)
+- [awesome-awesome](#awesome-awesome)
 - [Reference:](#reference)
 
 
@@ -52,6 +59,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 - [Mapinfo](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A desktop geographic information system software.
 - [SAGA](http://www.saga-gis.org/en/index.html) - System for automated geoscientific analyses.
+- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
 
 
 ## Remote Sensing Software
@@ -66,6 +74,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) -  A open-source library for remote sensing image processing.
 
+### Atmospheric Correction
+- [6S]
+
 
 ## 3D Application
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - A glimpse into Skyline's cutting-edge 3D geospatial visualization products, and their potential to transform the way your organization makes decisions, shares information and manages its assets
@@ -73,7 +84,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 - [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
-
 
 
 ## Front-end Framework
@@ -100,7 +110,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 
 
-
 ## Web Map Server
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
@@ -120,6 +129,19 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 - [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
+
+
+
+## Spatial Database
+- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
+- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
+- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
+- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
+- [mySQL](https://www.mysql.com/) - the world's most popular open source database
+- [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
+- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
+- [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
 
 
 ## Mobile Develop Tools
@@ -154,40 +176,38 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 
 
-## Spatial Database
-- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
-- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
-- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
-- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
-- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
-- [mySQL](https://www.mysql.com/) - the world's most popular open source database
-- [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
-- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
-- [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
-
-
 ## Map Render Engine
-- [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
+
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 - [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
 
 
-## Geospatial Library (non-web)
+## Geospatial Library
+
+### C++
 - [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
+- [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
-- [Pyproj](https://github.com/jswhit/pyproj) - python interface to PROJ4 library for cartographic transformations
-- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane
-- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
-- [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data
-- [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features
-- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
-- [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
-- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
+### R
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
+
+### Python
+- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
+- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
+- [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data)
+- [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+- [Pyproj](https://github.com/jswhit/pyproj) - python interface to PROJ4 library for cartographic transformations
+- [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features for Python GIS.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
+### Golang
+
+### Java
+- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
+
+
 
 ## Cloud Service
 ### DaaS
@@ -304,6 +324,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
+
+
+## awesome-awesome
 
 
 ## Reference:
