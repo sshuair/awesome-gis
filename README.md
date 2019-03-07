@@ -84,6 +84,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations at any part of the world
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  Providing features for displaying with geographic data
 - [Google Earth](http://earth.google.com/) - Bringing a earth view for global mapping
+- [three.js](http://threejs.org/) - A javascript 3D library which makes WebGL simpler
+- [CesiumJS](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 
 
 ## Front-end Framework
@@ -167,7 +169,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
 - [rastervision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery. 
 - [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
-- [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.x`
+- [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - A code list of semantic segmentation.
 - [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 
@@ -254,6 +256,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
+    - [Open Street Map](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map
     - [199it](http://hao.199it.com/)
     - [Harvard Dataverse](https://dataverse.harvard.edu/)
     - [WorldPop](http://www.worldpop.org.uk/)
@@ -268,7 +271,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [pm2.5-China](http://www.pm25.in/)
-    - [Remote sensing imge](http://earthexplorer.usgs.gov/)
+    - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
