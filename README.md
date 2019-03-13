@@ -9,7 +9,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 **Table Of Contents:**
 - [Geographic Information System SoftWare](#geographic-information-system-software)
 - [Remote Sensing Software](#remote-sensing-software)
-  - [Atmospheric Correction](#atmospheric-correction)
 - [3D Application](#3d-application)
 - [Front-end Framework](#front-end-framework)
 - [Web Map Server](#web-map-server)
@@ -23,7 +22,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [C++](#c)
   - [R](#r)
   - [Python](#python)
-  - [Golang](#golang)
   - [Java](#java)
 - [Cloud Service](#cloud-service)
   - [DaaS](#daas)
@@ -73,9 +71,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform.
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) -  A open-source library for remote sensing image processing.
-
-### Atmospheric Correction
-- [6S]
 
 
 ## 3D Application
@@ -192,6 +187,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
 - [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
+
 ### R
 - [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
 
@@ -204,10 +200,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features for Python GIS.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
-### Golang
 
 ### Java
 - [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
+- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
 
 
 
