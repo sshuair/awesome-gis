@@ -1,37 +1,50 @@
-# Awesome GIS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sshuair/awesome-gis)
+Awesome GIS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sshuair/awesome-gis)
 
-Awesome GIS is for collecting the [geographic information system (GIS) ](https://en.wikipedia.org/wiki/Geographic_information_system) related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
+Awesome GIS is for collecting the geospatial related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
 **Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
-
-- [Desktop Application](#desktop-application)
+- [Geographic Information System SoftWare](#geographic-information-system-software)
+- [Remote Sensing Software](#remote-sensing-software)
 - [3D Application](#3d-application)
 - [Web Map Server](#web-map-server)
 - [Front-end Framework](#front-end-framework)
-- [iOS & Android](#ios--android)
-- [Geospatial Library (non-web)](#geospatial-library-non-web)
+- [Web Map Server](#web-map-server-1)
 - [Spatial Database](#spatial-database)
+- [Mobile Develop Tools](#mobile-develop-tools)
+- [Deep Learning](#deep-learning)
+  - [Deep Learning Framework for Geospatial](#deep-learning-framework-for-geospatial)
+  - [Deep Learning Datasets](#deep-learning-datasets)
 - [Map Render Engine](#map-render-engine)
-- [Data Format](#data-format)
-- [Saas](#saas)
-- [Data](#data)
+- [Geospatial Library](#geospatial-library)
+  - [C++](#c)
+  - [R](#r)
+  - [Python](#python)
+  - [Java](#java)
+- [Cloud Service](#cloud-service)
+  - [DaaS](#daas)
+  - [SaaS](#saas)
 - [Conference & Communities](#conference--communities)
+- [Data](#data)
 - [News Site](#news-site)
 - [Amazing Map Site](#amazing-map-site)
-- [MOOC](#mooc)
-- [Related Resources](#related-resources)
-- [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
+- [Other](#other)
+  - [Data Format](#data-format)
+  - [Design Material](#design-material)
+  - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
+  - [MOOC](#mooc)
+- [awesome-awesome](#awesome-awesome)
+- [Reference:](#reference)
 
 
 ----
 
-## Desktop Application
-- [ArcGIS](https://www.arcgis.com/) - A enterprise level desktop GIS software published by Ersi
-- [QGIS](http://qgis.org/en/site/) - A cross-platform free and open-source desktop GIS software
+## Geographic Information System SoftWare
+- [ArcGIS](https://www.arcgis.com/) :star2: - A enterprise level desktop GIS software published by Ersi
+- [QGIS](http://qgis.org/en/site/) :star2: - A cross-platform free and open-source desktop GIS software
 - [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
@@ -43,6 +56,22 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+- [Mapinfo](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A desktop geographic information system software.
+- [SAGA](http://www.saga-gis.org/en/index.html) - System for automated geoscientific analyses.
+- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
+
+
+## Remote Sensing Software
+- [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing application.[Commercial]
+- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing application. [Commercial]
+- [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
+- [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A software for object-based image analysis.
+- [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data. [Commercial]
+- [Google Earth](https://www.google.com/earth/) - is a computer program that renders a 3D representation of Earth based on satellite imagery.
+- [Google Earth Studio](https://www.google.com/earth/studio/) - A powerful earth motion design software.
+- [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform.
+- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) -  A open-source library for remote sensing image processing.
 
 
 ## 3D Application
@@ -97,10 +126,44 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
-- [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap
+- [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 
 
-## iOS & Android
+## Web Map Server
+- [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
+- [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
+- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
+- [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
+- [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
+- [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
+- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
+- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
+- [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
+- [mapbender3](http://mapbender3.org/) - Publishing spatial data infrastructure services on the Symfony 2 PHP
+- [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
+- [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
+- [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
+- [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
+- [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
+- [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
+- [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
+- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
+
+
+
+## Spatial Database
+- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
+- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
+- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
+- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
+- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
+- [mySQL](https://www.mysql.com/) - the world's most popular open source database
+- [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
+- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
+- [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
+
+
+## Mobile Develop Tools
 - **iOS**
     - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
@@ -118,65 +181,61 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
 
-
-## Geospatial Library (non-web)
-- [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
-- [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
-- [Pyproj](https://github.com/jswhit/pyproj) - python interface to PROJ4 library for cartographic transformations
-- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane
-- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
-- [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data
-- [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features
-- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
-- [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
-- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
-- [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
-- [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
-- [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
+## Deep Learning
+### Deep Learning Framework for Geospatial
+- [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
+- [rastervision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery. 
+- [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
+- [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.
+- [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - A code list of semantic segmentation.
+- [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 
 
-## Spatial Database
-- [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
-- [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
-- [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
-- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
-- [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
-- [mySQL](https://www.mysql.com/) - the world's most popular open source database
-- [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
-- [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
-- [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
+### Deep Learning Datasets
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
 
 
 ## Map Render Engine
-- [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node
+
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 - [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
 
 
-## Data Format
-- **[Vector Formats](http://www.gdal.org/ogr_formats.html)** -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
-- **[Raster Formats](http://www.gdal.org/formats_list.html)** - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
-- [Shapefile](https://en.wikipedia.org/wiki/Shapefile)
-- [GeoJson](http://www.geojson.org/) - Represent geospatial information by json
-- [TopoJson](https://github.com/mbostock/topojson/wiki) - Represent geospatial information by json in a smaller side
-- [TileJSON](https://github.com/mapbox/tilejson-spec) - Represent vector tile provider by json
-- [WKT](https://en.wikipedia.org/wiki/Well-known_text) - A text markup language for representing vector geometry objects on a map
-- [SLD](http://www.opengeospatial.org/standards/sld) - An XML schema for describing the appearance of map layers.
-- [KMZ/KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language) - An XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.
-- [GeoTIFF](https://trac.osgeo.org/geotiff/) - A public domain metadata standard which allows georeferencing information to be embedded within a TIFF file.
-- [MapBox Vector Tile](https://github.com/mapbox/vector-tile-spec) - Packets of geographic data, packaged into pre-defined roughly-square shaped "tiles" for transfer over the web. 
-- [MBTiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing arbitrary tiled map data in SQLite databases for immediate usage and for efficient transfer.
-- [FileGDB]
-- [DXF]
-- [ArcInfo Coverage]
-- [E00 ArcInfo Interchange]
-- [Esri Grid]
-- [HDF]
+## Geospatial Library
+
+### C++
+- [GDAL](http://www.gdal.org/) - A translator library for raster and vector geospatial data formats
+- [mapnik](http://mapnik.org/) - Mapnik combines pixel-perfect image output with lightning-fast cartographic algorithms, and exposes interfaces in C++, Python, and Node.
+- [Proj.4](https://github.com/OSGeo/proj.4) - A library for cartographic projection
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source C++ library for remote sensing images processing
+
+### R
+- [sf](https://github.com/r-spatial/sf) - R tools for geographic data. 
+
+### Python
+- [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
+- [Fiona](http://github.com/toblerity/fiona/) - IO for GIS Data writted by Python
+- [Rasterio](https://github.com/mapbox/rasterio) - A library for reads and writes geospatial raster data)
+- [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+- [Pyproj](https://github.com/jswhit/pyproj) - python interface to PROJ4 library for cartographic transformations
+- [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features for Python GIS.
+- [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
+- [SuperMap iClient Python](http://iclientpy.supermap.io/) -  Cloud GIS client Python sdk supported by SuperMap.
+
+### Java
+- [GeoTools](http://www.geotools.org/) - An open source Java library that provides tools for geospatial data
+- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
 
 
-## Saas
+
+## Cloud Service
+### DaaS
+- [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
+- [Radiant Earth](https://www.radiant.earth/) - A plantform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
+- [Descartes Labs](https://www.descarteslabs.com/solutions.html) - A platform for complex global systems.
+
+### SaaS
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
@@ -190,33 +249,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
-
-
-## Data
-- **Data List Site**
-    - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
-    - [Free GIS Data](http://freegisdata.rtwilson.com/)
-    - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
-
-- **Data Site**
-    - [199it](http://hao.199it.com/)
-    - [Harvard Dataverse](https://dataverse.harvard.edu/)
-    - [WorldPop](http://www.worldpop.org.uk/)
-    - [NYC Open Data](https://nycopendata.socrata.com/)
-    - [Los Angeles GeoHub](http://geohub.lacity.org/)
-    - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
-    - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
-    - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
-    - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
-    - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
-    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
-    - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
-    - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
-    - [pm2.5-China](http://www.pm25.in/)
-    - [Remote sensing imge](http://earthexplorer.usgs.gov/)
-    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
-    - [Geofabrik](http://download.geofabrik.de/)
-    - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
 
 
 ## Conference & Communities
@@ -235,6 +267,34 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
  
 
+## Data
+- **Data List Site**
+    - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
+    - [Free GIS Data](http://freegisdata.rtwilson.com/)
+    - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
+
+- **Data Site**
+    - [Open Street Map](https://www.openstreetmap.org/) - OpenStreetMap is the free wiki world map
+    - [199it](http://hao.199it.com/)
+    - [Harvard Dataverse](https://dataverse.harvard.edu/)
+    - [WorldPop](http://www.worldpop.org.uk/)
+    - [NYC Open Data](https://nycopendata.socrata.com/)
+    - [Los Angeles GeoHub](http://geohub.lacity.org/)
+    - [Global LUCC data (30m)](http://data.ess.tsinghua.edu.cn/)
+    - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
+    - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
+    - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
+    - [Gridded Population of the World (GPW), v3 | SEDAC](http://sedac.ciesin.columbia.edu/data/collection/gpw-v3)
+    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+    - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
+    - [pm2.5-China](http://www.pm25.in/)
+    - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
+    - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
+    - [Geofabrik](http://download.geofabrik.de/)
+    - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
+
+
 ## News Site
 - [GIS Lounge - Maps and GIS](http://www.gislounge.com/)
 - [The GIS News Tweets Daily](http://paper.li/gisuser)
@@ -249,17 +309,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [canadiangis](http://canadiangis.com/)
 - [MAPCITE](https://www.mapcite.com/default.aspx)
 - [Geospatial World](http://www.geospatialworld.net/)
-
-
-## Blogs
-- [Wiki.GIS.com](http://wiki.gis.com/wiki/index.php/Main_Page)  - The GIS Encyclopedia
-- [Geo Blogs](http://www.gisdoctor.com/site/gis-help/blogs/)
-- [mastermaps](http://mastermaps.com/)
-- [Anita Graser](http://anitagraser.com/)
-- [Charley](https://cartoblography.wordpress.com/)
-- [Mike Bostock](https://bost.ocks.org/mike/)
-- [Gretchen Peterson](http://gretchenpeterson.com/)
-- [ KARTO PICS](http://kartopics.com/)
 
 
 ## Amazing Map Site
@@ -280,19 +329,25 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 
 
-## MOOC
+## Other
+### Data Format
+- **[Vector Formats](http://www.gdal.org/ogr_formats.html)** -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
+- **[Raster Formats](http://www.gdal.org/formats_list.html)** - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
+
+### Design Material
+- [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
+
+### Geospatial Start-ups And Companies
+[Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
+
+### MOOC
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
 
 
-## Related Resources
-- [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
-
-
-## Geospatial Start-ups And Companies
-[Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
+## awesome-awesome
 
 
 ## Reference:
