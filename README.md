@@ -937,6 +937,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
 >3. [brandonxiang's Awesome GIS](http://www.jianshu.com/p/3b3efa92dd6d)
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
->5. [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial)
+>5. [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - most Geospatial Library content come from this ropository.
 
 
