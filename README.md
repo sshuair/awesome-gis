@@ -7,7 +7,6 @@ Awesome GIS is for collecting the geospatial related sources, including cartogra
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
-- [Awesome GIS ![Awesome](https://github.com/sshuair/awesome-gis)](#awesome-gis-awesomehttpsgithubcomsshuairawesome-gis)
   - [Geographic Information System SoftWare](#geographic-information-system-software)
   - [Remote Sensing Software](#remote-sensing-software)
   - [3D Application](#3d-application)
@@ -25,6 +24,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Python](#python)
     - [Java](#java)
     - [C](#c)
+    - [R](#r)
     - [Fortran](#fortran)
     - [Go](#go)
     - [Rust](#rust)
@@ -32,7 +32,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [PHP](#php)
     - [Julia](#julia)
     - [JavaScript](#javascript)
-    - [R](#r)
     - [C Sharp](#c-sharp)
     - [Kotlin](#kotlin)
     - [Clojure](#clojure)
@@ -374,6 +373,173 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
+### R
+
+- [sp](https://cran.r-project.org/web/packages/sp/index.html)  - Classes and Methods for Spatial Data.
+- [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
+- [raster](https://cran.r-project.org/web/packages/raster/raster.pdf)  - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
+- [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
+- [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
+- [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
+- [rgrass7](https://cran.r-project.org/web/packages/rgrass7/index.html) - Interface Between GRASS 7 GIS and R.
+- [RQGIS](https://cran.r-project.org/web/packages/RQGIS/index.html) - Establishes an interface between R and QGIS.
+- [RSAGA](https://cran.r-project.org/web/packages/RSAGA/index.html) - SAGA Geoprocessing and Terrain Analysis in R.
+- [RODBC](https://cran.r-project.org/web/packages/RODBC/index.html) - ODBC Database Access.
+- [Rnetcdf](https://cran.r-project.org/web/packages/RNetCDF/index.html) - Interface to NetCDF Datasets.
+- [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) - Provides a high-level R interface to data files written using Unidata's netCDF library (version 4 or earlier).
+- [RPyGeo](https://cran.r-project.org/web/packages/RPyGeo/index.html) - ArcGIS Geoprocessing in R via Python.
+- [shapefiles](https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
+- [Rgooglemaps](https://cran.r-project.org/web/packages/RgoogleMaps/index.html) - Overlays on Google map tiles in R.
+- [leafletR](https://cran.r-project.org/web/packages/leafletR/index.html) - Interactive Web-Maps Based on the Leaflet JavaScript Library.
+- [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects.
+- [RArcInfo](https://cran.r-project.org/web/packages/RArcInfo/index.html) - Functions to import data from Arc/Info V7.x binary coverages.
+- [Akima](https://cran.r-project.org/web/packages/akima/index.html) - Interpolation of Irregularly and Regularly Spaced Data.
+- [maps](https://cran.r-project.org/web/packages/maps/index.html) - Draw Geographical Maps.
+- [PBSmapping](https://cran.r-project.org/web/packages/PBSmapping/index.html) - Mapping Fisheries Data and Spatial Analysis Tools.
+- [PBSmodelling](https://cran.r-project.org/web/packages/PBSmodelling/index.html) - Provides modelling support.
+- [Landsat](https://cran.r-project.org/web/packages/landsat/index.html) - Radiometric and topographic correction of satellite imagery.
+- [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests.
+- [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
+- [splancs](https://cran.r-project.org/web/packages/splancs/index.html) - Spatial and Space-Time Point Pattern Analysis.
+- [smacpod](https://cran.r-project.org/web/packages/smacpod/index.html) - Various statistical methods for analyzing case-control point data.
+- [DSpat](https://cran.r-project.org/web/packages/DSpat/index.html) - Fits inhomogeneous Poisson process spatial models to line transect sampling data and provides estimate of abundance within a region.
+- [spatialsegregation](https://cran.r-project.org/web/packages/spatialsegregation/index.html) - Summaries for measuring segregation/mingling in multitype spatial point patterns with graph based neighbourhood description.
+- [dbmss](https://cran.r-project.org/web/packages/dbmss/index.html) - Simple computation of spatial statistic functions of distance to characterize the spatial structures of mapped objects.
+- [latticeDensity](https://cran.r-project.org/web/packages/latticeDensity/index.html) -  Contains functions that compute the lattice-based density estimator of Barry and McIntyre.
+- [GriegSmith](https://cran.r-project.org/web/packages/GriegSmith/index.html) - Uses the Grieg-Smith method on 2 dimensional spatial data.
+- [plotKML](https://cran.r-project.org/web/packages/plotKML/index.html) - Visualization of Spatial and Spatio-Temporal Objects in Google Earth.
+- [OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html) - Access to Open Street Map Raster Images.
+- [GEOmap](https://cran.r-project.org/web/packages/GEOmap/index.html) - Topographic and Geologic Mapping.
+- [rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
+- [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html) - Visualization Methods for Raster Data.
+- [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models.
+- [spacetime](https://cran.r-project.org/web/packages/spacetime/index.html) - Classes and Methods for Spatio-Temporal Data.
+- [geoR](https://cran.r-project.org/web/packages/geoR/index.html) - Analysis of Geostatistical Data.
+- [ecespa](https://cran.r-project.org/web/packages/ecespa/index.html) - Functions for Spatial Point Pattern Analysis.
+- [mapproj](https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
+- [gstat](https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
+- [intamap](https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
+- [micromap](https://cran.r-project.org/web/packages/micromap/index.html) - Package provides linked micromaps using ggplot2.
+- [Grid2Polygons](https://cran.r-project.org/web/packages/Grid2Polygons/index.html) - Converts a spatial object from class SpatialGridDataFrame to SpatialPolygonsDataFrame.
+- [recmap](https://cran.r-project.org/web/packages/recmap/index.html) - Package provides rectangular cartograms with rectangle sizes reflecting for example population
+- [geosphere](https://cran.r-project.org/web/packages/geosphere/index.html) - Permits computations of distance and area to be carried out on spatial data in geographical coordinates.
+- [spsurvey](https://cran.r-project.org/web/packages/spsurvey/index.html) - Provides a range of sampling functions.
+- [trip](https://cran.r-project.org/web/packages/trip/index.html) - Extends sp classes to permit the accessing and manipulating of spatial data for animal tracking.
+- [GeoXp](https://cran.r-project.org/web/packages/GeoXp/index.html) - Permits interactive graphical exploratory spatial data analysis.
+- [vec2dtransf](https://cran.r-project.org/web/packages/vec2dtransf/index.html) - Package for applying affine and similarity transformations on vector spatial data (sp objects).
+- [spcosa](https://cran.r-project.org/web/packages/spcosa/index.html) - Spatial coverage sampling and random sampling from compact geographical strata created by k-means.
+- [dggridR](https://cran.r-project.org/web/packages/dggridR/index.html) - Provides an interface to DGGRID for working with discrete global grids, using hexagons, triangles, and diamonds to overcome the issue that every bin have the same area.
+- [hdeco](https://cran.r-project.org/web/packages/hdeco/index.html) -  Provides hierarchical decomposition of entropy for categorical map comparisons.
+- [geojsonio](https://cran.r-project.org/web/packages/geojsonio/index.html) - Convert data to 'GeoJSON' or 'TopoJSON' from various R classes, including vectors, lists, data frames, shape files, and spatial classes.
+- [geoaxe](https://cran.r-project.org/web/packages/geoaxe/index.html) - Split 'geospatial' objects into pieces. Includes support for some spatial object inputs, 'Well-Known Text', and 'GeoJSON'.
+- [magclass](https://cran.r-project.org/web/packages/magclass/index.html) - Data class for increased interoperability working with spatial- temporal data together with corresponding functions and methods (conversions, basic calculations and basic data manipulation).
+- [marmap](https://cran.r-project.org/web/packages/marmap/index.html) - Package is designed for downloading, plotting and manipulating bathymetric and topographic data in R.
+- [cshapes](https://cran.r-project.org/web/packages/cshapes/index.html) - Package for CShapes, a GIS dataset of country boundaries (1946-today). Includes functions for data extraction and the computation of distance matrices and -lists.
+- [taRifx](https://cran.r-project.org/web/packages/taRifx/index.html) - A collection of various utility and convenience functions.
+- [lawn](https://cran.r-project.org/web/packages/lawn/index.html) - Client for 'Turfjs' for 'geospatial' analysis. The package revolves around using 'GeoJSON' data.
+- [osmar](https://cran.r-project.org/web/packages/osmar/index.html) - Provides infrastructure to access OpenStreetMap data from different sources.
+- [gmt](https://cran.r-project.org/web/packages/gmt/index.html) - Interface between the GMT map-making software and R.
+- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps and other graphics.
+- [classInt](https://cran.r-project.org/web/packages/classInt/index.html) - Selected commonly used methods for choosing univariate class intervals for mapping or other graphics purposes.
+- [plotGoogleMaps](https://cran.r-project.org/web/packages/plotGoogleMaps/index.html) - Interactive plot device for handling the geographic data for web browsers.
+- [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html) - Adds north symbols and scale bars in kilometers to maps in geographic or metric coordinates.
+- [spatgraphs](https://cran.r-project.org/web/packages/spatgraphs/index.html) - Graphs (or networks) and graph component calculations for spatial locations
+- [geoRglm](https://cran.r-project.org/web/packages/geoRglm/index.html) - Functions for inference in generalised linear spatial models.
+- [FRK](https://cran.r-project.org/web/packages/FRK/index.html) - Is a tool for spatial/spatio-temporal modelling and prediction with large datasets.
+- [geospt](https://cran.r-project.org/web/packages/geospt/index.html) - Contains some geostatistical and radial basis functions, including prediction and cross validation.
+- [RandomFields](https://cran.r-project.org/web/packages/RandomFields/index.html) - Methods for the inference on and the simulation of Gaussian fields are provided, as well as methods for the simulation of extreme value random fields.
+- [CompRandFld](https://cran.r-project.org/web/packages/CompRandFld/index.html) - A set of procedures for the analysis of Random Fields using likelihood and non-standard likelihood methods is provided.
+- [constrainedKriging](https://cran.r-project.org/web/packages/constrainedKriging/index.html) - Provides functions for efficient computations of nonlinear spatial predictions with local change of support.
+- [spTimer](https://cran.r-project.org/web/packages/spTimer/index.html) - Fits, spatially predicts and temporally forecasts large amounts of space-time data.
+- [SpatialTools](https://cran.r-project.org/web/packages/SpatialTools/index.html) - Tools for spatial data analysis. Emphasis on kriging. Provides functions for prediction and simulation.
+- [sperrorest](https://cran.r-project.org/web/packages/sperrorest/index.html) - Implements spatial error estimation and permutation-based variable importance measures for predictive models using spatial cross-validation and spatial block bootstrap.
+- [sgeostat](https://cran.r-project.org/web/packages/sgeostat/index.html) - An Object-oriented Framework for Geostatistical Modeling in S+ containing functions for variogram estimation, variogram fitting and kriging as well as some plot functions.
+- [spatialCovariance](https://cran.r-project.org/web/packages/spatialCovariance/index.html) - Supports the computation of spatial covariance matrices for data on rectangles.
+- [tgp](https://cran.r-project.org/web/packages/tgp/index.html) - Bayesian nonstationary, semiparametric nonlinear regression and design by treed Gaussian processes (GPs) with jumps to the limiting linear model (LLM).
+- [regress](https://cran.r-project.org/web/packages/regress/index.html) - Functions to fit Gaussian linear model by maximising the residual log likelihood where the covariance structure can be written as a linear combination of known matrices.
+- [FieldSim](https://cran.r-project.org/web/packages/FieldSim/index.html) - Tools for random fields and bridges simulations.
+- [georob](https://cran.r-project.org/web/packages/georob/index.html) - Provides functions for fitting linear models with spatially correlated errors by robust and Gaussian Restricted Maximum Likelihood and for computing robust and customary point and block kriging predictions, along with utility functions for cross-validation and for unbiased back-transformation of kriging predictions of log-transformed data.
+- [ExceedanceTools](https://cran.r-project.org/web/packages/ExceedanceTools/index.html) - Tools for constructing confidence regions for exceedance regions and contour lines.
+- [deldir](https://cran.r-project.org/web/packages/deldir/index.html) - Calculates the Delaunay triangulation and the Dirichlet or Voronoi tessellation (with respect to the entire plane) of a planar point set.
+- [tripack](https://cran.r-project.org/web/packages/tripack/index.html) - A constrained two-dimensional Delaunay triangulation package providing both triangulation and generation of voronoi mosaics of irregular spaced data.
+- [ipdw](https://cran.r-project.org/web/packages/ipdw/index.html) - Functions are provided to interpolate geo-referenced point data via Inverse Path Distance Weighting.
+- [SSN](https://cran.r-project.org/web/packages/SSN/index.html) - Spatial statistical modeling and prediction for data on stream networks, including models based on in-stream distance.
+- [spmoran](https://cran.r-project.org/web/packages/spmoran/index.html) - Functions for estimating fixed and random effects eigenvector spatial filtering models.
+- [SpatialEpi](https://cran.r-project.org/web/packages/SpatialEpi/index.html) - Methods and data for cluster detection and disease mapping.
+- [OasisR](https://cran.r-project.org/web/packages/OasisR/index.html) - A set of indexes and tests for the analysis of social segregation.
+- [smerc](https://cran.r-project.org/web/packages/smerc/index.html) - Provides statistical methods for the analysis of data areal data, with a focus on cluster detection.
+- [gwrr](https://cran.r-project.org/web/packages/gwrr/index.html) - Fits geographically weighted regression (GWR) models and has tools to diagnose and remediate collinearity in the GWR models.
+- [lctools](https://cran.r-project.org/web/packages/lctools/index.html) - Package provides researchers and educators with easy-to-learn user friendly tools for calculating key spatial statistics and to apply simple as well as advanced methods of spatial analysis in real data.
+- [AMOEBA](https://cran.r-project.org/web/packages/AMOEBA/index.html) - A function to calculate spatial clusters using the Getis-Ord local statistic. It searches irregular clusters (ecotopes) on a map.
+- [sparr](https://cran.r-project.org/web/packages/sparr/index.html) - Provides functions to estimate kernel-smoothed spatial and spatio-temporal densities and relative risk functions, and perform subsequent inference.
+- [CARBayes](https://cran.r-project.org/web/packages/CARBayes/index.html) - Package implements Bayesian hierarchical spatial areal unit models.
+- [glmmBUGS](https://cran.r-project.org/web/packages/glmmBUGS/index.html) - Automates running Generalized Linear Mixed Models, including spatial models, with WinBUGS, OpenBUGS and JAGS.
+- [spaMM](https://cran.r-project.org/web/packages/spaMM/index.html) - Inference in mixed-effect models, including generalized linear mixed models with spatial correlations and models with non-Gaussian random effects.
+- [PReMiuM](https://cran.r-project.org/web/packages/PReMiuM/index.html) - Dirichlet Process Bayesian Clustering, Profile Regression.
+- [spacom](https://cran.r-project.org/web/packages/spacom/index.html) - Provides tools to construct and exploit spatially weighted context data.
+- [geospacom](https://cran.r-project.org/web/packages/geospacom/index.html) - Generates distance matrices from shape files and represents spatially weighted multilevel analysis results.
+- [spatsurv](https://cran.r-project.org/web/packages/spatsurv/index.html) - Bayesian inference for parametric proportional hazards spatial survival models; flexible spatial survival models.
+- [spBayesSurv](https://cran.r-project.org/web/packages/spBayesSurv/index.html) - Bayesian Modeling and Analysis of Spatially Correlated Survival Data.
+- [spselect](https://cran.r-project.org/web/packages/spselect/index.html) - Fits spatial scale (SS) forward stepwise regression, SS incremental forward stagewise regression, SS least angle regression (LARS), and SS lasso models.
+- [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Fit and compare Gaussian linear and nonlinear mixed-effects models.
+- [spatcounts](https://cran.r-project.org/web/packages/spatcounts/index.html) - Fit spatial CAR count regression models using MCMC.
+- [McSpatial](https://cran.r-project.org/web/packages/McSpatial/index.html) - Provides functions for locally weighted regression, semiparametric and conditionally parametric regression, fourier and cubic spline functions, GMM and linearized spatial logit and probit, k-density functions and counterfactuals, nonparametric quantile regression and conditional density functions, Machado-Mata decomposition for quantile regressions, spatial AR model, repeat sales models, and conditionally parametric logit and probit.
+- [splm](https://cran.r-project.org/web/packages/splm/index.html) - ML and GM estimation and diagnostic testing of econometric models for spatial panel data.
+- [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
+- [spanel](https://cran.r-project.org/web/packages/spanel/index.html) - Fit the spatial panel data models: the fixed effects, random effects and between models.
+- [HSAR](https://cran.r-project.org/web/packages/HSAR/index.html) - A library of the Hierarchical Spatial Autoregressive Model (HSAR), based on a Bayesian Markov Chain Monte Carlo (MCMC) algorithm.
+- [spatialprobit](https://cran.r-project.org/web/packages/spatialprobit/index.html) - Bayesian Estimation of Spatial Probit and Tobit Models.
+- [ProbitSpatial](https://cran.r-project.org/web/packages/ProbitSpatial/index.html) - Binomial Spatial Probit models for big data.
+- [starma](https://cran.r-project.org/web/packages/starma/index.html) - Statistical functions to identify, estimate and diagnose a Space-Time AutoRegressive Moving Average (STARMA) model.
+- [ade4](https://cran.r-project.org/web/packages/ade4/index.html) - Tools for multivariate data analysis. Several methods are provided for the analysis (i.e., ordination) of one-table (e.g., principal component analysis, correspondence analysis), two-table (e.g., coinertia analysis, redundancy analysis), three-table (e.g., RLQ analysis) and K-table (e.g., STATIS, multiple coinertia analysis).
+- [adehabitat](https://cran.r-project.org/web/packages/adehabitat/index.html) - A collection of tools for the analysis of habitat selection by animals.
+- [adehabitatHR](https://cran.r-project.org/web/packages/adehabitatHR/index.html) - A collection of tools for the estimation of animals home range.
+- [adehabitatHS](https://cran.r-project.org/web/packages/adehabitatHS/index.html) - A collection of tools for the analysis of habitat selection.
+- [adehabitatLT](https://cran.r-project.org/web/packages/adehabitatLT/index.html) - A collection of tools for the analysis of animal movements.
+- [adehabitatMA](https://cran.r-project.org/web/packages/adehabitatMA/index.html) - A collection of tools to deal with raster maps.
+- [pastecs](https://cran.r-project.org/web/packages/pastecs/index.html) - Regulation, decomposition and analysis of space-time series.
+- [vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
+- [tripEstimation](https://cran.r-project.org/web/packages/tripEstimation/index.html) - Data handling and estimation functions for animal movement estimation from archival or satellite tags.
+- [spind](https://cran.r-project.org/web/packages/spind/index.html) - Functions for spatial methods based on generalized estimating equations (GEE) and wavelet-revised methods (WRM), functions for scaling by wavelet multiresolution regression (WMRR), conducting multi-model inference, and stepwise model selection.
+- [rangeMapper](https://cran.r-project.org/web/packages/rangeMapper/index.html) - Tools for easy generation of (life-history) traits maps based on species range (extent-of-occurrence) maps.
+- [siplab](https://cran.r-project.org/web/packages/siplab/index.html) - A platform for experimenting with spatially explicit individual-based vegetation models.
+- [ModelMap](https://cran.r-project.org/web/packages/ModelMap/index.html) - Creates sophisticated models of training data and validates the models with an independent test set, cross validation, or in the case of Random Forest Models, with Out Of Bag (OOB) predictions on the training data. 
+- [SpatialPosition](https://cran.r-project.org/web/packages/SpatialPosition/index.html) - Computes spatial position models: Stewart potentials, Reilly catchment areas, Huff catchment areas.
+- [Watersheds](https://cran.r-project.org/web/packages/Watersheds/index.html) - Methods for watersheds aggregation and spatial drainage network analysis.
+- [Rcitrus](http://www.leg.ufpr.br/Rcitrus/) - Spatial analysis of plant disease incidence.
+- [ngspatial](https://cran.r-project.org/web/packages/ngspatial/index.html) - Provides tools for analyzing spatial data, especially non- Gaussian areal data.
+- [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
+- [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
+- [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html)  - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
+- [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
+- [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
+- [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
+- [geojsonsf](https://github.com/SymbolixAU/geojsonsf) - Conversion between sf and geojson.
+- [ncdfgeom](https://github.com/USGS-R/ncdfgeom) - NetCDF-CF Geometry and Timeseries Tools for R.
+- [tidytransit](https://github.com/r-transit/tidytransit) - 'sf'-compatible package to analyze transit schedules, routes, and stops.
+- [lucCalculus](https://github.com/e-sensing/lucCalculus) - Spatiotemporal calculus for land use change trajectories.
+- [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
+- [uavRst](https://github.com/gisma/uavRst) - UAV related Remote Sensing Toolbox.
+- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
+- [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
+- [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
+- [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
+- [ffraster](https://github.com/hypertidy/ffraster) - Treat ff arrays as raster objects, and vice versa.
+- [tidync](https://github.com/hypertidy/tidync) - Systematic approaches to NetCDF data extraction, manipulation and visualization.
+- [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
+- [GeospatialLineGraphs](https://github.com/Brideau/GeospatialLineGraphs) - A library for creating geospatial line graphs along lines of latitude.
+- [phenofit](https://github.com/kongdd/phenofit) - A state-of-the-art Vegetation Phenology extraction package.
+- [rayshader](https://github.com/tylermorganwall/rayshader) - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
+- [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
+- [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
+- [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
+- [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial- objects.
+- [exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics.
+- [kuenm](https://github.com/marlonecobos/kuenm) - kuenm is an R package designed to make the process of model calibration and final model creation easier and more reproducible, and at the same time more robust.
+- [whiteboxR](https://github.com/giswqs/whiteboxR) - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
+- [phenopix](https://cran.r-project.org/web/packages/phenopix/index.html) - A collection of functions to process digital images, depict greenness index trajectories and extract relevant phenological stages. 
+- [rsMove](https://cran.r-project.org/web/packages/rsMove/index.html) - Tools that support the combined use of animal movement and remote sensing data.
+
 
 ### Fortran
 - [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
@@ -541,173 +707,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [landspeed.js](https://github.com/springmeyer/landspeed.js) - WMS server using node-mapnik.
 - [tilelive-postgis](https://github.com/stepankuzmin/tilelive-postgis) - Implements the tilelive API for generating mapnik vector tiles from PostGIS.
 
-
-### R
-
-- [sp](https://cran.r-project.org/web/packages/sp/index.html)  - Classes and Methods for Spatial Data.
-- [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library.
-- [raster](https://cran.r-project.org/web/packages/raster/raster.pdf)  - Reading, writing, manipulating, analyzing and modeling of gridded spatial data.
-- [ggplot2](http://ggplot2.org/) - ggplot2 is a plotting system for R.
-- [ggmap](https://cran.r-project.org/web/packages/ggmap/index.html) - Spatial Visualization with ggplot2.
-- [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - Interface to Geometry Engine - Open Source (GEOS) using the C API for topology operations on geometries.
-- [rgrass7](https://cran.r-project.org/web/packages/rgrass7/index.html) - Interface Between GRASS 7 GIS and R.
-- [RQGIS](https://cran.r-project.org/web/packages/RQGIS/index.html) - Establishes an interface between R and QGIS.
-- [RSAGA](https://cran.r-project.org/web/packages/RSAGA/index.html) - SAGA Geoprocessing and Terrain Analysis in R.
-- [RODBC](https://cran.r-project.org/web/packages/RODBC/index.html) - ODBC Database Access.
-- [Rnetcdf](https://cran.r-project.org/web/packages/RNetCDF/index.html) - Interface to NetCDF Datasets.
-- [ncdf4](https://cran.r-project.org/web/packages/ncdf4/index.html) - Provides a high-level R interface to data files written using Unidata's netCDF library (version 4 or earlier).
-- [RPyGeo](https://cran.r-project.org/web/packages/RPyGeo/index.html) - ArcGIS Geoprocessing in R via Python.
-- [shapefiles](https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
-- [Rgooglemaps](https://cran.r-project.org/web/packages/RgoogleMaps/index.html) - Overlays on Google map tiles in R.
-- [leafletR](https://cran.r-project.org/web/packages/leafletR/index.html) - Interactive Web-Maps Based on the Leaflet JavaScript Library.
-- [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - Tools for Reading and Handling Spatial Objects.
-- [RArcInfo](https://cran.r-project.org/web/packages/RArcInfo/index.html) - Functions to import data from Arc/Info V7.x binary coverages.
-- [Akima](https://cran.r-project.org/web/packages/akima/index.html) - Interpolation of Irregularly and Regularly Spaced Data.
-- [maps](https://cran.r-project.org/web/packages/maps/index.html) - Draw Geographical Maps.
-- [PBSmapping](https://cran.r-project.org/web/packages/PBSmapping/index.html) - Mapping Fisheries Data and Spatial Analysis Tools.
-- [PBSmodelling](https://cran.r-project.org/web/packages/PBSmodelling/index.html) - Provides modelling support.
-- [Landsat](https://cran.r-project.org/web/packages/landsat/index.html) - Radiometric and topographic correction of satellite imagery.
-- [spatstat](https://cran.r-project.org/web/packages/spatstat/index.html) - Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests.
-- [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
-- [splancs](https://cran.r-project.org/web/packages/splancs/index.html) - Spatial and Space-Time Point Pattern Analysis.
-- [smacpod](https://cran.r-project.org/web/packages/smacpod/index.html) - Various statistical methods for analyzing case-control point data.
-- [DSpat](https://cran.r-project.org/web/packages/DSpat/index.html) - Fits inhomogeneous Poisson process spatial models to line transect sampling data and provides estimate of abundance within a region.
-- [spatialsegregation](https://cran.r-project.org/web/packages/spatialsegregation/index.html) - Summaries for measuring segregation/mingling in multitype spatial point patterns with graph based neighbourhood description.
-- [dbmss](https://cran.r-project.org/web/packages/dbmss/index.html) - Simple computation of spatial statistic functions of distance to characterize the spatial structures of mapped objects.
-- [latticeDensity](https://cran.r-project.org/web/packages/latticeDensity/index.html) -  Contains functions that compute the lattice-based density estimator of Barry and McIntyre.
-- [GriegSmith](https://cran.r-project.org/web/packages/GriegSmith/index.html) - Uses the Grieg-Smith method on 2 dimensional spatial data.
-- [plotKML](https://cran.r-project.org/web/packages/plotKML/index.html) - Visualization of Spatial and Spatio-Temporal Objects in Google Earth.
-- [OpenStreetMap](https://cran.r-project.org/web/packages/OpenStreetMap/index.html) - Access to Open Street Map Raster Images.
-- [GEOmap](https://cran.r-project.org/web/packages/GEOmap/index.html) - Topographic and Geologic Mapping.
-- [rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
-- [rasterVis](https://cran.r-project.org/web/packages/rasterVis/index.html) - Visualization Methods for Raster Data.
-- [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - Spatial Dependence: Weighting Schemes, Statistics and Models.
-- [spacetime](https://cran.r-project.org/web/packages/spacetime/index.html) - Classes and Methods for Spatio-Temporal Data.
-- [geoR](https://cran.r-project.org/web/packages/geoR/index.html) - Analysis of Geostatistical Data.
-- [ecespa](https://cran.r-project.org/web/packages/ecespa/index.html) - Functions for Spatial Point Pattern Analysis.
-- [mapproj](https://cran.r-project.org/web/packages/mapproj/index.html) - Map Projections.
-- [gstat](https://cran.r-project.org/web/packages/gstat/index.html) - Spatio-Temporal Geostatistical Modelling, Prediction and Simulation.
-- [intamap](https://cran.r-project.org/web/packages/intamap/index.html) - Procedures for automated interpolation.
-- [micromap](https://cran.r-project.org/web/packages/micromap/index.html) - Package provides linked micromaps using ggplot2.
-- [Grid2Polygons](https://cran.r-project.org/web/packages/Grid2Polygons/index.html) - Converts a spatial object from class SpatialGridDataFrame to SpatialPolygonsDataFrame.
-- [recmap](https://cran.r-project.org/web/packages/recmap/index.html) - Package provides rectangular cartograms with rectangle sizes reflecting for example population
-- [geosphere](https://cran.r-project.org/web/packages/geosphere/index.html) - Permits computations of distance and area to be carried out on spatial data in geographical coordinates.
-- [spsurvey](https://cran.r-project.org/web/packages/spsurvey/index.html) - Provides a range of sampling functions.
-- [trip](https://cran.r-project.org/web/packages/trip/index.html) - Extends sp classes to permit the accessing and manipulating of spatial data for animal tracking.
-- [GeoXp](https://cran.r-project.org/web/packages/GeoXp/index.html) - Permits interactive graphical exploratory spatial data analysis.
-- [vec2dtransf](https://cran.r-project.org/web/packages/vec2dtransf/index.html) - Package for applying affine and similarity transformations on vector spatial data (sp objects).
-- [spcosa](https://cran.r-project.org/web/packages/spcosa/index.html) - Spatial coverage sampling and random sampling from compact geographical strata created by k-means.
-- [dggridR](https://cran.r-project.org/web/packages/dggridR/index.html) - Provides an interface to DGGRID for working with discrete global grids, using hexagons, triangles, and diamonds to overcome the issue that every bin have the same area.
-- [hdeco](https://cran.r-project.org/web/packages/hdeco/index.html) -  Provides hierarchical decomposition of entropy for categorical map comparisons.
-- [geojsonio](https://cran.r-project.org/web/packages/geojsonio/index.html) - Convert data to 'GeoJSON' or 'TopoJSON' from various R classes, including vectors, lists, data frames, shape files, and spatial classes.
-- [geoaxe](https://cran.r-project.org/web/packages/geoaxe/index.html) - Split 'geospatial' objects into pieces. Includes support for some spatial object inputs, 'Well-Known Text', and 'GeoJSON'.
-- [magclass](https://cran.r-project.org/web/packages/magclass/index.html) - Data class for increased interoperability working with spatial- temporal data together with corresponding functions and methods (conversions, basic calculations and basic data manipulation).
-- [marmap](https://cran.r-project.org/web/packages/marmap/index.html) - Package is designed for downloading, plotting and manipulating bathymetric and topographic data in R.
-- [cshapes](https://cran.r-project.org/web/packages/cshapes/index.html) - Package for CShapes, a GIS dataset of country boundaries (1946-today). Includes functions for data extraction and the computation of distance matrices and -lists.
-- [taRifx](https://cran.r-project.org/web/packages/taRifx/index.html) - A collection of various utility and convenience functions.
-- [lawn](https://cran.r-project.org/web/packages/lawn/index.html) - Client for 'Turfjs' for 'geospatial' analysis. The package revolves around using 'GeoJSON' data.
-- [osmar](https://cran.r-project.org/web/packages/osmar/index.html) - Provides infrastructure to access OpenStreetMap data from different sources.
-- [gmt](https://cran.r-project.org/web/packages/gmt/index.html) - Interface between the GMT map-making software and R.
-- [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps and other graphics.
-- [classInt](https://cran.r-project.org/web/packages/classInt/index.html) - Selected commonly used methods for choosing univariate class intervals for mapping or other graphics purposes.
-- [plotGoogleMaps](https://cran.r-project.org/web/packages/plotGoogleMaps/index.html) - Interactive plot device for handling the geographic data for web browsers.
-- [ggsn](https://cran.r-project.org/web/packages/ggsn/index.html) - Adds north symbols and scale bars in kilometers to maps in geographic or metric coordinates.
-- [spatgraphs](https://cran.r-project.org/web/packages/spatgraphs/index.html) - Graphs (or networks) and graph component calculations for spatial locations
-- [geoRglm](https://cran.r-project.org/web/packages/geoRglm/index.html) - Functions for inference in generalised linear spatial models.
-- [FRK](https://cran.r-project.org/web/packages/FRK/index.html) - Is a tool for spatial/spatio-temporal modelling and prediction with large datasets.
-- [geospt](https://cran.r-project.org/web/packages/geospt/index.html) - Contains some geostatistical and radial basis functions, including prediction and cross validation.
-- [RandomFields](https://cran.r-project.org/web/packages/RandomFields/index.html) - Methods for the inference on and the simulation of Gaussian fields are provided, as well as methods for the simulation of extreme value random fields.
-- [CompRandFld](https://cran.r-project.org/web/packages/CompRandFld/index.html) - A set of procedures for the analysis of Random Fields using likelihood and non-standard likelihood methods is provided.
-- [constrainedKriging](https://cran.r-project.org/web/packages/constrainedKriging/index.html) - Provides functions for efficient computations of nonlinear spatial predictions with local change of support.
-- [spTimer](https://cran.r-project.org/web/packages/spTimer/index.html) - Fits, spatially predicts and temporally forecasts large amounts of space-time data.
-- [SpatialTools](https://cran.r-project.org/web/packages/SpatialTools/index.html) - Tools for spatial data analysis. Emphasis on kriging. Provides functions for prediction and simulation.
-- [sperrorest](https://cran.r-project.org/web/packages/sperrorest/index.html) - Implements spatial error estimation and permutation-based variable importance measures for predictive models using spatial cross-validation and spatial block bootstrap.
-- [sgeostat](https://cran.r-project.org/web/packages/sgeostat/index.html) - An Object-oriented Framework for Geostatistical Modeling in S+ containing functions for variogram estimation, variogram fitting and kriging as well as some plot functions.
-- [spatialCovariance](https://cran.r-project.org/web/packages/spatialCovariance/index.html) - Supports the computation of spatial covariance matrices for data on rectangles.
-- [tgp](https://cran.r-project.org/web/packages/tgp/index.html) - Bayesian nonstationary, semiparametric nonlinear regression and design by treed Gaussian processes (GPs) with jumps to the limiting linear model (LLM).
-- [regress](https://cran.r-project.org/web/packages/regress/index.html) - Functions to fit Gaussian linear model by maximising the residual log likelihood where the covariance structure can be written as a linear combination of known matrices.
-- [FieldSim](https://cran.r-project.org/web/packages/FieldSim/index.html) - Tools for random fields and bridges simulations.
-- [georob](https://cran.r-project.org/web/packages/georob/index.html) - Provides functions for fitting linear models with spatially correlated errors by robust and Gaussian Restricted Maximum Likelihood and for computing robust and customary point and block kriging predictions, along with utility functions for cross-validation and for unbiased back-transformation of kriging predictions of log-transformed data.
-- [ExceedanceTools](https://cran.r-project.org/web/packages/ExceedanceTools/index.html) - Tools for constructing confidence regions for exceedance regions and contour lines.
-- [deldir](https://cran.r-project.org/web/packages/deldir/index.html) - Calculates the Delaunay triangulation and the Dirichlet or Voronoi tessellation (with respect to the entire plane) of a planar point set.
-- [tripack](https://cran.r-project.org/web/packages/tripack/index.html) - A constrained two-dimensional Delaunay triangulation package providing both triangulation and generation of voronoi mosaics of irregular spaced data.
-- [ipdw](https://cran.r-project.org/web/packages/ipdw/index.html) - Functions are provided to interpolate geo-referenced point data via Inverse Path Distance Weighting.
-- [SSN](https://cran.r-project.org/web/packages/SSN/index.html) - Spatial statistical modeling and prediction for data on stream networks, including models based on in-stream distance.
-- [spmoran](https://cran.r-project.org/web/packages/spmoran/index.html) - Functions for estimating fixed and random effects eigenvector spatial filtering models.
-- [SpatialEpi](https://cran.r-project.org/web/packages/SpatialEpi/index.html) - Methods and data for cluster detection and disease mapping.
-- [OasisR](https://cran.r-project.org/web/packages/OasisR/index.html) - A set of indexes and tests for the analysis of social segregation.
-- [smerc](https://cran.r-project.org/web/packages/smerc/index.html) - Provides statistical methods for the analysis of data areal data, with a focus on cluster detection.
-- [gwrr](https://cran.r-project.org/web/packages/gwrr/index.html) - Fits geographically weighted regression (GWR) models and has tools to diagnose and remediate collinearity in the GWR models.
-- [lctools](https://cran.r-project.org/web/packages/lctools/index.html) - Package provides researchers and educators with easy-to-learn user friendly tools for calculating key spatial statistics and to apply simple as well as advanced methods of spatial analysis in real data.
-- [AMOEBA](https://cran.r-project.org/web/packages/AMOEBA/index.html) - A function to calculate spatial clusters using the Getis-Ord local statistic. It searches irregular clusters (ecotopes) on a map.
-- [sparr](https://cran.r-project.org/web/packages/sparr/index.html) - Provides functions to estimate kernel-smoothed spatial and spatio-temporal densities and relative risk functions, and perform subsequent inference.
-- [CARBayes](https://cran.r-project.org/web/packages/CARBayes/index.html) - Package implements Bayesian hierarchical spatial areal unit models.
-- [glmmBUGS](https://cran.r-project.org/web/packages/glmmBUGS/index.html) - Automates running Generalized Linear Mixed Models, including spatial models, with WinBUGS, OpenBUGS and JAGS.
-- [spaMM](https://cran.r-project.org/web/packages/spaMM/index.html) - Inference in mixed-effect models, including generalized linear mixed models with spatial correlations and models with non-Gaussian random effects.
-- [PReMiuM](https://cran.r-project.org/web/packages/PReMiuM/index.html) - Dirichlet Process Bayesian Clustering, Profile Regression.
-- [spacom](https://cran.r-project.org/web/packages/spacom/index.html) - Provides tools to construct and exploit spatially weighted context data.
-- [geospacom](https://cran.r-project.org/web/packages/geospacom/index.html) - Generates distance matrices from shape files and represents spatially weighted multilevel analysis results.
-- [spatsurv](https://cran.r-project.org/web/packages/spatsurv/index.html) - Bayesian inference for parametric proportional hazards spatial survival models; flexible spatial survival models.
-- [spBayesSurv](https://cran.r-project.org/web/packages/spBayesSurv/index.html) - Bayesian Modeling and Analysis of Spatially Correlated Survival Data.
-- [spselect](https://cran.r-project.org/web/packages/spselect/index.html) - Fits spatial scale (SS) forward stepwise regression, SS incremental forward stagewise regression, SS least angle regression (LARS), and SS lasso models.
-- [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - Fit and compare Gaussian linear and nonlinear mixed-effects models.
-- [spatcounts](https://cran.r-project.org/web/packages/spatcounts/index.html) - Fit spatial CAR count regression models using MCMC.
-- [McSpatial](https://cran.r-project.org/web/packages/McSpatial/index.html) - Provides functions for locally weighted regression, semiparametric and conditionally parametric regression, fourier and cubic spline functions, GMM and linearized spatial logit and probit, k-density functions and counterfactuals, nonparametric quantile regression and conditional density functions, Machado-Mata decomposition for quantile regressions, spatial AR model, repeat sales models, and conditionally parametric logit and probit.
-- [splm](https://cran.r-project.org/web/packages/splm/index.html) - ML and GM estimation and diagnostic testing of econometric models for spatial panel data.
-- [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
-- [spanel](https://cran.r-project.org/web/packages/spanel/index.html) - Fit the spatial panel data models: the fixed effects, random effects and between models.
-- [HSAR](https://cran.r-project.org/web/packages/HSAR/index.html) - A library of the Hierarchical Spatial Autoregressive Model (HSAR), based on a Bayesian Markov Chain Monte Carlo (MCMC) algorithm.
-- [spatialprobit](https://cran.r-project.org/web/packages/spatialprobit/index.html) - Bayesian Estimation of Spatial Probit and Tobit Models.
-- [ProbitSpatial](https://cran.r-project.org/web/packages/ProbitSpatial/index.html) - Binomial Spatial Probit models for big data.
-- [starma](https://cran.r-project.org/web/packages/starma/index.html) - Statistical functions to identify, estimate and diagnose a Space-Time AutoRegressive Moving Average (STARMA) model.
-- [ade4](https://cran.r-project.org/web/packages/ade4/index.html) - Tools for multivariate data analysis. Several methods are provided for the analysis (i.e., ordination) of one-table (e.g., principal component analysis, correspondence analysis), two-table (e.g., coinertia analysis, redundancy analysis), three-table (e.g., RLQ analysis) and K-table (e.g., STATIS, multiple coinertia analysis).
-- [adehabitat](https://cran.r-project.org/web/packages/adehabitat/index.html) - A collection of tools for the analysis of habitat selection by animals.
-- [adehabitatHR](https://cran.r-project.org/web/packages/adehabitatHR/index.html) - A collection of tools for the estimation of animals home range.
-- [adehabitatHS](https://cran.r-project.org/web/packages/adehabitatHS/index.html) - A collection of tools for the analysis of habitat selection.
-- [adehabitatLT](https://cran.r-project.org/web/packages/adehabitatLT/index.html) - A collection of tools for the analysis of animal movements.
-- [adehabitatMA](https://cran.r-project.org/web/packages/adehabitatMA/index.html) - A collection of tools to deal with raster maps.
-- [pastecs](https://cran.r-project.org/web/packages/pastecs/index.html) - Regulation, decomposition and analysis of space-time series.
-- [vegan](https://cran.r-project.org/web/packages/vegan/index.html) - Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
-- [tripEstimation](https://cran.r-project.org/web/packages/tripEstimation/index.html) - Data handling and estimation functions for animal movement estimation from archival or satellite tags.
-- [spind](https://cran.r-project.org/web/packages/spind/index.html) - Functions for spatial methods based on generalized estimating equations (GEE) and wavelet-revised methods (WRM), functions for scaling by wavelet multiresolution regression (WMRR), conducting multi-model inference, and stepwise model selection.
-- [rangeMapper](https://cran.r-project.org/web/packages/rangeMapper/index.html) - Tools for easy generation of (life-history) traits maps based on species range (extent-of-occurrence) maps.
-- [siplab](https://cran.r-project.org/web/packages/siplab/index.html) - A platform for experimenting with spatially explicit individual-based vegetation models.
-- [ModelMap](https://cran.r-project.org/web/packages/ModelMap/index.html) - Creates sophisticated models of training data and validates the models with an independent test set, cross validation, or in the case of Random Forest Models, with Out Of Bag (OOB) predictions on the training data. 
-- [SpatialPosition](https://cran.r-project.org/web/packages/SpatialPosition/index.html) - Computes spatial position models: Stewart potentials, Reilly catchment areas, Huff catchment areas.
-- [Watersheds](https://cran.r-project.org/web/packages/Watersheds/index.html) - Methods for watersheds aggregation and spatial drainage network analysis.
-- [Rcitrus](http://www.leg.ufpr.br/Rcitrus/) - Spatial analysis of plant disease incidence.
-- [ngspatial](https://cran.r-project.org/web/packages/ngspatial/index.html) - Provides tools for analyzing spatial data, especially non- Gaussian areal data.
-- [bfastSpatial](https://github.com/loicdtx/bfastSpatial) - Package to pre-process gridded time-series data in order for them to be analyzed with change detection algorithms such as bfast. Uses classes from the raster package and includes utilities to run the algorithms and post-process the results.
-- [teamlucc](https://github.com/azvoleff/teamlucc) -  Is designed to facilitate analysis of land use and cover change (LUCC) around the monitoring sites of the Tropical Ecology Assessment and Monitoring (TEAM) Network.
-- [RStoolbox](https://cran.r-project.org/web/packages/RStoolbox/index.html)  - Toolbox for remote sensing image processing and analysis such as calculating spectral indices, principal component transformation, unsupervised and supervised classification or fractional cover analyses.
-- [sits](https://github.com/gilbertocamara/sits) - satellite image time series package for R.
-- [dtwSat](https://github.com/vwmaus/dtwSat) - Time-Weighted Dynamic Time Warping for satellite image time series analysis.
-- [googleway](https://github.com/SymbolixAU/googleway) - R Package for accessing and plotting Google Maps.
-- [geojsonsf](https://github.com/SymbolixAU/geojsonsf) - Conversion between sf and geojson.
-- [ncdfgeom](https://github.com/USGS-R/ncdfgeom) - NetCDF-CF Geometry and Timeseries Tools for R.
-- [tidytransit](https://github.com/r-transit/tidytransit) - 'sf'-compatible package to analyze transit schedules, routes, and stops.
-- [lucCalculus](https://github.com/e-sensing/lucCalculus) - Spatiotemporal calculus for land use change trajectories.
-- [lidR](https://github.com/Jean-Romain/lidR) - R package for airborne LiDAR data manipulation and visualisation for forestry application.
-- [uavRst](https://github.com/gisma/uavRst) - UAV related Remote Sensing Toolbox.
-- [getSpatialData](https://github.com/16EAGLE/getSpatialData) - An R package making it easy to query, preview, download and preprocess multiple kinds of spatial data via R.
-- [landscapemetrics](https://github.com/r-spatialecology/landscapemetrics) - landscapemetrics is an R package for calculating landscape metrics for categorical landscape patterns in a tidy workflow.
-- [stars](https://github.com/r-spatial/stars) - Spatiotemporal tidy arrays for R.
-- [vapour](https://github.com/hypertidy/vapour) - A lightweight GDAL API package for R.
-- [ffraster](https://github.com/hypertidy/ffraster) - Treat ff arrays as raster objects, and vice versa.
-- [tidync](https://github.com/hypertidy/tidync) - Systematic approaches to NetCDF data extraction, manipulation and visualization.
-- [geodist](https://github.com/hypertidy/geodist) - Ultra lightweight, ultra fast calculation of geo distances.
-- [GeospatialLineGraphs](https://github.com/Brideau/GeospatialLineGraphs) - A library for creating geospatial line graphs along lines of latitude.
-- [phenofit](https://github.com/kongdd/phenofit) - A state-of-the-art Vegetation Phenology extraction package.
-- [rayshader](https://github.com/tylermorganwall/rayshader) - rayshader is an open source R package for producing 2D and 3D hillshaded maps of elevation matrices using a combination of raytracing, spherical texture mapping, and ambient occlusion.
-- [Prioritizr](https://github.com/prioritizr/prioritizr) - The prioritizr R package uses integer linear programming (ILP) techniques to provide a flexible interface for building and solving conservation planning problems.
-- [ModelR](https://github.com/Model-R/modelr_pkg) - A workflow for ecological niche models based on dismo.
-- [gdalcubes_R](https://github.com/appelmar/gdalcubes_R) - R package for gdalcubes to process collections of Earth observation image collection as on demand data cubes.
-- [ggspatial](https://github.com/paleolimbot/ggspatial) - A ggplot2 R extension for plotting Spatial- objects.
-- [exactextractr](https://github.com/isciences/exactextractr) - R package for fast and accurate raster zonal statistics.
-- [kuenm](https://github.com/marlonecobos/kuenm) - kuenm is an R package designed to make the process of model calibration and final model creation easier and more reproducible, and at the same time more robust.
-- [whiteboxR](https://github.com/giswqs/whiteboxR) - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
-- [phenopix](https://cran.r-project.org/web/packages/phenopix/index.html) - A collection of functions to process digital images, depict greenness index trajectories and extract relevant phenological stages. 
-- [rsMove](https://cran.r-project.org/web/packages/rsMove/index.html) - Tools that support the combined use of animal movement and remote sensing data.
 
 
 ### C Sharp
