@@ -2,7 +2,7 @@
 
 Awesome GIS is for collecting the geospatial related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
-**Welcome to contribute. Let's make it better.*- Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
+**Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
@@ -931,7 +931,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
 
 
-## Reference:
+## Reference
 >1. [List of geographic information systems software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
 >2. [osgeo](http://www.osgeo.org/)
 >3. [AmrEldib's Awesome GIS](http://amreldib.com/awesome-gis/)
