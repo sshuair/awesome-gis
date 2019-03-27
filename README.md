@@ -12,7 +12,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [3D Application](#3d-application)
   - [Web Map Server](#web-map-server)
   - [Front-end Framework](#front-end-framework)
-  - [Web Map Server](#web-map-server-1)
   - [Spatial Database](#spatial-database)
   - [Mobile Develop Tools](#mobile-develop-tools)
   - [Deep Learning](#deep-learning)
@@ -149,29 +148,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
-
-
-## Web Map Server
-- [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application
-- [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
-- [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
-- [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
-- [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
-- [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
-- [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
-- [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
-- [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
-- [mapbender3](http://mapbender3.org/) - Publishing spatial data infrastructure services on the Symfony 2 PHP
-- [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
-- [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
-- [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
-- [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
-- [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
-- [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
-- [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications
-- [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
-
-
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
