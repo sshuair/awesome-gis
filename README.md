@@ -515,6 +515,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [whiteboxR](https://github.com/giswqs/whiteboxR) - R frontend of [WhiteboxTools](https://github.com/jblindsay/whitebox-tools).
 - [phenopix](https://cran.r-project.org/web/packages/phenopix/index.html) - A collection of functions to process digital images, depict greenness index trajectories and extract relevant phenological stages. 
 - [rsMove](https://cran.r-project.org/web/packages/rsMove/index.html) - Tools that support the combined use of animal movement and remote sensing data.
+- [geospark](https://github.com/harryprince/geospark) - Bring sf to spark
+- [sf](https://github.com/r-spatial/sf) - Simple Features for R
+- [h3r](https://github.com/scottmmjackson/h3r) - Uber's h3 bindings to the R Programming Language
+- [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox 
+
 
 
 ### Fortran
