@@ -149,6 +149,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenMapTiles](https://openmaptiles.org/) - Set of open-source tools for self-hosting of OpenStreetMap maps in more than 50 languages. It provides both raster as well as vector tiles, WMS and WMTS services for GIS programs, support for JavaScript viewers and mobile SDK.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [SuperMap iClient JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
+- [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
 
 ## Spatial Database
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
