@@ -124,6 +124,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenTileServer](https://opentileserver.org/) - This script is for building a basic tile server with OpenStreetMap data.
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
 - [GeoWebCache](https://www.geowebcache.org/) - A java web application used to cache map tiles coming from a variety of sources such as OGC WMS in order to accelerate and optimize map image delivery.
+- [Google Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
 
 
 ## Front-end Framework
