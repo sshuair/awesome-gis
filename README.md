@@ -1,5 +1,13 @@
 # Awesome GIS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sshuair/awesome-gis)
 
+[![GitHub stars](https://img.shields.io/github/stars/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis/network)
+![GitHub contributors](https://img.shields.io/github/contributors/sshuair/awesome-gis)
+![GitHub last commit](https://img.shields.io/github/last-commit/sshuair/awesome-gis)
+[![GitHub license](https://img.shields.io/github/license/sshuair/awesome-gis)](https://github.com/sshuair/awesome-gis/blob/master/LICENSE)
+
+
+
 Awesome GIS is for collecting the geospatial related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
 
 **Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md).
@@ -53,6 +61,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Conference & Communities](#conference--communities)
   - [Data](#data)
   - [News Site](#news-site)
+  - [Awesome-Awesome](#awesome-awesome)
   - [Amazing Map Site](#amazing-map-site)
   - [Other](#other)
     - [Data Format](#data-format)
@@ -867,6 +876,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Mapbox Vector Tile](https://github.com/mapbox/vector-tile-spec)
 - [SpatioTemporal Asset Catalogs](https://stacspec.org/)
 
+
 ## Cloud Service
 ### DaaS
 - [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
@@ -947,6 +957,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [canadiangis](http://canadiangis.com/)
 - [MAPCITE](https://www.mapcite.com/default.aspx)
 - [Geospatial World](http://www.geospatialworld.net/)
+
+
+## Awesome-Awesome
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - awesome implementations of the Mapbox Vector Tile specification.
+- [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
+- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
+- [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.
+- [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 
 
 ## Amazing Map Site
