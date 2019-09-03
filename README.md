@@ -46,7 +46,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [CSS](#css)
     - [IDL](#idl)
     - [Perl](#perl)
-  - [Open Standards](open-standards)
+  - [Open Standards](#open-standards)
   - [Cloud Service](#cloud-service)
     - [DaaS](#daas)
     - [SaaS](#saas)
