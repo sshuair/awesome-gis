@@ -46,6 +46,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [CSS](#css)
     - [IDL](#idl)
     - [Perl](#perl)
+  - [Open Standards](open-standards)
   - [Cloud Service](#cloud-service)
     - [DaaS](#daas)
     - [SaaS](#saas)
@@ -197,7 +198,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### Deep Learning Datasets
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
-
+- [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 
 ## Map Render Engine
 
@@ -799,6 +800,72 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [address formatting](https://github.com/OpenCageData/address-formatting) - Templates to format geographic addresses.
 - [Geo::GDAL](https://metacpan.org/pod/Geo::GDAL) - Perl extension for the GDAL library for geospatial data.
 
+
+## Open Standards
+- [3D Tiles](http://www.opengeospatial.org/standards/3DTiles)
+- [3dP](http://www.opengeospatial.org/standards/3dp)
+- [ARML2.0](http://www.opengeospatial.org/standards/arml)
+- [Cat: ebRIM App Profile: Earth Observation Products](http://www.opengeospatial.org/standards/cat2eoext4ebrim)
+- [Catalogue Service](http://www.opengeospatial.org/standards/cat)
+- [CDB](http://www.opengeospatial.org/standards/cdb)
+- [CityGML](http://www.opengeospatial.org/standards/citygml)
+- [Coordinate Transformation](http://www.opengeospatial.org/standards/ct)
+- [Filter Encoding](http://www.opengeospatial.org/standards/filter)
+- [GML in JPEG 2000](http://www.opengeospatial.org/standards/gmljp2)
+- [GeoAPI](http://www.opengeospatial.org/standards/geoapi)
+- [GeoPackage](http://www.opengeospatial.org/standards/geopackage)
+- [GeoSciML](http://www.opengeospatial.org/standards/geosciml)
+- [GeoSPARQL](http://www.opengeospatial.org/standards/geosparql)
+- [Geography Markup Language](http://www.opengeospatial.org/standards/gml)
+- [GeoRSS](http://www.opengeospatial.org/standards/georss)
+- [Geospatial eXtensible Access Control Markup Language (GeoXACML)](http://www.opengeospatial.org/standards/geoxacml)
+- [Geospatial User Feedback (GUF)](http://www.opengeospatial.org/standards/guf)
+- [GroundwaterML](http://www.opengeospatial.org/standards/gwml2)
+- [i3s](http://www.opengeospatial.org/standards/i3s)
+- [IndoorGML](http://www.opengeospatial.org/standards/indoorgml)
+- [KML](http://www.opengeospatial.org/standards/kml)
+- [LandInfra/InfraGML](http://www.opengeospatial.org/standards/infragml)
+- [LAS](http://www.opengeospatial.org/standards/LAS)
+- [Location Services (OpenLS)](http://www.opengeospatial.org/standards/ols)
+- [Moving Features](http://www.opengeospatial.org/standards/movingfeatures)
+- [NetCDF](http://www.opengeospatial.org/standards/netcdf)
+- [Observations and Measurements](http://www.opengeospatial.org/standards/om)
+- [Open GeoSMS](http://www.opengeospatial.org/standards/opengeosms)
+- [OpenMI](http://www.opengeospatial.org/standards/openmi)
+- [OpenSearch for EO](http://www.opengeospatial.org/standards/opensearch-eo)
+- [OpenSearch Geo](http://www.opengeospatial.org/standards/opensearchgeo)
+- [Ordering Services Framework for Earth Observation Products](http://www.opengeospatial.org/standards/oseo)
+- [OWS Context](http://www.opengeospatial.org/standards/owc)
+- [OWS Security](http://www.opengeospatial.org/standards/security)
+- [PipelineML](http://www.opengeospatial.org/standards/pipelineml)
+- [PubSub](http://www.opengeospatial.org/standards/pubsub)
+- [PUCK](http://www.opengeospatial.org/standards/puck)
+- [SWE Common Data Model](http://www.opengeospatial.org/standards/swecommon)
+- [SWE Service Model](http://www.opengeospatial.org/standards/swes)
+- [Sensor Model Language](http://www.opengeospatial.org/standards/sensorml)
+- [Sensor Observation Service](http://www.opengeospatial.org/standards/sos)
+- [Sensor Planning Service](http://www.opengeospatial.org/standards/sps)
+- [SensorThings](http://www.opengeospatial.org/standards/sensorthings)
+- [Simple Features](http://www.opengeospatial.org/standards/sfa)
+- [Simple Features CORBA](http://www.opengeospatial.org/standards/sfc)
+- [Simple Features OLE/COM](http://www.opengeospatial.org/standards/sfo)
+- [Simple Features SQL](http://www.opengeospatial.org/standards/sfs)
+- [Styled Layer Descriptor](http://www.opengeospatial.org/standards/sld)
+- [Symbology Encoding](http://www.opengeospatial.org/standards/se)
+- [Table Joining Service](http://www.opengeospatial.org/standards/tjs)
+- [TimeseriesML (tsml)](http://www.opengeospatial.org/standards/tsml)
+- [WaterML](http://www.opengeospatial.org/standards/waterml)
+- [Web Coverage Processing Service](http://www.opengeospatial.org/standards/wcps)
+- [Web Coverage Service](http://www.opengeospatial.org/standards/wcs)
+- [Web Feature Service](http://www.opengeospatial.org/standards/wfs)
+- [Web Map Context](http://www.opengeospatial.org/standards/wmc)
+- [Web Map Service](http://www.opengeospatial.org/standards/wms)
+- [Web Map Tile Service](http://www.opengeospatial.org/standards/wmts)
+- [Web Processing Service](http://www.opengeospatial.org/standards/wps)
+- [Web Service Common](http://www.opengeospatial.org/standards/common)
+- [WKT CRS](http://www.opengeospatial.org/standards/wkt)
+- [Mapbox Vector Tile](https://github.com/mapbox/vector-tile-spec)
+- [SpatioTemporal Asset Catalogs](https://stacspec.org/)
 
 ## Cloud Service
 ### DaaS
