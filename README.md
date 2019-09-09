@@ -79,7 +79,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
-- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas
 - [SharpMap](https://sharpmap.codeplex.com/) - An mapping library in web and desktop applications built in .NET
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
@@ -994,7 +993,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
 
 ### Geospatial Start-ups And Companies
-[Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
+- [Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
+- [gvSIG Association](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
+
 
 ### MOOC
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
