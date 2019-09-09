@@ -74,7 +74,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ----
 
 ## Geographic Information System SoftWare
-- [ArcGIS](https://www.arcgis.com/) :star2: - A enterprise level desktop GIS software published by Ersi
+- [ArcGIS](https://www.arcgis.com/) :star2: - An enterprise-level desktop GIS software published by Ersi
 - [QGIS](http://qgis.org/en/site/) :star2: - A cross-platform free and open-source desktop GIS software
 - [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis
 - [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO
