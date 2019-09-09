@@ -81,7 +81,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas
-- [SharpMap](https://sharpmap.codeplex.com/) - An mapping library in web and desktop applications built in .NET
+- [SharpMap](https://github.com/SharpMap/SharpMap) - An mapping library in web and desktop applications built in .NET
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
 - [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
@@ -711,7 +711,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Bing Maps REST Toolkit](https://github.com/Microsoft/BingMapsRESTToolkit) - This is a portable class library which makes it easy to access the Bing Maps REST services from .NET.
 - [Bing Maps Spatial Data Services Toolkit](https://github.com/Microsoft/BingMapsSDSToolkit) - This toolkit makes it easy to use the Bing Maps Spatial Data Services (SDS) in .NET.
 - [BotBuild-Location](https://github.com/Microsoft/BotBuilder-Location) - An open-source location picker control for Microsoft Bot Framework powered by Bing Maps REST services.
-- [SharpMap](http://sharpmap.codeplex.com/) - SharpMap is an easy-to-use mapping library for use in web and desktop applications.
+- [SharpMap](https://github.com/SharpMap/SharpMap) - SharpMap is an easy-to-use mapping library for use in web and desktop applications.
 - [DotSpatial](https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
 - [NTS Net Topology Suite](https://github.com/NetTopologySuite/NetTopologySuite) - A .NET GIS solution that is fast and reliable for the .NET platform.
 - [GDAL/OGR CSharp](https://trac.osgeo.org/gdal/wiki/GdalOgrInCsharp) - C# bindings for GDAL and OGR.
