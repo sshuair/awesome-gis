@@ -84,7 +84,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SharpMap](https://github.com/SharpMap/SharpMap) - An mapping library in web and desktop applications built in .NET
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization
-- [TileMill](http://tilemill.com) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/mapbox/tilemill)
+- [TileMill](https://tilemill-project.github.io/tilemill/) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/tilemill-project)
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A geographic information system (GIS) software package currently developed by Blue Marble Geographics that runs on Microsoft Windows
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 - [Mapinfo](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A desktop geographic information system software.
@@ -796,7 +796,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### CSS
 
-- [CartoCSS](https://www.mapbox.com/tilemill/docs/manual/carto/) - TileMills language.
+- [CartoCSS](https://tilemill-project.github.io/tilemill/docs/manual/carto/) - TileMills language.
 - [MapCSS](http://wiki.openstreetmap.org/wiki/MapCSS) - MapCSS is a CSS-like language for map stylesheets.
 
 
