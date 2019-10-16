@@ -135,6 +135,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities. 
 - [GeoWebCache](https://www.geowebcache.org/) - A java web application used to cache map tiles coming from a variety of sources such as OGC WMS in order to accelerate and optimize map image delivery.
 - [Google Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
+- [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
 
 
 ## Front-end Framework
@@ -203,6 +204,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 - [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.
 - [YOLT](https://github.com/avanetten/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
+- [Solaris](https://github.com/CosmiQ/solaris) - CosmiQ Works Geospatial Machine Learning Analysis Toolkit.
 
 
 ### Deep Learning Datasets
@@ -213,7 +215,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
-- [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images. 
+- [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
+- [Mapnik](http://mapnik.org/) - C++ library for map rendering.
 
 
 ## Geospatial Library
@@ -331,6 +334,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [whitebox](https://github.com/giswqs/whitebox) - Python frontend for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools). 
 - [WhiteboxTools-ArcGIS](https://github.com/giswqs/WhiteboxTools-ArcGIS) - ArcGIS Python Toolbox for [WhiteboxTools](https://github.com/jblindsay/whitebox-tools). 
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
+- [pygeoapi](https://pygeoapi.io/) - A Python server implementation of the OGC API suite of standards.
 
 ### Java
 - [Geotools](http://www.geotools.org/)  - GeoTools is an open source Java library that provides tools for geospatial data.
@@ -702,6 +706,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TileMantle](https://github.com/naturalatlas/tilemantle) - A tool to warm up your tile server cache. Give it a URL template, geometry, and list of zoom levels and it will request tiles incrementally to warm it up.
 - [landspeed.js](https://github.com/springmeyer/landspeed.js) - WMS server using node-mapnik.
 - [tilelive-postgis](https://github.com/stepankuzmin/tilelive-postgis) - Implements the tilelive API for generating mapnik vector tiles from PostGIS.
+- [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
 
 
 
