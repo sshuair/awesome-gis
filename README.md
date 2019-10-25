@@ -147,7 +147,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [three-geo](https://github.com/w3reality/three-geo) - Is a three.js based geographic visualization library
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization By Ant Financial
 - [webglearth2](https://github.com/webglearth/webglearth2) - Open-source virtual planet web application running in any web browser with support for WebGL HTML5 standard
-- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supportted by ERSI
+- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supported by ESRI
 - [D3.js](https://d3js.org/) - A javascript library for manipulating documents based on data
 - [Echarts](http://echarts.baidu.com/) - A user-friendly data visualisation library supported by Baidu
 - [geomajas-client javascript](http://www.geomajas.org/client-javascript) - Open source javascript mapping API for cool maps and apps
@@ -168,7 +168,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [PostGIS](http://postgis.net/) based on [PostgreSQL](http://www.postgresql.org/) - Most advanced open source database
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
 - [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
-- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-preformance database support by Microsoft
+- [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-performance database support by Microsoft
 - [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
 - [mySQL](https://www.mysql.com/) - the world's most popular open source database
 - [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
