@@ -200,6 +200,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - A code list of semantic segmentation.
 - [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
 - [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
+- [RoboSat.pink](https://github.com/datapink/RoboSat.pink) - Computer Vision framework for GeoSpatial Imagery.
 - [rastervision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery. 
 - [label-maker](https://github.com/developmentseed/label-maker) - Data Preparation for Satellite Machine Learning.
 - [eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python.
