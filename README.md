@@ -709,6 +709,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [landspeed.js](https://github.com/springmeyer/landspeed.js) - WMS server using node-mapnik.
 - [tilelive-postgis](https://github.com/stepankuzmin/tilelive-postgis) - Implements the tilelive API for generating mapnik vector tiles from PostGIS.
 - [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
+- [VueMapbox](https://github.com/soal/vue-mapbox/) - Vue 2 components for interacting with Mapbox GL JS
 
 
 
