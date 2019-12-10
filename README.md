@@ -8,14 +8,14 @@
 
 
 
-Awesome GIS is for collecting the geospatial related sources, including cartographer tools, geoanalysis tools, developing tools, data, conference & communities, news, MOOC's course, some amazing map site, etc.
+Awesome GIS is a collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 
-**Welcome to contribute. Let's make it better.** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md). Or you can comment below this issue: [Welcome to contribute](https://github.com/sshuair/awesome-gis/issues/72)
+**Please contribute. Let's make this guide better!** Please follow the [Contributing Guidelines](https://github.com/sshuair/awesome-gis/blob/master/ContributingGuidelines.md). Or you can comment below this issue: [Welcome to contribute](https://github.com/sshuair/awesome-gis/issues/72)
 
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
-  - [Geographic Information System SoftWare](#geographic-information-system-software)
+  - [Geographic Information System Software](#geographic-information-system-software)
   - [Remote Sensing Software](#remote-sensing-software)
   - [3D Application](#3d-application)
   - [Web Map Server](#web-map-server)
@@ -73,47 +73,45 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ----
 
-## Geographic Information System SoftWare
+## Geographic Information System Software
 - [ArcGIS](https://www.arcgis.com/) :star2: - An enterprise-level desktop GIS software published by Esri.
-- [QGIS](http://qgis.org/en/site/) :star2: - A cross-platform free and open-source desktop GIS software.
-- [GeoDa](http://geodacenter.github.io/) - An Introduction to Spatial Data Analysis.
-- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO.
-- [uDig](http://udig.refractions.net/) - An open source desktop application framework built with Eclipse.
-- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable geomatics professionals.
+- [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
+- [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
+- [GISInternals](http://www.gisinternals.com/) - Povidesdaily build packages and software development kits for the GDAL and MapServer
+- [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
+- [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+- [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
+- [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+- [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
-- [SharpMap](https://github.com/SharpMap/SharpMap) - A mapping library in web and desktop applications built in .NET.
-- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java.
-- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - Software package for geospatial analysis and data visualization.
-- [TileMill](https://tilemill-project.github.io/tilemill/) - Creating beautiful interactive maps with CartoCSS. [Github Link](https://github.com/tilemill-project)
-- [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - A GIS software package currently developed by Blue Marble Geographics for Microsoft Windows.
-- [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for orienteering.
-- [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A desktop GIS software.
-- [SAGA](http://www.saga-gis.org/en/index.html) - System for automated geoscientific analyses
-- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver
+- [SharpMap](https://github.com/SharpMap/SharpMap) - An easy-to-use mapping library for use in web and desktop applications
+- [TileMill](https://tilemill-project.github.io/tilemill/) - An open source map design studio, developed by a community of volunteer open source contributors
+- [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
+- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - An open source desktop GIS and remote sensing software package for general applications of geospatial analysis and data visualization.
 
 
 ## Remote Sensing Software
-- [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing application.
-- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing application.
-- [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
-- [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A software for object-based image analysis.
-- [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data.
+- [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing software.
+- [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing software.
+- [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A powerful development environment for object-based image analysis.
 - [Google Earth](https://www.google.com/earth/) - A computer program that renders a 3D representation of Earth based on satellite imagery.
-- [Google Earth Studio](https://www.google.com/earth/studio/) - A powerful earth motion design software.
-- [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform.
-- [GRASS GIS](https://grass.osgeo.org/) - Used for geospatial data management and analysis, as a founding member of OSGEO.
-- [Orfeo toolbox](https://www.orfeo-toolbox.org/) -  An open source library for remote sensing image processing.
+- [Google Earth Studio](https://www.google.com/earth/studio/) - An animation tool for Google Earth’s satellite and 3D imagery.
+- [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
+- [Opticks](https://opticks.org/) - An expandable remote sensing and imagery analysis software platform that is free and open source.
+- [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source project for state-of-the-art remote sensing, including a fast image viewer, apps callable from Bash, Python or QGIS, and a powerful C++ API.
+- [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data.
+- [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
 
 
-## 3D Application
+## 3D Applications
+- [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Allows you to explore any part of the world. Work with a variety of 3D and 2D map data formatt, including KML. Display data, sketch placemarks, measure and perform interactive analysis, and add annotations.
+- [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
+- [Google Earth](http://earth.google.com/) - A computer program that renders a 3D representation of Earth based on satellite imagery.
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - 3D desktop and web-based applications, enabling an enterprise to build, edit, navigate, query, and analyze realistic 3D environments.
-- [CityEngine](http://www.esri.com/software/cityengine/) - Transform 2D GIS Data into Smart 3D City Models.
-- [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Display data, sketch placemarks, measure distances and areas, and add annotations to any part of the world.
-- [World Wind](http://worldwind.arc.nasa.gov/java/) -  Provides features for displaying with geographic data.
-- [Google Earth](http://earth.google.com/) - Bringing an earth view for global mapping.
+- [World Wind](http://worldwind.arc.nasa.gov/java/) -  An SDK (software development kit) that software engineers can use to build their own applications
 
 
-## Web Map Server
+## Web Map Servers
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
@@ -126,7 +124,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [mapbender3](http://mapbender3.org/) - Publishing spatial data infrastructure services on the Symfony 2 PHP
 - [MapFish](http://www.mapfish.org/) - A framework for building rich web-mapping applications built with Pylons Python web framework
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
-- [~~MapBuilder~~](http://www.osgeo.org/mapbuilder) - This project has been retired in 2008
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 - [GeoTrellis](https://github.com/locationtech/geotrellis) - A geographic data processing engine for high performance applications that uses Spark to work with raster data. 
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
