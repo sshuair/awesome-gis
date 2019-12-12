@@ -17,8 +17,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 **Table Of Contents:**
   - [Geographic Information System Software](#geographic-information-system-software)
   - [Remote Sensing Software](#remote-sensing-software)
-  - [3D Application](#3d-application)
-  - [Web Map Server](#web-map-server)
+  - [3D Applications](#3d-applications)
+  - [Web Map Servers](#web-map-server)
   - [Front-end Framework](#front-end-framework)
   - [Spatial Database](#spatial-database)
   - [Mobile Develop Tools](#mobile-develop-tools)
@@ -62,10 +62,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Data](#data)
   - [News Site](#news-site)
   - [Awesome-Awesome](#awesome-awesome)
-  - [Amazing Map Site](#amazing-map-site)
+  - [Amazing Map Sites](#amazing-map-site)
   - [Other](#other)
-    - [Data Format](#data-format)
-    - [Design Material](#design-material)
+    - [Data Formats](#data-format)
+    - [Design Materials](#design-material)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
   - [Reference:](#reference)
@@ -81,6 +81,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
 - [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
+- [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java 
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 - [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
