@@ -64,7 +64,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Awesome-Awesome](#awesome-awesome)
   - [Amazing Map Sites](#amazing-map-sites)
   - [Other](#other)
-    - [Data Formats](#data-format)
+    - [Data Formats](#data-formats)
     - [Design Materials](#design-materials)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
