@@ -60,7 +60,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [SaaS](#saas)
   - [Conference & Communities](#conference--communities)
   - [Data](#data)
-  - [News Site](#news-site)
+  - [News Sites](#news-sites)
   - [Awesome-Awesome](#awesome-awesome)
   - [Amazing Map Sites](#amazing-map-sites)
   - [Other](#other)
