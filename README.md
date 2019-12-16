@@ -85,6 +85,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
 - [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
+- [SAGA](http://www.saga-gis.org/en/index.html) - Open source system for automated geoscientific analyses.
 - [SharpMap](https://github.com/SharpMap/SharpMap) - An easy-to-use mapping library for use in web and desktop applications
 - [TileMill](https://tilemill-project.github.io/tilemill/) - An open source map design studio, developed by a community of volunteer open source contributors
 - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
