@@ -968,6 +968,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
 - [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - Long list of geospatial tools and resources.
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
+- [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list / Wiki for ArcGIS users and developers
 
 
 ## Amazing Map Sites
