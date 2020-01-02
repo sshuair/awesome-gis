@@ -74,7 +74,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ----
 
 ## Geographic Information System Software
-- [ArcGIS](https://www.arcgis.com/) :star2: - An enterprise-level desktop GIS software published by Esri.
+- [ArcGIS](https://www.esri.com/arcgis/) :star2: - Cross-platform with free, open and paid data and mapping tools, APIs, SDKs, etc.
 - [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
 - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
 - [GISInternals](http://www.gisinternals.com/) - Povidesdaily build packages and software development kits for the GDAL and MapServer
