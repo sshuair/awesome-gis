@@ -21,9 +21,11 @@
 |   [Citymapper](http://citymapper.com/)    |   Transit |   London  |   UK  |   2011    |
 |   [Citymaps](http://citymaps.com/)    |   Maps    |   New York    |   US  |   2010    |
 |   [deCarta](http://www.decarta.com/)  |   Maps    |   San Jose, CA    |   US  |   1996    |
+|   [Delair](https://delair.aero/)   |   Drones  |   Toulouse   |   France  |   2011    |
 |   [Digital Globe](http://www.digitalglobe.com/)   |   Remote Sensing  |   Longmont, CO    |   US  |   1992    |
 |   [DJI](http://www.dji.com/)  |   Drones  |   Shenzhen    |   China   |   2006    |
 |   [DroneDeploy](http://www.dronedeploy.com/)  |   Drones  |   San Francisco, CA   |   US  |   2013    |
+|   [Earthcube](https://www.earthcube.eu/)   |   Remote Sensing  |   Paris   |   France  |   2016    |
 |   [Esri](http://www.esri.com/)    |   GIS |   Redlands, CA    |   US  |   1969    |
 |   [Estimote](http://estimote.com/)    |   LBMarketing |   Kraków  |   Poland  |   2012    |
 |   [Factual](http://www.factual.com/)  |   Location Big Data   |   Los Angeles, CA |   US  |   2008    |
@@ -79,7 +81,6 @@
 |   [Point Inside](http://www.pointinside.com/) |   LBMarketing |   Bellevue, WA    |   US  |   2009    |
 |   [Pozzey](http://www.pozzey.com/)    |   Indoor  |   Adelaide    |   Australia   |   2014    |
 |   [PrecisionHawk](http://www.precisionhawk.com/)  |   Drones  |   Raleigh, NC |   US  |   2011    |
-|   [Redbird](http://redbird.fr/)   |   Remote Sensing  |   Paris   |   France  |   2013    |
 |   [Roximity](http://roximity.com/)    |   LBMarketing |   Denver, CO  |   US  |   2012    |
 |   [Satellogic](http://www.satellogic.com/)    |   Remote Sensing  |   Palo Alto, CA   |   US  |   2010    |
 |   [SenseFly](https://www.sensefly.com/)   |   Drones  |   Cheseaux-Lausanne   |   Switzerland |   2009    |
