@@ -70,7 +70,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [MOOC](#mooc)
   - [Reference:](#reference)
 
-
 ----
 
 ## Geographic Information System Software
@@ -90,6 +89,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [TileMill](https://tilemill-project.github.io/tilemill/) - An open source map design studio, developed by a community of volunteer open source contributors
 - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - An open source desktop GIS and remote sensing software package for general applications of geospatial analysis and data visualization.
+- [Mapinfo](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A desktop geographic information system software.
+- [SAGA](http://www.saga-gis.org/en/index.html) - System for automated geoscientific analyses.
+- [GISInternals](http://www.gisinternals.com/) - Provide daily build packages and software development kit for GDAL and Mapserver.
+- [FME Software](https://www.safe.com/) - A data integration platform (data conversion and transformation) for spatial data.
+
 
 
 ## Remote Sensing Software
@@ -908,6 +912,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
+- [Wigle](https://wigle.net/) - A website for collecting information about the different wireless hotspots around the world. 
 
 
 ## Conference & Communities
@@ -924,16 +929,17 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GIS stackexchange](http://gis.stackexchange.com/)
     - [GIS-Lab](http://gis-lab.info/) - informal community of russian-speaking GIS/RS specialists, we get better ourselves and help get better others
     - [GeoNet](https://geonet.esri.com/) - The Esri Community
- 
+
 
 ## Data
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)
     - [Free GIS Data](http://freegisdata.rtwilson.com/)
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
+    - [National Earth System Science Data Center](http://www.geodata.cn/) - A Chinese GIS data sharing platform
 
 - **Data Site**
-    - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
+    - [OpenStreetMap](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [Geofabrik](http://download.geofabrik.de/)
@@ -951,6 +957,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - [OpenCellid](https://opencellid.org/) - The world's largest Open Database of Cell Towers
+    - [Mozilla Location Service](https://location.services.mozilla.com/downloads) - Another Open Database of Cell Towers, like [OpenCellid](https://opencellid.org/)
+    - [GADM](https://gadm.org/) - GADM provides maps and spatial data for all countries and their sub-divisions.
+    - [ECharts Maps](https://github.com/echarts-maps) - Open administrative boundaries (countries, regions and cities) for echarts.
 
 
 ## News Sites
