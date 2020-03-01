@@ -994,6 +994,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
 - [mapzilla](https://mapzilla.co.uk/)
+- [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 
 
 ## Other
