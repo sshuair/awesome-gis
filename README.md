@@ -135,7 +135,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoWebCache](https://www.geowebcache.org/) - A java web application used to cache map tiles coming from a variety of sources such as OGC WMS in order to accelerate and optimize map image delivery.
 - [Google Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
 - [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
-
+- [Baremaps](https://www.baremaps.com/) - An open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java.
 
 ## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
