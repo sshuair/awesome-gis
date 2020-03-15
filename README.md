@@ -338,6 +338,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 - [pygeoapi](https://pygeoapi.io/) - A Python server implementation of the OGC API suite of standards.
 - [pyGEOS](https://github.com/pygeos/pygeos) - Expose GEOS functions into Python.
+- [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
 
 ### Java
 - [Geotools](http://www.geotools.org/)  - GeoTools is an open source Java library that provides tools for geospatial data.
