@@ -339,6 +339,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [pygeoapi](https://pygeoapi.io/) - A Python server implementation of the OGC API suite of standards.
 - [pyGEOS](https://github.com/pygeos/pygeos) - Expose GEOS functions into Python.
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
+- [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
 
 ### Java
 - [Geotools](http://www.geotools.org/)  - GeoTools is an open source Java library that provides tools for geospatial data.
