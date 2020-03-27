@@ -170,7 +170,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
 - [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-performance database support by Microsoft
 - [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
-- [mySQL](https://www.mysql.com/) - the world's most popular open source database
+- [MySQL](https://www.mysql.com/) - the world's most popular open source database
 - [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
 - [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
 - [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
@@ -1015,7 +1015,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
-- [MongoDB地理数据模块与MongoGIS](http://www.imooc.com/view/298) - Mandarin.
+- [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
 
 
 ## Reference
