@@ -68,7 +68,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Design Materials](#design-materials)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
-  - [Reference:](#reference)
+  - [Reference](#reference)
 
 
 ----
