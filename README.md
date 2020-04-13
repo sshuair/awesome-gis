@@ -177,6 +177,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence.
 - [DB2 Spatial Extender](https://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.spatial.topics.doc/doc/db2sb03.html) - An extender for IBM DB2 to generate and analyze spatial information about geographic features, and to store and manage the data on which this information is based.
 - [TimescaleDB](https://www.timescale.com/) - An open-source time-series SQL database optimized for fast ingest and complex queries.
+- [GeoWave](https://locationtech.github.io/geowave/) - It provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, and DynamoDB.
 
 ## Mobile Develop Tools
 - **iOS**
@@ -365,6 +366,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [jpostal](https://github.com/openvenues/jpostal) - Java/JNI bindings to libpostal for fast international street address parsing/normalization.
 - [Photon](https://github.com/komoot/photon) - Photon is an open source geocoder built for OpenStreetMap data. It is based on elasticsearch.
 - [GraphHopper Routing Engine](https://github.com/graphhopper/graphhopper) - GraphHopper is a fast and memory efficient Java routing engine, released under Apache License 2.0. By default it uses OpenStreetMap and GTFS data, but it can import other data sources.
+- [GeoWave](https://locationtech.github.io/geowave/) - It provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, and DynamoDB.
 
 
 ### C
