@@ -103,6 +103,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Orfeo toolbox](https://www.orfeo-toolbox.org/) - An open-source project for state-of-the-art remote sensing, including a fast image viewer, apps callable from Bash, Python or QGIS, and a powerful C++ API.
 - [PCI Geomatica](http://www.pcigeomatics.com/software/geomatica/professional) - A remote sensing desktop software package for processing earth observation data.
 - [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
+- [PANOPLY](https://www.giss.nasa.gov/tools/panoply/)- Panoply plots geo-referenced and other arrays from netCDF, HDF, GRIB, and other datasets.
 
 
 ## 3D Applications
