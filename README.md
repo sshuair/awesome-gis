@@ -202,6 +202,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Deep Learning Framework for Geospatial
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - A code list of semantic segmentation.
 - [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
+- [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, papers, and contests related to remote sensing change detection.
 - [robosat](https://github.com/mapbox/robosat) - Semantic segmentation on aerial and satellite imagery.
 - [neat-EO](https://neat-EO.pink) - Efficient AI4EO OpenSource framework.
 - [rastervision](https://github.com/azavea/raster-vision) - An open source framework for deep learning on satellite and aerial imagery. 
