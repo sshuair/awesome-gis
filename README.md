@@ -345,6 +345,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
 - [terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server, built with Flask and Rasterio.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - A blender addons to make the bridge between Blender and geographic data.
+- [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 
 
 ### Java
@@ -984,6 +985,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [awesome-open-geoscience](https://github.com/softwareunderground/awesome-open-geoscience) - Curated from repositories that make our lives as geoscientists, hackers and data wranglers easier or just more awesome.
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list / Wiki for ArcGIS users and developers.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+- [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 
 
 ## Amazing Map Sites
