@@ -346,6 +346,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [terracotta](https://github.com/DHI-GRAS/terracotta) - A light-weight, versatile XYZ tile server, built with Flask and Rasterio.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - A blender addons to make the bridge between Blender and geographic data.
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
+- [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
 
 
 ### Java
