@@ -1044,7 +1044,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Texas URISA: More Than Just Maps](https://www.urisatexas.org/podcast)
 - [Thinking Spatially](https://www.josephkerski.com/thinking-spatially/)
 - [Very Spatial](https://veryspatial.com/)
-### DEFUNCT_GEOSPATIAL_PODCAST
+### DEFUNCT_GEOSPATIAL_PODCASTS
 - [Speaking of GIS](https://speakingofgis.com/)
 - [JB’s ‘Bits & Bobs’](http://everydaygeo.com/jbs-bits-bobs-ep-2/)
 - [A Conversation with Tim O’Reilly](http://itc.conversationsnetwork.org/shows/detail651.html)
