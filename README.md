@@ -69,7 +69,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
     - [PODCASTS](#PODCASTS)
-    - [DEFUNCT GEOSPATIAL PODCASTS](DEFUNCT_GEOSPATIAL_PODCASTS)
+    - [DEFUNCT GEOSPATIAL PODCASTS](#DEFUNCT_GEOSPATIAL_PODCASTS)
   - [Reference](#reference)
 
 
