@@ -68,6 +68,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Design Materials](#design-materials)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
+    - [PODCASTS](#PODCASTS)
+    - [DEFUNCT GEOSPATIAL PODCASTS](#DEFUNCT_GEOSPATIAL_PODCASTS)
   - [Reference](#reference)
 
 
@@ -1027,7 +1029,25 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
-
+### PODCASTS
+- [Esri Science of Where](https://www.esri.com/about/newsroom/podcast/)
+- [Eyes on Earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
+- [Geodorable Podcast](https://geodorable.com/)
+- [Geointeresting](https://podcasts.apple.com/us/podcast/geointeresting/id990858116)
+- [Isin't That Spatial](https://isntthatspatial.net/)
+- [The Mappyist Hour](http://www.themappyisthour.com/)
+- [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast)
+- [Map Shack](https://blog.mapspeople.com/introducing-the-map-shack-a-mapspeople-podcast)
+- [Nodes and Ways](https://www.openstreetmap.us/2020/04/nodes-and-ways-guest/)
+- [Project Geospatial](https://www.projectgeospatial.com/)
+- [Scene From Above](https://geoger.co.uk/podcast/)
+- [Texas URISA: More Than Just Maps](https://www.urisatexas.org/podcast)
+- [Thinking Spatially](https://www.josephkerski.com/thinking-spatially/)
+- [Very Spatial](https://veryspatial.com/)
+### DEFUNCT_GEOSPATIAL_PODCASTS
+- [Speaking of GIS](https://speakingofgis.com/)
+- [JB’s ‘Bits & Bobs’](http://everydaygeo.com/jbs-bits-bobs-ep-2/)
+- [A Conversation with Tim O’Reilly](http://itc.conversationsnetwork.org/shows/detail651.html)
 
 ## Reference
 >1. [List of geographic information systems software](https://en.wikipedia.org/wiki/List_of_geographic_information_systems_software)
@@ -1036,5 +1056,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >3. [brandonxiang's Awesome GIS](http://www.jianshu.com/p/3b3efa92dd6d)
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
 >5. [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - most Geospatial Library content come from this ropository.
+>6. [A Roundup of Geospatial Podcasts](https://www.gislounge.com/geospatial-podcasts-roundup/)
 
 
