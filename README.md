@@ -350,6 +350,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - A blender addons to make the bridge between Blender and geographic data.
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
+- [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 
 
 ### Java
