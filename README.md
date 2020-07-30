@@ -727,6 +727,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [VueMapbox](https://github.com/soal/vue-mapbox/) - Vue 2 components for interacting with Mapbox GL JS
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city.
+- [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
 
 
 ### C Sharp
