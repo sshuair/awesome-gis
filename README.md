@@ -354,7 +354,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 
 
-
 ### Java
 - [Geotools](http://www.geotools.org/)  - GeoTools is an open source Java library that provides tools for geospatial data.
 - [GeoServer](http://geoserver.org/) - GeoServer is open source server for sharing geospatial data.
