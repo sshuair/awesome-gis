@@ -351,6 +351,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
+- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+
 
 
 ### Java
