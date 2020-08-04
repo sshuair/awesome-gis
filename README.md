@@ -351,6 +351,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
+- [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 
 
 ### Java
@@ -556,7 +557,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [sf](https://github.com/r-spatial/sf) - Simple Features for R
 - [h3r](https://github.com/scottmmjackson/h3r) - Uber's h3 bindings to the R Programming Language
 - [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox 
-
+- [rgee] (https://github.com/r-spatial/rgee) - Google Earth Engine for R
 
 
 ### Fortran
