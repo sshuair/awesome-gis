@@ -557,7 +557,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [sf](https://github.com/r-spatial/sf) - Simple Features for R
 - [h3r](https://github.com/scottmmjackson/h3r) - Uber's h3 bindings to the R Programming Language
 - [mapdeck](https://github.com/SymbolixAU/mapdeck) - R interface to Deck.gl and Mapbox 
-- [rgee] (https://github.com/r-spatial/rgee) - Google Earth Engine for R
+- [rgee](https://github.com/r-spatial/rgee) - Google Earth Engine for R
 
 
 ### Fortran
