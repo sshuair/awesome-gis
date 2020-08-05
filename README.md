@@ -352,6 +352,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
+- [pydeck](https://github.com/visgl/deck.gl/tree/master/bindings/pydeck) - High-scale spatial rendering in Python, powered by deck.gl.
 
 
 ### Java
