@@ -115,6 +115,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - 3D desktop and web-based applications, enabling an enterprise to build, edit, navigate, query, and analyze realistic 3D environments.
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  An SDK (software development kit) that software engineers can use to build their own applications
 - [Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
+- [DEM Net Elevation API](https://elevationapi.com) - 3D terrain model generation online from open data (DEM, OSM) and imagery, exports to STL and glTF.
 
 
 ## Web Map Servers
@@ -753,6 +754,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcBruTile](https://github.com/ArcBruTile/ArcBruTile) - ArcBruTile displays a collection of maps in ArcGIS Pro 2.0 and ArcMap 10.0 - 10.6.
 - [BruTile](https://github.com/BruTile/BruTile) - BruTile is a .NET library to access tile services like those of OpenStreetMap, MapBox or GeodanMaps.
 - [GMap.NET](https://archive.codeplex.com/?p=greatmaps) - A great and powerful, free, cross platform, open source .NET control.
+- [DEM Net Elevation API](https://github.com/dem-net/DEM.Net) - Library focused on Digital Elevation Models, OSM and 3D from open data. Playground: https://elevationapi.com
 
 
 ### Kotlin
