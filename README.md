@@ -269,6 +269,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
 - [gdalcubes](https://github.com/appelmar/gdalcubes) - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
 - [hydroflow](https://github.com/sistemalabgis/hydroflow) - Compute drainage orders in drainage basins using Strahler and Shreve methods.
+- [PDAL](https://pdal.io/) - PDAL is Point Data Abstraction Library. GDAL for point cloud data.
 
 ### Python
 - [Shapely](https://github.com/Toblerity/Shapely) - A library for manipulation and analysis of geometric objects in the Cartesian plane.
