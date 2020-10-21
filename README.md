@@ -124,7 +124,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoServer](http://geoserver.org/) - An open source server for sharing geospatial data
 - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
-- [GeoDjango](http://geodjango.org/) - A GIS server built with python web framework -- django
+- [GeoDjango](https://docs.djangoproject.com/en/3.1/ref/contrib/gis/) - A GIS server built with python web framework -- django
 - [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering 
 - [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications 
 - [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
