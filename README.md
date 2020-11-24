@@ -355,6 +355,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
 - [geemap](https://github.com/giswqs/geemap) - A Python package for interactive mapping with Google Earth Engine, ipyleaflet, and ipywidgets.
 - [pydeck](https://github.com/visgl/deck.gl/tree/master/bindings/pydeck) - High-scale spatial rendering in Python, powered by deck.gl.
+- [Lets-Plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md) - An open-source, ggplot2-style plotting library supporting GeoPandas, interactive maps and geocoding.
 
 
 ### Java
@@ -761,7 +762,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Kotlin
 
 - [geospatial-messenger](https://github.com/sdeleuze/geospatial-messenger) - Geospatial messenger application written with Spring Boot + Kotlin + PostgreSQL.
-
+- [Lets-Plot](https://github.com/JetBrains/lets-plot-kotlin/blob/master/README.md) - An open-source, ggplot2-style plotting library which includes a support of GeoToos features and geometries.
 
 ### Clojure
 
