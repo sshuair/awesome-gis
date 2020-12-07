@@ -1000,6 +1000,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
+- [awesome-geospatial-companies](https://github.com/chrieke/awesome-geospatial-companies) - List of 500+ geospatial companies (GIS, Earth Observation, UAV, Satellite, Digital Farming, ..)
 
 ## Amazing Map Sites
 - [Amazing Maps](http://amazing-maps.tumblr.com/)
