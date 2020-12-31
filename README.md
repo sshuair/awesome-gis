@@ -1042,6 +1042,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
 ### PODCASTS
 - [Esri Science of Where](https://www.esri.com/about/newsroom/podcast/)
+- [Africa GeoConvo Podcast](https://www.africageoconvo.com)
 - [Eyes on Earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
 - [Geodorable Podcast](https://geodorable.com/)
 - [Geointeresting](https://podcasts.apple.com/us/podcast/geointeresting/id990858116)
