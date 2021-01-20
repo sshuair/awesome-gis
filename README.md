@@ -358,6 +358,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [pydeck](https://github.com/visgl/deck.gl/tree/master/bindings/pydeck) - High-scale spatial rendering in Python, powered by deck.gl.
 - [Lets-Plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md) - An open-source, ggplot2-style plotting library supporting GeoPandas, interactive maps and geocoding.
 - [WaterDetect](https://github.com/cordmaur/WaterDetect) - An end-to-end algorithm to generate open water cover mask.
+- [OWSLib](https://geopython.github.io/OWSLib/): OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
 
 
 ### Java
