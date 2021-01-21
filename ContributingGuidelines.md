@@ -10,6 +10,8 @@ Everyone's contributions are always welcome!
     - Make sure the section title is **Bold** style.
     - Add the section description.
     - Add the section title to Table of Contents.
+- Add the project-name in A-Z order
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Check your spelling and grammar.
 - Remove any trailing whitespace.
+
