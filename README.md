@@ -359,6 +359,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Lets-Plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md) - An open-source, ggplot2-style plotting library supporting GeoPandas, interactive maps and geocoding.
 - [WaterDetect](https://github.com/cordmaur/WaterDetect) - An end-to-end algorithm to generate open water cover mask.
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
+- [OWSLib](https://geopython.github.io/OWSLib/): OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
 
 
 ### Java
@@ -685,6 +686,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 - [OpenLayers](http://openlayers.org/)  - Open source AJAX library.
 - [Leaflet](http://leafletjs.com/)  - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
+- [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request) - This is the small library which helps to connect geoserver with leaflet. Using this library, we can make WMS, WFS, getLegendGraphic, WMS-Image request.
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)  - Google Maps API for JavaScript.
 - [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way. 
 - [Bing Maps V8 Web Control](https://msdn.microsoft.com/en-us/library/mt712542.aspx) - Bing Maps API for JavaScript.
