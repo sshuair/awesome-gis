@@ -192,6 +192,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
     - [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
     - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
+    - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 - **Android**
     - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
@@ -200,6 +201,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
     - [TileView](https://github.com/moagrius/TileView) - Asynchronously display tile-based images, with additional functionality for 2D map.
     - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+    - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for Android. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
 - **Cross-Platform**
     - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
