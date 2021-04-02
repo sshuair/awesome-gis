@@ -716,6 +716,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
 - [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
 - [geotiff.js](https://github.com/geotiffjs/geotiff.js) - geotiff.js is a small library to parse TIFF files for visualization or analysis.
+- [geojson2svg](https://github.com/gagan-bansal/geojson2svg) A library to convert geojson data to svg map with lots of flexibility.
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
 - [Turf.js](http://turfjs.org/)  - Advanced geospatial analysis for browsers and node.
 - [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
