@@ -180,7 +180,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MySQL](https://www.mysql.com/) - the world's most popular open source database
 - [mongoDB](https://www.mongodb.org/) - An open-source, document database designed for ease of development and scaling
 - [GeoMesa](http://www.geomesa.org/) - An open-source, distributed, spatio-temporal database built on a number of distributed cloud data storage systems, including Accumulo, HBase, Cassandra, and Kafka.
-- [MapD](https://www.mapd.com) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
+- [Omnisci](https://www.omnisci.com/) - SQL engine that leverages the parallel processing power of GPUs to query billions of rows in milliseconds.
 - [Tile38](https://github.com/tidwall/tile38) - Tile38 is a geospatial database, spatial index, and realtime geofence.
 - [DB2 Spatial Extender](https://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.spatial.topics.doc/doc/db2sb03.html) - An extender for IBM DB2 to generate and analyze spatial information about geographic features, and to store and manage the data on which this information is based.
 - [TimescaleDB](https://www.timescale.com/) - An open-source time-series SQL database optimized for fast ingest and complex queries.
