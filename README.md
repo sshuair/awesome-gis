@@ -148,6 +148,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
 - [OpenLayers](http://openlayers.org/) - Open source JavaScript map viewing library
+- [OpenGlobus](https://www.openglobus.org/) - JavaScript 3D maps and geospatial data visualization engine library. It uses the pure WebGL technology.
 - [three.js](http://threejs.org/) - A JavaScript 3D library which makes WebGL simpler
 - [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
 - [three-geo](https://github.com/w3reality/three-geo) - Is a three.js based geographic visualization library
@@ -175,6 +176,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Oracle Spatial](http://www.oracle.com/us/products/database/options/spatial/overview/index.html) - Oracle-based advanced spatial data analysis
 - [Esri Enterprise Geodatabase](https://pro.arcgis.com/en/pro-app/help/data/geodatabases/overview/what-is-a-geodatabase-.htm) - It's an addition to a relational database engine like PostgreSQL. Besides to make spatial calculations and apply topological rules, adds data version control, etc.
 - [Spatialite](https://www.gaia-gis.it/fossil/libspatialite/index) based on [SQLite](https://www.sqlite.org/) - Lightweight SQL library to support fully spatially capability
+- [GeoPackage](https://www.geopackage.org/) based on [SQLite](https://www.sqlite.org/) - The GeoPackage Encoding Standard describes a set of conventions for storing the following within an SQLite database.
 - [MSSQL](https://www.microsoft.com/en-us/server-cloud/products/sql-server/) - A high-performance database support by Microsoft
 - [MBtiles](https://github.com/mapbox/mbtiles-spec) - A specification for storing tiled map data in SQLite databases
 - [MySQL](https://www.mysql.com/) - the world's most popular open source database
@@ -1080,5 +1082,4 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >4. [list top 100 geospatial start ups companies world](http://geoawesomeness.com/list-top-100-geospatial-start-ups-companies-world/)
 >5. [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - most Geospatial Library content come from this ropository.
 >6. [A Roundup of Geospatial Podcasts](https://www.gislounge.com/geospatial-podcasts-roundup/)
-
 
