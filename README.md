@@ -146,6 +146,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
+- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - A fork of mapbox-gl-js after licensing change
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
 - [OpenLayers](http://openlayers.org/) - Open source JavaScript map viewing library
 - [OpenGlobus](https://www.openglobus.org/) - JavaScript 3D maps and geospatial data visualization engine library. It uses the pure WebGL technology.
@@ -229,6 +230,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Map Render Engine
 
 - [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native) - A library for embedding interactive, customizable vector maps into native applications on multiple platforms
+- [maplibre-gl-native](https://github.com/maplibre/maplibre-gl-native) - A fork of mapbox-gl-native after licensing change
 - [tangram-es](https://github.com/tangrams/tangram-es) - A C++ library for rendering 2D and 3D maps from vector data using OpenGL ES, and mainly focused on mobile and embedded devices.
 - [Skia](https://skia.org/) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 - [Mapnik](http://mapnik.org/) - C++ library for map rendering.
