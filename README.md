@@ -146,7 +146,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Front-end Framework
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
-- [maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - A fork of mapbox-gl-js after licensing change
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
 - [OpenLayers](http://openlayers.org/) - Open source JavaScript map viewing library
 - [OpenGlobus](https://www.openglobus.org/) - JavaScript 3D maps and geospatial data visualization engine library. It uses the pure WebGL technology.
