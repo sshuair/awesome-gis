@@ -749,6 +749,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city.
 - [mapshaper](https://github.com/mbloch/mapshaper) - Tools for editing Shapefile, GeoJSON, TopoJSON and CSV files.
+- [vue-cesium](https://github.com/zouyaoji/vue-cesium) - A Vue 2.x & Vue 3.x based component library of CesiumJS for GISer.
 
 
 ### C Sharp
@@ -1084,4 +1085,3 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 >5. [Awesome GeoSpatial](https://github.com/sacridini/Awesome-Geospatial) - most Geospatial Library content come from this ropository.
 >6. [A Roundup of Geospatial Podcasts](https://www.gislounge.com/geospatial-podcasts-roundup/)
 >7. [PostGIS in Action, Third Edition](https://www.manning.com/books/postgis-in-action-third-edition) - A book about writing spatial queries for PostgreSQL.
-
