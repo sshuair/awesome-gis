@@ -369,6 +369,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OWSLib](https://geopython.github.io/OWSLib/): OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
 - [geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) - geobeam adds GIS capabilities to your Apache Beam and Dataflow pipelines.
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
+- [localtileserver](https://github.com/banesullivan/localtileserver) - Easily visualize large geospatial images with ipyleaflet or folium in Jupyter or in a web browser with CesiumJS.
 
 
 ### Java
