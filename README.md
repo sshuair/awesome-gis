@@ -187,6 +187,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [DB2 Spatial Extender](https://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.spatial.topics.doc/doc/db2sb03.html) - An extender for IBM DB2 to generate and analyze spatial information about geographic features, and to store and manage the data on which this information is based.
 - [TimescaleDB](https://www.timescale.com/) - An open-source time-series SQL database optimized for fast ingest and complex queries.
 - [GeoWave](https://locationtech.github.io/geowave/) - It provides geospatial and temporal indexing on top of Accumulo, HBase, BigTable, Cassandra, and DynamoDB.
+- [H2GIS](http://www.h2gis.org/) - A spatial extension of the H2 database.
 
 ## Mobile Develop Tools
 - **iOS**
