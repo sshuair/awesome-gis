@@ -93,7 +93,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - An open source desktop GIS and remote sensing software package for general applications of geospatial analysis and data visualization.
 - [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
-
+- [Abc-Map](https://abc-map.fr/) - A lightweight and user-friendly Web GIS. Create, import data from various sources, export maps or share them online freely and easily.
 
 ## Remote Sensing Software
 - [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing software.
