@@ -538,7 +538,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 - [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
-- [Lets-Plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md) - An open-source, ggplot2-style plotting library supporting GeoPandas, interactive maps and geocoding.
+- [Lets-Plot](https://lets-plot.org) - An open-source, ggplot2-style plotting library supporting GeoPandas, interactive maps and geocoding.
 - [lidar](https://github.com/giswqs/lidar) - Terrain and hydrological analysis using digital elevation models (DEMs).
 - [localtileserver](https://github.com/banesullivan/localtileserver) - Easily visualize large geospatial images with ipyleaflet or folium in Jupyter or in a web browser with CesiumJS.
 - [LT-ChangeDB](https://github.com/eMapR/LT-ChangeDB) - Scripts to extract spectral change information from LandTrendr data to a geodatabase.
