@@ -63,6 +63,7 @@
 |   [Mapsense](http://www.mapsense.co/) |   Maps    |   San Francisco, CA   |   US  |   2013    |
 |   [Maptia](http://maptia.com/)    |   Maps    |   Seattle, WA |   US  |   2012    |
 |   [Maptiks](http://www.maptiks.com/)  |   Maps    |   British Columbia    |   Canada  |   2014    |
+|   [MapTiler](https://www.maptiler.com/)    |   Maps |   Zug  |   Switzerland  |   2020    |
 |   [Media mobile](http://www.mediamobile.com/index.php/en/)    |   Traffic |   Paris   |   France  |   2005    |
 |   [Micello](http://www.micello.com/)  |   Indoor  |   Santa Clara, CA |   US  |   2007    |
 |   [Moovit](http://moovitapp.com/) |   Transit |   Ness Ziona  |   Israel  |   2011    |
@@ -71,7 +72,6 @@
 |   [Navmii](http://www.navmii.com/)    |   Navigation  |   San Francisco, CA   |   US  |   2010    |
 |   [Nextome](http://www.nextome.org/)  |   Indoor  |   Valenzano   |   Italy   |   2013    |
 |   [Nofity Nearby](http://www.notifynearby.com/)   |   LBMarketing |   New York, NY    |   US  |   2015    |
-|   [OctoGEO](https://octogeo.com/)    |   Maps |   Brno  |   Czech Republic |   2015    |
 |   [Pitney Bowes](http://www.pb.com/)  |   GIS |   Stamford, CT    |   US  |   1920    |
 |   [Placeable](http://placeable.com/)  |   Location Big Data   |   Denver, CO  |   US  |   1996    |
 |   [PlaceIQ](http://www.placeiq.com/)  |   Location Big Data   |   New York, NY    |   US  |   2010    |
