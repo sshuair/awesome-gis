@@ -135,9 +135,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapGuide ](http://mapguide.osgeo.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [Mapnik](http://mapnik.org/) - An open source mapping toolkit written in C++ for desktop-based and server-based map rendering
 - [MapServer](http://www.mapserver.org/) - Publishing spatial data and interactive mapping applications to the web
+- [MapTiler Server](https://www.maptiler.com/server/) - Map server for self-hosting of vector tiles, satellite imagery, own geodata and data from PostGIS database.
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
-- [OpenMapTiles Map Server](https://openmaptiles.com/server/) - Map server running in Docker container to create vector maps and GIS applications.
 - [OpenTileServer](https://opentileserver.org/) - This script is for building a basic tile server with OpenStreetMap data.
 - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
