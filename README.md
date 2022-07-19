@@ -249,6 +249,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### C
 
 - [Datamaps](https://github.com/ericfischer/datamaps) - This is a tool for indexing large lists of geographic points or lines and dynamically generating map tiles from the index for display.
+- [geographiclib-c](https://github.com/geographiclib/geographiclib-c) - C implementation of the geodesic routines in GeographicLib. This is a library to solve geodesic problems on an ellipsoid model of the earth. Note that this library is incorporated into PROJ, and for many people using the geodesic routines via PROJ may be more convenient.
 - [H3](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system.
 - [libpostal](https://github.com/openvenues/libpostal) - A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.
 - [libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
@@ -263,6 +264,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [entwine](https://github.com/connormanning/entwine) - Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [GDAL](http://www.gdal.org/)  - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
 - [gdalcubes](https://github.com/appelmar/gdalcubes) - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
+- [geographiclib](https://github.com/geographiclib/geographiclib) - GeographicLib is a small C++ library for geodesic and rhumb line calculations, and conversions between geographic, UTM, UPS, MGRS, geocentric, and local cartesian coordinates, gravity (e.g., EGM2008) and geomagnetic field (e.g., WMM2020) calculations.
 - [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
 - [GEOS](https://trac.osgeo.org/geos/)  - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
 - [gSLICr](https://github.com/carlren/gSLICr) - Real-time super-pixel segmentation.
@@ -347,6 +349,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Fortran
 
 - [6S](http://6s.ltdri.org/) - Second Simulation of the Satellite Signal in the Solar Spectrum (6S) open source algorithm.
+- [geographiclib-fortran](https://github.com/geographiclib/geographiclib-fortran) - 
 - [SPECFEM3D_GLOBE](https://github.com/geodynamics/specfem3d_globe) - SPECFEM3D_GLOBE simulates global and regional (continental-scale) seismic wave propagation.
 - [SWAT](https://github.com/WatershedModels/SWAT) - Implementation of SWAT model.
 
@@ -385,6 +388,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Apache SIS](http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
 - [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
 - [Geoapi](http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
+- [geographiclib-java](https://github.com/geographiclib/geographiclib-java) - Java implementation of the geodesic routines in GeographicLib.
 - [Geonetwork](http://geonetwork-opensource.org/) - GeoNetwork is a catalog application to manage spatially referenced resources.
 - [GeoServer](http://geoserver.org/) - GeoServer is open source server for sharing geospatial data.
 - [Geotools](http://www.geotools.org/)  - GeoTools is an open source Java library that provides tools for geospatial data.
@@ -420,6 +424,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [gdal3.js](https://gdal3.js.org/) - gdal3.js is a port of Gdal applications (**gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform**) to WebAssembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
 - [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
+- [geographiclib-js](https://github.com/geographiclib/geographiclib-js) - JavaScript implementation of the some routines in GeographicLib, including [geographiclib-geodesic](https://www.npmjs.com/package/geographiclib-geodesic) and [geographiclib-dms](https://www.npmjs.com/package/geographiclib-dms).
 - [geojson2svg](https://github.com/gagan-bansal/geojson2svg) A library to convert geojson data to svg map with lots of flexibility.
 - [Geokit](https://github.com/developmentseed/geokit) - Geokit is a command-line interface (CLI) tool written in javascript, that contains all the basic functionalities for measurements, conversions and operations of geojson files.
 - [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
@@ -561,6 +566,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) - geobeam adds GIS capabilities to your Apache Beam and Dataflow pipelines.
 - [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
 - [GeoDjango](http://geodjango.org/) - Django geographic web framework.
+- [geographiclib-python](https://github.com/geographiclib/geographiclib-python) - Python implementation of the geodesic routines in GeographicLib.
 - [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
 - [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
