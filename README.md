@@ -143,7 +143,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
 
 ## Front-end Framework
-- [ArcGIS API for JavaScript](https://developers.arcgis.com/javascript/) - Creating high-performing apps and smarter visualizations supported by ESRI
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing  2D and 3D mapping applications supported by Esri.
 - [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
@@ -190,7 +190,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Mobile Develop Tools
 - **Android**
-    - [ArcGIS Runtime SDK for Android](https://developers.arcgis.com/android/) - Build native mapping apps for Android devices
+    - [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Build native mapping apps for Android devices
     - [Google Maps API for Android](https://developers.google.com/maps/android/)
     - [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) Includes APIs for static vector and raster maps, camera use, navigation, and custom marker drawing.
     - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
@@ -199,10 +199,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for Android. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
   
 - **Cross-Platform**
-    - [ArcGIS Runtime SDK for Xamarin](https://developers.arcgis.com/xamarin/) - Build native mapping apps for Android and iOS in C# (Quartz Beta)
+    - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build native mapping apps for Android and iOS in C# using .NET Multi-platform App UI (MAUI).
+    - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build native mapping apps for Android and iOS in Qt.
   
 - **iOS**
-    - [ArcGIS Runtime SDK for iOS](https://developers.arcgis.com/ios/) - Build mapping apps for iOS devices
+    - [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Build mapping apps for iOS devices using Swift.
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
     - [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
     - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
@@ -357,6 +358,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LandTrendr](https://github.com/KennedyResearch/LandTrendr-2012) - LandTrendr (Landsat-based Detection of Trends in Disturbance and Recovery) attempt to capture, label, and map changes in Earth's surface for use in science, natural resource management, and education.
 
 ### Java
+- [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/)
 - [Apache SIS](http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
 - [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
 - [Geoapi](http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
@@ -380,7 +382,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [World Wind Java SDK](http://worldwind.arc.nasa.gov/java/) - Nasa cross-platform Java SDK.
 
 ### JavaScript
-- [ArcGIS API](https://developers.arcgis.com/javascript/) - ArcGIS API for JavaScript.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing  2D and 3D mapping applications supported by Esri.
 - [arc.js](https://github.com/springmeyer/arc.js) - Calculate great circles routes as lines in GeoJSON or WKT format.
 - [Bing Maps V8 Code Samples](https://github.com/Microsoft/BingMapsV8CodeSamples) - A large collection of open source code samples for Bing Maps V8.
 - [Bing Maps V8 Interactive SDK](https://www.bing.com/api/maps/sdkrelease/mapcontrol/isdk#loadMapWithOptions+JS) - An interactive code sample gallery for Bing Maps V8.
@@ -909,6 +911,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Conference**
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
     - [Esri Developer Summit](http://www.esri.com/events/devsummit)
+    - [Esri European Developer Summit](https://www.esri.com/en-us/about/events/devsummit-europe/)
     - [FOSS4G](http://foss4g.org/)
     - [State of the Map](https://stateofthemap.org/)
 
@@ -960,6 +963,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Awesome-Awesome
 - [awesome-arcgis](https://github.com/esri-es/awesome-arcgis/) - Resource list / Wiki for ArcGIS users and developers.
+- [awesome-arcgis-developers](https://github.com/Esri/awesome-arcgis-developers)- A curated list of resources to help you with ArcGIS development.
 - [awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code) - curated list of awesome tools, tutorials, code, helpful projects, links, stuff about Earth Observation and Geospatial stuff!
 - [Awesome-GEE](https://github.com/giswqs/Awesome-GEE) - A curated list of Google Earth Engine resources.
 - [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
