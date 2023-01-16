@@ -143,7 +143,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
 
 ## Front-end Framework
-- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing  2D and 3D mapping applications supported by Esri.
+- [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing 2D and 3D mapping applications supported by Esri.
 - [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
@@ -190,7 +190,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Mobile Develop Tools
 - **Android**
-    - [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Build native mapping apps for Android devices
+    - [ArcGIS Maps SDK for Kotlin](https://developers.arcgis.com/kotlin/) - Build 2D and 3D mapping applications for Android devices supported by Esri.
     - [Google Maps API for Android](https://developers.google.com/maps/android/)
     - [Mapbox Android SDK](https://www.mapbox.com/android-sdk/) Includes APIs for static vector and raster maps, camera use, navigation, and custom marker drawing.
     - [NextGIS Android SDK](https://github.com/nextgis/android_maplib) - An open source library for Android geo applications.
@@ -199,15 +199,21 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for Android. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
   
 - **Cross-Platform**
-    - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build native mapping apps for Android and iOS in C# using .NET Multi-platform App UI (MAUI).
-    - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build native mapping apps for Android and iOS in Qt.
+    - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build native mapping apps for Android and iOS in C# using .NET Multi-platform App UI (MAUI) supported by Esri.
+    - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build native mapping apps for Android and iOS in Qt  supported by Esri.
   
 - **iOS**
-    - [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Build mapping apps for iOS devices using Swift.
+    - [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Build 2D and 3D mapping applications for iOS devices supported by Esri.
     - [Google Maps API for iOS](https://developers.google.com/maps/ios/)
     - [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
     - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
     - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+
+## Desktop Develop Tools
+
+* [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build 2D and 3D native mapping apps for Windows, Android and iOS in C# using .NET supported by Esri.
+* [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Build 2D and 3D mapping applications for Windows, Linux, and macOS in Java supported by Esri.
+- [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build 2D and 3D native mapping apps for Windows, macOS, Linux, or Android in Qt supported by Esri.
 
 ## Deep Learning
 ### Deep Learning Framework for Geospatial
@@ -245,6 +251,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [YOLT](https://github.com/CosmiQ/yolt) - You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery.
 
 ### C++
+- [ArcGIS Maps SDK for Unreal Engine](https://developers.arcgis.com/unreal-engine/) - Plugin that gives you access to real-world maps and 3D content from ArcGIS.
 - [Boost Geometry](http://www.boost.org/doc/libs/1_61_0/libs/geometry/doc/html/index.html)  - Part of collection of the Boost C++ Libraries, defines concepts, primitives and algorithms for solving geometry problems.
 - [Capaware](https://en.wikipedia.org/wiki/Capaware) - 3D terrain representation with multilayer representation.
 - [dreich_algorithm](https://github.com/csdms-contrib/dreich_algorithm) - Algorithm for extracting channel networks from high resolution topographic data.
@@ -293,6 +300,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### C Sharp
 - [ArcBruTile](https://github.com/ArcBruTile/ArcBruTile) - ArcBruTile displays a collection of maps in ArcGIS Pro 2.0 and ArcMap 10.0 - 10.6.
+- [ArcGIS Maps SDK for Unity](https://developers.arcgis.com/unity/) -  Plugin that gives you access to real-world maps and 3D content in ArcGIS.
 - [Bing Maps REST Toolkit](https://github.com/Microsoft/BingMapsRESTToolkit) - This is a portable class library which makes it easy to access the Bing Maps REST services from .NET.
 - [Bing Maps Spatial Data Services Toolkit](https://github.com/Microsoft/BingMapsSDSToolkit) - This toolkit makes it easy to use the Bing Maps Spatial Data Services (SDS) in .NET.
 - [Bing Maps WPF SDK ](https://msdn.microsoft.com/en-us/library/hh750210.aspx) - The Bing Maps WPF API.
@@ -358,7 +366,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LandTrendr](https://github.com/KennedyResearch/LandTrendr-2012) - LandTrendr (Landsat-based Detection of Trends in Disturbance and Recovery) attempt to capture, label, and map changes in Earth's surface for use in science, natural resource management, and education.
 
 ### Java
-- [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/)
 - [Apache SIS](http://sis.apache.org/) - Apache Spatial Information System (SIS) is a free software, Java language library for developing geospatial applications.
 - [asgbook](https://github.com/lakshmanok/asgbook) - Implementation of GIS/RS features in Java. Its also the code accompanying the book "Automating the Analysis of Spatial Grids" by Valliappa Lakshmanan.
 - [Geoapi](http://www.geoapi.org/) - GeoAPI provides a set of Java language programming interfaces for geospatial applications.
@@ -407,6 +414,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
 - [JSTS](https://github.com/bjornharrtell/jsts) - Port of the Java JTS library.
 - [kepler.gl](https://uber.github.io/kepler.gl/#/) - kepler.gl is a data-agnostic, high-performance web-based application for visual exploration of large-scale geolocation data sets.
+- [koop](https://github.com/koopjs/koop): Transform geospatial data on the fly and serve as GeoJSON, Vector Tiles, Esri Feature Services and more.
 - [landspeed.js](https://github.com/springmeyer/landspeed.js) - WMS server using node-mapnik.
 - [Leaflet](http://leafletjs.com/)  - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 - [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request) - This is the small library which helps to connect geoserver with leaflet. Using this library, we can make WMS, WFS, getLegendGraphic, WMS-Image request.
@@ -1001,6 +1009,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### Design Materials
 - [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
+- [mapuipatterns](https://www.mapuipatterns.com/) - website with best practices and design principles for map applications.
 
 ### Geospatial Start-ups And Companies
 - [Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
@@ -1024,6 +1033,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Project Geospatial](https://www.projectgeospatial.com/)
 - [Scene From Above](https://geoger.co.uk/podcast/)
 - [Texas URISA: More Than Just Maps](https://www.urisatexas.org/podcast)
+- [The Bounding Box](https://theboundingbox.podbean.com/)
 - [The Mappyist Hour](http://www.themappyisthour.com/)
 - [The MapScaping Podcast](https://mapscaping.com/blogs/the-mapscaping-podcast)
 - [Thinking Spatially](https://www.josephkerski.com/thinking-spatially/)
