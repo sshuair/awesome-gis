@@ -559,6 +559,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 - [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
+- [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for fast spatial data manipulation without projections
 - [networkx](http://networkx.github.io/) - To work with networks.
 - [NodeBox-opengl](http://www.cityinabottle.org/nodebox/) - For playing around with animations.
 - [NumPy](http://www.numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
