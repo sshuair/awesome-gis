@@ -145,6 +145,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Front-end Framework
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing 2D and 3D mapping applications supported by Esri.
 - [CesiumJS](https://cesiumjs.org/) - An open source JavaScript library for world-class 3D globes and maps
+- [Clockwork Micro](https://clockworkmicro.com) - Geospatial tools to create vector tile endpoints from postgis databases and full web maps.
 - [CMV](https://cmv.io/) - The Configurable Map Viewer (CMV) is an open source mapping framework that works with ESRI JavaScript API, ArcGIS Server, ArcGIS Online, and more.
 - [d3-carto-map](https://github.com/emeeks/d3-carto-map) - A library for creating layer-based maps using D3
 - [d3-geomap](https://d3-geomap.github.io/) - A library for creating geographical maps based on D3.js.
