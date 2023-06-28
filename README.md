@@ -513,6 +513,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geospatial](https://github.com/php-geospatial/geospatial) - PHP Extension to handle common geospatial functions.
 - [laragis](https://github.com/ralphschindler/laragis) - A standalone Geo/GIS Provider for Laravel.
 - [laravel-geo](https://github.com/eleven-lab/laravel-geo) - GeoSpatial integration on Laravel 5.2+ that supports MySQL and PostgreSQL.
+- [Laravel Magellan](https://github.com/clickbar/laravel-magellan) - A modern PostGIS integration for Laravel 9+, including parsers and generators.
 - [li3_geo](https://github.com/nateabele/li3_geo) - Adds geospatial support to Lithium for multiple databases, including MongoDB, CouchDB and MySQL.
 - [PHP7 Mapnik](https://github.com/garrettrayj/php7-mapnik) - PHP extension for geospatial rendering with Mapnik.
 - [php-libspatialite](https://github.com/rukandax/php-libspatialite) - PHP Query Builder for SQLite data with Spatial SQL Capabilities.
