@@ -349,11 +349,13 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Go GDAL](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library.
 - [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
+- [Golang-Ellipsoid](https://github.com/StefanSchroeder/Golang-Ellipsoid) - Golang package to calculate distances and locations on an Ellipsoid.
 - [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
 - [Go-proj-4](https://github.com/pebbe/go-proj-4) - Go bindings for the Cartographic Projections Library PROJ.4.
 - [Go-shp](https://github.com/jonas-p/go-shp) - Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.
 - [GoSpatial](https://github.com/jblindsay/go-spatial) - GoSpatial is a simple command-line interface program for manipulating geospatial data.
 - [lidario](https://github.com/jblindsay/lidario) - A small Go library for reading and writing LiDAR (LAS) files.
+- [orb](https://github.com/paulmach/orb) - Package orb defines a set of types for working with 2d geo and planar/projected geometric data in Golang.
 - [S2](https://github.com/golang/geo) - S2 is a library for spherical geometry that aims to have the same robustness, flexibility, and performance as the best planar geometry libraries.
 
 ### Groovy
@@ -401,7 +403,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.
-- [gdal3.js](https://gdal3.js.org/) - gdal3.js is a port of Gdal applications (gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform) to WebAssembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.
+- [gdal3.js](https://gdal3.js.org/) - gdal3.js is a port of Gdal applications (**gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform**) to WebAssembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.
 - [geoblaze](https://github.com/GeoTIFF/geoblaze) - Geoblaze is a geospatial raster processing engine written purely in javascript.
 - [GeoExt](https://geoext.github.io/geoext3/) - Open Source and enables building desktop-like GIS applications through the web. It is a JavaScript framework that combines the GIS functionality of OpenLayers with the user interface of the ExtJS library provided by Sencha.
 - [geojson2svg](https://github.com/gagan-bansal/geojson2svg) A library to convert geojson data to svg map with lots of flexibility.
