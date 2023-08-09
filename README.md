@@ -120,7 +120,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Web Map Servers
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
-- [Baremaps](https://www.baremaps.com/) - An open source pipeline for producing Mapbox vector tiles from OpenStreetMap with Postgis and Java.
+- [Baremaps](https://www.baremaps.com/) -  Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
 - [GeoDjango](https://docs.djangoproject.com/en/3.1/ref/contrib/gis/) - A GIS server built with python web framework -- django
 - [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications
