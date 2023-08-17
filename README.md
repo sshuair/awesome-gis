@@ -1014,7 +1014,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
 
 ### Design Materials
-- [mapskin](http://mapsk.in/) - a collection of scalable vector icons for geospatial.
 - [mapuipatterns](https://www.mapuipatterns.com/) - website with best practices and design principles for map applications.
 
 ### Geospatial Start-ups And Companies
