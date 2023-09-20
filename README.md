@@ -907,6 +907,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
+- [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
