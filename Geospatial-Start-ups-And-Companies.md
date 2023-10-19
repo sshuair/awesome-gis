@@ -16,6 +16,7 @@
 |   [Boni](http://bonibeacon.com/)  |   LBMarketing |   Chicago, IL |   US  |   2011    |
 |   [Boundless Spatial](http://boundlessgeo.com/)   |   GIS |   New York, NY    |   US  |   2002    |
 |   [ByteLight](http://www.bytelight.com/)  |   Indoor  |   Boston, Ma  |   US  |   2011    |
+|   [Carmatec](https://www.carmatec.com/gis-services-for-business-solutions/)  |  Los Angeles, CA  |  US  |  2003 |
 |   [CartoDB](http://cartodb.com/)  |   Maps    |   New York, NY    |   US  |   2012    |
 |   [CE-Traffic](http://www.ce-traffic.com/)    |   Traffic |   Prague  |   Czech Republic  |   2008    |
 |   [Citymapper](http://citymapper.com/)    |   Transit |   London  |   UK  |   2011    |
