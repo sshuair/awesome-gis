@@ -15,6 +15,7 @@ Awesome GIS is a collection of geospatial related sources, including cartographi
 Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
+  - [Open Books](#open-books)
   - [Geographic Information System Software](#geographic-information-system-software)
   - [Remote Sensing Software](#remote-sensing-software)
   - [3D Applications](#3d-applications)
@@ -74,6 +75,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 
 ----
+
+## Open Books
+
+- [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Open book on geospatial data science with the Julia programming language.
 
 ## Geographic Information System Software
 - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
