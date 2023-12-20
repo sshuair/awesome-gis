@@ -161,6 +161,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [jVectorMap](http://jvectormap.com/) - A vector-based, cross-browser and cross-platform component for interactive geography-related data visualization on the web. [Github Link](https://github.com/bjornd/jvectormap)
 - [L7](https://github.com/antvis/L7) - Large-scale WebGL-powered Geospatial Data Visualization By Ant Financial
 - [Leaflet](http://leafletjs.com/) - Open source javaScript library for mobile-friendly interactive maps
+- [Leaflet-Geoman](https://www.geoman.io/) - A poweful leaflet plugin for drawing and editing geometry layers
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
