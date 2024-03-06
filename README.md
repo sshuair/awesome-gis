@@ -577,6 +577,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [OSMnet](https://github.com/UDST/osmnet) - Tools for the extraction of OpenStreetMap street network data.
 - [OSMnx](https://github.com/gboeing/osmnx) - Python package that lets you download spatial geometries and construct, project, visualize, and analyze street networks from OpenStreetMap's APIs.
 - [OWSLib](https://geopython.github.io/OWSLib/): OWSLib is a Python package for client programming with Open Geospatial Consortium (OGC) web service (hence OWS) interface standards, and their related content models.
+- [QuackOSM](https://github.com/kraina-ai/quackosm) - Library and a CLI tool for downloading, filtering and transforming `*.osm.pbf` files into `GeoParquet` files using DuckDB.
 - [pandana](https://github.com/UDST/pandana) - Pandas Network Analysis - dataframes of network queries, quickly.
 - [Peartree](https://github.com/kuanb/peartree) - Peartree: A library for converting transit data into a directed graph for network analysis.
 - [pyCSW](http://pycsw.org/) - Fully implements the OpenGIS Catalogue Service Implementation Specification (Catalogue Service for the Web). Initial development started in 2010 (more formally announced in 2011). The project is certified OGC Compliant, and is an OGC Reference Implementation.
