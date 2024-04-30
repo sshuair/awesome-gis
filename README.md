@@ -811,6 +811,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Rust
 - [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 - [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
+- [osmptparser](https://github.com/cualbondi/osmptparser) - Open Street Map Public Transport Parser. It merges complicated public transport relations into linestrings.
 - [rust-gdal](https://github.com/georust/rust-gdal) - Rust bindings for GDAL.
 - [rust-geo](https://github.com/georust/rust-geo) - Geospatial primitives and algorithms for Rust.
 - [rust-geocoding](https://github.com/georust/rust-geocoding) - Geocoding library for Rust.
