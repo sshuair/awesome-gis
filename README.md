@@ -435,6 +435,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [NASA WebWorldWind](https://github.com/NASAWorldWind/WebWorldWind) - The NASA WorldWind Javascript SDK (WebWW) includes the library and examples for creating geo-browser web applications and for embedding a 3D globe in HTML5 web pages.
 - [OpenLayers](http://openlayers.org/)  - Open source AJAX library.
 - [OSM Building](https://osmbuildings.org/) - A JavaScript library for visualizing OpenStreetMap building geometry on 2D and 3D maps.
+- [osm-static-maps](https://github.com/jperelli/osm-static-maps) - Openstreetmap static maps is a nodejs lib, CLI and server to create map images based on tiles + layers. Inspired on google static map service.
 - [overpass-turbo](https://github.com/tyrasd/overpass-turbo) - A web based data mining tool for OpenStreetMap using Overpass API.
 - [PGRestAPI](https://github.com/spatialdev/PGRestAPI) - Node.js REST API for PostGres Spatial Entities.
 - [pixelmatch](https://github.com/mapbox/pixelmatch) - The smallest, simplest and fastest JavaScript pixel-level image comparison library.
