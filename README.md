@@ -1042,6 +1042,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Eyes on Earth](https://www.usgs.gov/centers/eros/science/eyes-earth)
 - [Geodorable Podcast](https://geodorable.com/)
 - [Geointeresting](https://podcasts.apple.com/us/podcast/geointeresting/id990858116)
+- [Geomob podcast](https://thegeomob.com/podcast)
 - [Geospatially Podcast](https://projectgeospatially.github.io/podcast/)
 - [Isin't That Spatial](https://isntthatspatial.net/)
 - [Map Shack](https://blog.mapspeople.com/introducing-the-map-shack-a-mapspeople-podcast)
