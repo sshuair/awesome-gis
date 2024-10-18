@@ -353,7 +353,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geom](https://github.com/ctessum/geom) - Geometry objects and functions for Go.
 - [geoos](https://github.com/spatial-go/geoos) - A library provides spatial data and geometric algorithms
 - [Go GDAL](https://github.com/lukeroth/gdal) - Go (golang) wrapper for GDAL, the Geospatial Data Abstraction Library.
-- [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 - [Golang-Ellipsoid](https://github.com/StefanSchroeder/Golang-Ellipsoid) - Golang package to calculate distances and locations on an Ellipsoid.
 - [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
