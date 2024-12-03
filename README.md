@@ -550,6 +550,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoDjango](http://geodjango.org/) - Django geographic web framework.
 - [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
 - [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
+- [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
 - [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
