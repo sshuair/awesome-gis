@@ -357,6 +357,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Go.Geo](https://github.com/paulmach/go.geo) - Geometry/geography library in Go.
 - [go-geom](https://github.com/twpayne/go-geom) - Go library for handling geometries.
 - [Golang-Ellipsoid](https://github.com/StefanSchroeder/Golang-Ellipsoid) - Golang package to calculate distances and locations on an Ellipsoid.
+- [GoKoala](https://github.com/PDOK/gokoala) - Cloud Native OGC API server, written in Go. Supports OGC API Tiles, Styles, Features, GeoVolumes.
 - [gopostal](https://github.com/openvenues/gopostal) - Go (cgo) interface to libpostal for fast international address parsing/normalization.
 - [Go-proj-4](https://github.com/pebbe/go-proj-4) - Go bindings for the Cartographic Projections Library PROJ.4.
 - [Go-shp](https://github.com/jonas-p/go-shp) - Go library for reading and writing ESRI Shapefiles. Pure Golang implementation based on the ESRI Shapefile technical description.
