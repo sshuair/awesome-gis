@@ -539,6 +539,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [city2graph](https://github.com/c2g-dev/city2graph) - Python library for converting geospatial datasets into graphs (networks) for geospatial network analysis and GeoAI with GNNs (Graph Neural Networks).
 - [dask-rasterio](https://github.com/dymaxionlabs/dask-rasterio) - Read and write rasters in parallel using Rasterio and Dask.
 - [Descartes](https://pypi.python.org/pypi/descartes) - Plot geometries in matplotlib.
+- [dsm2dtm](https://github.com/seedlit/dsm2dtm) - Python library for converting Digital Surface Models (DSMs) to Digital Terrain Models (DTMs).
 - [eo-box](https://github.com/benmack/eo-box) - Earth observation processing framework for machine learning in Python.
 - [EODAG](https://eodag.readthedocs.io/en/latest/) - Command line tool and a plugin-oriented Python framework for searching, aggregating results and downloading remote sensed images while offering a unified API for data access regardless of the data provider.
 - [felicette](https://github.com/plant99/felicette) - Satellite imagery for dummies.
