@@ -976,6 +976,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - [Global Forest Watch](https://www.globalforestwatch.org/) - Near-real-time forest monitoring platform with APIs, datasets, and alerts for deforestation and land use change globally.
+    - [Movebank](https://www.movebank.org/) - Open repository of animal movement tracking data. 7B+ GPS and satellite telemetry records from 1,000+ species, used in spatial movement ecology research.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
