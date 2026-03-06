@@ -116,6 +116,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## 3D Applications
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Allows you to explore any part of the world. Work with a variety of 3D and 2D map data formatt, including KML. Display data, sketch placemarks, measure and perform interactive analysis, and add annotations.
+- [Beholder](https://beholder.me) - Real-time OSINT threat intelligence map with WebGPU/CesiumJS 3D globe, aggregating 30+ data sources including aircraft, vessels, satellites, earthquakes, conflict, and cyber threats.
 - [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
 - [DEM Net Elevation API](https://elevationapi.com) - 3D terrain model generation online from open data (DEM, OSM) and imagery, exports to STL and glTF.
 - [Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
