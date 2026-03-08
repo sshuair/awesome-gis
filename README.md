@@ -146,6 +146,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Nanocubes](http://www.nanocubes.net/) - An in-memory data structure for spatiotemporal data cubes. [Github Link](https://github.com/laurolins/nanocube)
 - [NextGIS Web](http://nextgis.com/nextgis-web) - An open source framework for storage, visualization and permissions management of all kinds of geospatial data.
 - [OpenTileServer](https://opentileserver.org/) - This script is for building a basic tile server with OpenStreetMap data.
+- [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive geospatial visualization, OSINT feeds, and actor dossiers.
 - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
 
