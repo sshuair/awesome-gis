@@ -210,6 +210,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - **Cross-Platform**
     - [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build native mapping apps for Android and iOS in C# using .NET Multi-platform App UI (MAUI) supported by Esri.
     - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build native mapping apps for Android and iOS in Qt  supported by Esri.
+    - [Red Grid MGRS](https://github.com/RedGridTactical/RedGridMGRS) - Open-source DAGR-class military GPS navigator with live MGRS coordinates, magnetic declination, waypoints, bearing & distance, and tactical tools. Built with React Native/Expo for iOS and Android.
   
 - **iOS**
     - [ArcGIS Maps SDK for Swift](https://developers.arcgis.com/swift/) - Build 2D and 3D mapping applications for iOS devices supported by Esri.
