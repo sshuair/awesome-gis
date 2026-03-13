@@ -222,6 +222,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 * [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build 2D and 3D native mapping apps for Windows, Android and iOS in C# using .NET supported by Esri.
 * [ArcGIS Maps SDK for Java](https://developers.arcgis.com/java/) - Build 2D and 3D mapping applications for Windows, Linux, and macOS in Java supported by Esri.
+- [API Status Check](https://apistatuscheck.com) - Monitor the status and uptime of 120+ popular developer APIs in real-time
 - [ArcGIS Maps SDK for Qt](https://developers.arcgis.com/qt/) -  Build 2D and 3D native mapping apps for Windows, macOS, Linux, or Android in Qt supported by Esri.
 
 ## Deep Learning
