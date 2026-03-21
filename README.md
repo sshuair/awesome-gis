@@ -923,6 +923,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
+- [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
