@@ -932,6 +932,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with notebook environment, production-ready dashboards, and Google Earth Engine integration.
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
