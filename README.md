@@ -751,6 +751,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [rworldmap](https://cran.r-project.org/web/packages/rworldmap/index.html) - Mapping Global Data.
 - [s2](https://github.com/spatstat/s2) - R bindings for Google's s2 library for geometry on the sphere.
 - [S2sls](https://cran.r-project.org/web/packages/S2sls/index.html) - Fit a spatial instrumental-variable regression by two-stage least squares.
+- [secciones-nacionalidades](https://github.com/GeiserX/secciones-nacionalidades) - R Shiny app to visualize population by nationality at census section level in Spain using INE data.
 - [sf](https://github.com/r-spatial/sf) - Simple Features for R
 - [sgeostat](https://cran.r-project.org/web/packages/sgeostat/index.html) - An Object-oriented Framework for Geostatistical Modeling in S+ containing functions for variogram estimation, variogram fitting and kriging as well as some plot functions.
 - [shapefiles](https://cran.r-project.org/web/packages/shapefiles/index.html) - Read and Write ESRI Shapefiles.
