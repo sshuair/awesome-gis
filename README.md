@@ -229,6 +229,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ## Deep Learning
 ### Deep Learning Framework for Geospatial
+- [aviary](https://github.com/geospaitial-lab/aviary) - Pythonic Framework for AI Inference on Geospatial Data.
 - [Awesome Remote Sensing Change Detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, papers, and contests related to remote sensing change detection.
 - [Awesome Semantic Segmentation](https://github.com/mrgloom/awesome-semantic-segmentation) - A code list of semantic segmentation.
 - [deep learning object detection](https://github.com/hoya012/deep_learning_object_detection) - A paper list of object detection using deep learning.
