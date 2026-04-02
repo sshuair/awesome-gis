@@ -219,6 +219,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Mapbox iOS SDK](https://www.mapbox.com/ios-sdk/) Includes APIs for static maps, directions, and navigation.
     - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
     - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
+- [submission-site-discovery](https://github.com/SeeleAI/submission-site-discovery) - Automated discovery of product submission sites, launch directories, and distribution channels for indie hackers.
 
 ## Desktop Develop Tools
 
