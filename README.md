@@ -167,6 +167,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Leaflet-Geoman](https://www.geoman.io/) - A poweful leaflet plugin for drawing and editing geometry layers
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
+- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Earthquake intelligence console for Japan with GMPE intensity computation, infrastructure impact assessment, MapLibre GL + deck.gl visualization, and real-time seismic wave propagation. [Live](https://namazue.dev)
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [Mapv](https://github.com/huiyan-fe/mapv/) - A library of geography visualization
 - [OpenGlobus](https://www.openglobus.org/) - JavaScript 3D maps and geospatial data visualization engine library. It uses the pure WebGL technology.
@@ -412,7 +413,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city.
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
-- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Earthquake intelligence console for Japan with GMPE intensity computation, infrastructure impact assessment, MapLibre GL + deck.gl visualization, and real-time seismic wave propagation. [Live](https://namazue.dev)
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.
 - [gdal3.js](https://gdal3.js.org/) - gdal3.js is a port of Gdal applications (**gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform**) to WebAssembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.
