@@ -412,6 +412,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CesiumJS](https://github.com/AnalyticalGraphicsInc/cesium) - An open-source JavaScript library for world-class 3D globes and maps.
 - [city-roads](https://github.com/anvaka/city-roads) - Visualization of all roads within any city.
 - [deck.gl](https://github.com/uber/deck.gl) - WebGL2 powered geospatial visualization layers.
+- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Earthquake intelligence console for Japan with GMPE intensity computation, infrastructure impact assessment, MapLibre GL + deck.gl visualization, and real-time seismic wave propagation. [Live](https://namazue.dev)
 - [Galton](https://github.com/urbica/galton) - Lightweight Node.js isochrone server. Build isochrones using OSRM, Turf and concaveman.
 - [gcoord](https://github.com/hujiulong/gcoord) - 地理坐标系转换工具，支持WGS84/GCJ02/BD09等常用坐标系互转.
 - [gdal3.js](https://gdal3.js.org/) - gdal3.js is a port of Gdal applications (**gdal_translate**, **ogr2ogr**, **gdal_rasterize**, **gdalwarp**, **gdaltransform**) to WebAssembly. It allows you to convert raster and vector geospatial data to various formats and coordinate systems.
