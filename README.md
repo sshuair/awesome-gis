@@ -167,6 +167,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Leaflet-Geoman](https://www.geoman.io/) - A poweful leaflet plugin for drawing and editing geometry layers
 - [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/) - A JavaScript & WebGL library that renders interactive maps from vector tiles and the Mapbox GL Style Specification
 - [MapLibre GL](https://github.com/maplibre/maplibre-gl-js) - Is a community led fork derived from Mapbox GL JS prior to their switch to a non-OSS license
+- [Namazue Console](https://github.com/Hybirdss/namazue-console) - Earthquake intelligence console for Japan with GMPE intensity computation, infrastructure impact assessment, MapLibre GL + deck.gl visualization, and real-time seismic wave propagation. [Live](https://namazue.dev)
 - [maptalks.js](https://github.com/maptalks/maptalks.js) - A light and plugable JavaScript library for integrated 2D/3D maps.
 - [Mapv](https://github.com/huiyan-fe/mapv/) - A library of geography visualization
 - [OpenGlobus](https://www.openglobus.org/) - JavaScript 3D maps and geospatial data visualization engine library. It uses the pure WebGL technology.
