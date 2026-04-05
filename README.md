@@ -985,6 +985,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
