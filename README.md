@@ -72,6 +72,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [PODCASTS](#PODCASTS)
     - [DEFUNCT GEOSPATIAL PODCASTS](#DEFUNCT_GEOSPATIAL_PODCASTS)
   - [Reference](#reference)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for GIS development workflow orchestration, automated spatial data management, and multi-agent coordination. MIT licensed.
 
 
 ----
