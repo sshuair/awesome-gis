@@ -220,6 +220,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NextGIS iOS SDK](https://github.com/nextgis/ios_maplib) - An open source library for iOS geo applications.
     - [WhirlyGlobe-Maply](https://github.com/mousebird/WhirlyGlobe) - 3D globe and flat-map SDK for iOS. This toolkit has a large API for fine-grained control over the map or globe. It reads a wide variety of GIS data formats.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=sshuair_awesome-gis) - Follow mobile devs on GitHub and see what repos they star across iOS, Android, and cross-platform.
 ## Desktop Develop Tools
 
 * [ArcGIS Maps SDK for .NET](https://developers.arcgis.com/net/) - Build 2D and 3D native mapping apps for Windows, Android and iOS in C# using .NET supported by Esri.
