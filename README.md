@@ -821,6 +821,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SpatiaLite ActiveRecord Adapter](https://github.com/rgeo/activerecord-spatialite-adapter) - ActiveRecord adapter for Spatialite.
 
 ### Rust
+- [auto-sea-way](https://github.com/auto-sea-way/asw) - Open source maritime auto-routing engine that builds a global water-surface routing graph from OSM land polygons using an adaptive H3 hexagonal grid cascade.
 - [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 - [Martin](https://github.com/urbica/martin) - Martin is a PostGIS vector tiles server suitable for large databases. Martin is written in Rust using Actix web framework.
 - [osmptparser](https://github.com/cualbondi/osmptparser) - Open Street Map Public Transport Parser. It merges complicated public transport relations into linestrings.
