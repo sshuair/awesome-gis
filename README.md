@@ -562,6 +562,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 - [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
+- [gisweep](https://github.com/enisgetmez/gisweep) - GIS vulnerability scanner for ArcGIS REST, OGC (WMS/WFS), and embedded web maps. Detects anonymous write capabilities, PII fields, and outdated CVEs. KVKK/GDPR-aware reports.
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
 - [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
