@@ -945,6 +945,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [Zip-Codes](https://www.zip-codes.com/api/) - REST API for US ZIP and Canadian postal code lookup, address validation, radius search, demographics, and boundaries.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [亿景智图](https://zt.changjing.com.cn/) - An enterprise-level map service (Chinese)
 
