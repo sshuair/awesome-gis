@@ -923,6 +923,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### DaaS
 - [Descartes Labs](https://www.descarteslabs.com/solutions.html) - A platform for complex global systems.
 - [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
+- [InfraNode](https://infranode.dev/) - A free REST API for German city infrastructure data such as EV chargers, water levels, boundaries and demographics from 35+ official sources.
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
 
 ### SaaS
