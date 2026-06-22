@@ -939,6 +939,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with notebook environment, production-ready dashboards, and Google Earth Engine integration.
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
+- [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context. Includes autocomplete, resolve, postcodes, LAU regions, and a TypeScript SDK.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
