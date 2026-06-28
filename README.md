@@ -923,6 +923,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### DaaS
 - [Descartes Labs](https://www.descarteslabs.com/solutions.html) - A platform for complex global systems.
 - [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
+- [Mantle Place](https://mantle.place) - Draw an area on a globe to get elevation, features, and imagery, delivered as multiple file types you own. Free up to 2 km².
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
 
 ### SaaS
