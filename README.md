@@ -131,6 +131,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Baremaps](https://www.baremaps.com/) -  Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps.
 - [deegree](http://www.deegree.org/) - An open source software for spatial data infrastructures and the geospatial web
 - [GeoDjango](https://docs.djangoproject.com/en/3.1/ref/contrib/gis/) - A GIS server built with python web framework -- django
+- [GeoLens](https://github.com/geolens-io/geolens) - Self-hosted geospatial catalog and map builder (PostGIS, vector tiles, OGC API/STAC).
 - [geomajas](http://www.geomajas.org/) - An open source platform to create Web GIS applications
 - [GeoMOOSE](http://www.geomoose.org/) - A Web Client JavaScript Framework for displaying distributed cartographic data
 - [GeoNode](http://geonode.org/) - Open Source Geospatial Content Management System.
