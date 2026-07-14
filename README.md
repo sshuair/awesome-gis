@@ -563,6 +563,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
+- [geoplot-themes](https://github.com/charles483/geoplot-themes) - Stunning pre-designed map themes and cartographic templates.
 - [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
@@ -635,7 +636,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [xarray ](http://xarray.pydata.org/en/stable/) - xarray (formerly xray) is an open source project and Python package that aims to bring the labeled data power of pandas to the physical sciences, by providing N-dimensional variants of the core pandas data structures.
 - [xarray-spatial](https://github.com/makepath/xarray-spatial) - Raster-Based Spatial Analysis in Python.
 - [YATSM](https://github.com/ceholden/yatsm) - Yet Another Timeseries Model (YATSM) is a Python package for utilizing a collection of timeseries algorithms and methods designed to monitor the land surface using remotely sensed imagery.
-- [geoplot-themes](https://github.com/charles483/geoplot-themes) - Stunning pre-designed map themes and cartographic templates.
 ### R
 - [ade4](https://cran.r-project.org/web/packages/ade4/index.html) - Tools for multivariate data analysis. Several methods are provided for the analysis (i.e., ordination) of one-table (e.g., principal component analysis, correspondence analysis), two-table (e.g., coinertia analysis, redundancy analysis), three-table (e.g., RLQ analysis) and K-table (e.g., STATIS, multiple coinertia analysis).
 - [adehabitat](https://cran.r-project.org/web/packages/adehabitat/index.html) - A collection of tools for the analysis of habitat selection by animals.
