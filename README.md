@@ -989,6 +989,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - - [The Port Index](https://www.theportindex.online) - Free directory and downloadable CSV/JSON dataset of 3,804 seaports and 9,640 airports worldwide — depths, runways, UN/LOCODEs, IATA/ICAO codes and coordinates, from public-domain sources.
+
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
