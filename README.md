@@ -570,6 +570,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
 - [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
+- [gisweep](https://github.com/enisgetmez/gisweep) - GIS vulnerability scanner for ArcGIS REST, OGC (WMS/WFS), and embedded web maps. Detects anonymous write capabilities, PII fields, and outdated CVEs. KVKK/GDPR-aware reports.
 - [gpdvega](https://github.com/iliatimofeev/gpdvega) - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
 - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
