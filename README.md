@@ -115,6 +115,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
 
 ## 3D Applications
+
+- [Gyeonggi Currency Map](https://gyeonggi-currency-map.web.app) - PWA mapping merchants accepting Gyeonggi Province's municipal local-currency across 31 cities (Korea, 14M residents). OSM tiles via Leaflet, public open data, real-time "open now" filter, KakaoTalk share. React + Vite + Firebase Hosting.
+- [GeoInfomatic — Living Zone Accessibility (Korea)](https://geoinfomatic.pythonanywhere.com) - Isochrone-based neighborhood accessibility analyzer. Walking/transit reachability with 8 facility types overlaid. Custom Korean subway+bus graph + OSRM walking mesh. Flask + Leaflet on PythonAnywhere free tier.
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Allows you to explore any part of the world. Work with a variety of 3D and 2D map data formatt, including KML. Display data, sketch placemarks, measure and perform interactive analysis, and add annotations.
 - [Beholder](https://beholder.me) - Real-time OSINT threat intelligence map with WebGPU/CesiumJS 3D globe, aggregating 30+ data sources including aircraft, vessels, satellites, earthquakes, conflict, and cyber threats.
 - [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
