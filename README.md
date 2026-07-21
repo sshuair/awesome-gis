@@ -932,6 +932,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
+- [Draw on a Map](https://drawonamap.com/) - Lightweight online mapping tool for sketching routes and areas, measuring distance, and sharing annotated maps without an account.
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
 - [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
 - [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure with geospatial file uploads (KML, KMZ, Shapefile, GeoJSON), MVT vector tiles, dynamic forms, and field data collection.
