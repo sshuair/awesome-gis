@@ -272,6 +272,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [entwine](https://github.com/connormanning/entwine) - Entwine is a data organization library for massive point clouds, designed to conquer datasets of hundreds of billions of points as well as desktop-scale point clouds.
 - [GDAL](http://www.gdal.org/)  - Geospatial Data Abstraction Library (GDAL) is a computer library that serve as a translator library for raster and vector geospatial data formats.
 - [gdalcubes](https://github.com/appelmar/gdalcubes) - gdalcubes is a library to represent collections of Earth Observation (EO) images as on demand data cubes (or multidimensional arrays).
+- [geo-utils-cpp](https://github.com/gistrec/geo-utils-cpp) - Header-only C++17 library for spherical (lat/lng) geometry: distance, bearing, area, point-in-polygon.
 - [geojson-vt-cpp](https://github.com/mapbox/geojson-vt-cpp) - Port to C++ of JS GeoJSON-VT for slicing GeoJSON into vector tiles on the fly.
 - [GEOS](https://trac.osgeo.org/geos/)  - GEOS (Geometry Engine - Open Source) is a C++ port of the Java Topology Suite (JTS).
 - [gSLICr](https://github.com/carlren/gSLICr) - Real-time super-pixel segmentation.
@@ -452,7 +453,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
 - [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 - [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
-- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supportted by SuperMap.
+- [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
 - [SQLite3](https://github.com/mapbox/node-sqlite3) - Asynchronous, non-blocking SQLite3 bindings for Node.js.
 - [Thermo.js](https://github.com/dazuma/thermo.js) - Another heatmap implementation for Javascript.
 - [tilegarden](https://github.com/azavea/tilegarden) - Serverless raster and vector map tile generation using Mapnik and AWS Lambda.
@@ -466,6 +467,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [vue-cesium](https://github.com/zouyaoji/vue-cesium) - A Vue 2.x & Vue 3.x based component library of CesiumJS for GISer.
 - [VueMapbox](https://github.com/soal/vue-mapbox/) - Vue 2 components for interacting with Mapbox GL JS
 - [Windshaft](https://github.com/CartoDB/Windshaft) - A Node.js map tile library for PostGIS and torque.js, with CartoCSS styling.
+- [CoordinateMapper](https://coordinatemapper.com/) - Free browser-based tool for converting between lat/long, UTM, UK Grid References, Easting/Northing, MGRS, DMS and DDM. Includes map preview and CSV/KML/DXF export.
 
 ### Julia
 - [ArchGDAL](https://github.com/yeesian/ArchGDAL.jl) - Vector and Raster interfaces.
@@ -563,6 +565,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
 - [GeoPandas](https://github.com/geopandas/geopandas) - Python tools for geographic data
 - [Geopatra](https://github.com/Sangarshanan/geopatra) - Create interactive maps with geopandas
+- [GeoSQL](https://github.com/dekart-xyz/geosql) - Claude/Codex skill (Python package) for cost-safe geospatial SQL on BigQuery and Snowflake. Renders interactive maps automatically.
 - [geopy](https://github.com/geopy/geopy) - geopy is a Python 2 and 3 client for several popular geocoding web services.
 - [geoserver-rest](https://pypi.org/project/geoserver-rest/) - The geoserver-rest package is useful for the management for geospatial data in GeoServer. The package is useful for the creating, updating and deleting geoserver workspaces, stores, layers, and style files.
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
@@ -941,11 +944,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+- [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
+- [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [亿景智图](https://zt.changjing.com.cn/) - An enterprise-level map service (Chinese)
 
@@ -972,7 +978,6 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
-    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
@@ -986,10 +991,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
     - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
     - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
+    - [Road511](https://road511.com) - Real-time traffic data API aggregating 511 systems from 65 US states and Canadian provinces (events, cameras, bridges, truck routes, GeoJSON-native).
     - [pm2.5-China](http://www.pm25.in/)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
+    - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
+    - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
@@ -1029,6 +1038,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
+- [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
+- [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
