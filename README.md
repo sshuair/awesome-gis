@@ -937,6 +937,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure with geospatial file uploads (KML, KMZ, Shapefile, GeoJSON), MVT vector tiles, dynamic forms, and field data collection.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
+- [GeoImageTagger](https://geoimagetagger.com/) - A browser-based tool for geotagging images with GPS coordinates and editing EXIF metadata with support for multiple image formats.
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
 - [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with notebook environment, production-ready dashboards, and Google Earth Engine integration.
