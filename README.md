@@ -1048,6 +1048,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
+- [Sunshine Atlas](https://sunshineatlas.com) - Interactive globe ranking 3,800+ flyable destinations by monthly sunshine hours and climate.
 - [thematicmapping](http://blog.thematicmapping.org/)
 
 ## Other
