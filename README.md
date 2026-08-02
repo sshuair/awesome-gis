@@ -1060,6 +1060,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### Geospatial Start-ups And Companies
 - [Geospatial Start-ups And Companies list](https://github.com/sshuair/awesome-gis/blob/master/Geospatial-Start-ups-And-Companies.md)
+- [NOW](https://now.letmethink.cc/) - A location-based short-video map where moments can only be captured on the spot.
 
 ### MOOC
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
