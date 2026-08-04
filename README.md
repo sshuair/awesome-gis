@@ -977,6 +977,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
+    - [China 5A Scenic Areas](https://github.com/tuansuwu/china-5a-scenic-areas) - All 373 of China's National 5A Scenic Areas with Chinese/English names, pinyin, province, WGS 84 coordinates and per-record provenance. CSV and JSON, CC BY-SA 4.0.
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
