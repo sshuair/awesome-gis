@@ -1065,6 +1065,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Coursera's GIS Specialization](https://www.coursera.org/specializations/gis) - Including `Fundamentals of GIS`, `GIS Data Formats, Design and Quality`, `Geospatial and Environmental Analysis`, `Imagery, Automation, and Applications` and `Capstone: Geospatial Analysis`.
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
+- [TutorialSearch](https://tutorialsearch.io/browse/data-science/gis-applications) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 - [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
 
 ### PODCASTS
