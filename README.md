@@ -993,6 +993,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Road511](https://road511.com) - Real-time traffic data API aggregating 511 systems from 65 US states and Canadian provinces (events, cameras, bridges, truck routes, GeoJSON-native).
     - [pm2.5-China](http://www.pm25.in/)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
+    - [UrbanKit County Parcel REST API Atlas](https://urbankitstudio.com/parcel-atlas) - Verified ArcGIS REST endpoints for 155 US counties across all 50 states; free CSV/JSON download (CC BY 4.0) with owner-field mapping, sample queries, and daily liveness checks.
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
