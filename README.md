@@ -92,6 +92,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
+– [Plantaube](Plantaube.com) – A free Webtool to create custom urban maps and site plans out of OSM-data. 
 - [QGIS](http://qgis.org/en/site/) :star2: - A free and open source GIS.
 - [SAGA](http://www.saga-gis.org/en/index.html) - Open source system for automated geoscientific analyses.
 - [SharpMap](https://github.com/SharpMap/SharpMap) - An easy-to-use mapping library for use in web and desktop applications
