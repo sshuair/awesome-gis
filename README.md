@@ -1038,6 +1038,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
+- [kanari](https://kanari.io) - Free worldwide early-wildfire detection map fusing NASA FIRMS, GOES and Meteosat MTG satellite detections with AI-verified witness reports; live firefighting aircraft tracking, daily reports and open data (CC BY 4.0). Built with MapLibre GL JS.
 - [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
