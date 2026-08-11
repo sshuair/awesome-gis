@@ -943,6 +943,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
+- [MapGrid](https://mapgrid.us/) - A web-based mapping platform for exploring, organizing, and sharing geospatial data.
 - [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
