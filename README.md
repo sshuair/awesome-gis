@@ -1022,7 +1022,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with 354 buildings, real-time bus tracking, and walking directions. Built with MapLibre GL JS.
 - [Beijing City Lab](http://www.beijingcitylab.com/)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
-- [Castlemap](https://thecastlemap.com) - Interactive night-map of 2,400 castles, fortresses and palaces across 131 countries; every landmark has its own page, built from Wikidata on OpenStreetMap-based tiles.
+- [Castlemap](https://thecastlemap.com) - Interactive night-map of 7,044 castles, fortresses and palaces across 141 countries; every landmark has its own page, built from Wikidata on OpenStreetMap-based tiles.
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
