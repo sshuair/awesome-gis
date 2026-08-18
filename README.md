@@ -541,6 +541,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### Python
 - [ArcGIS Python API](https://developers.arcgis.com/python/) - ArcGIS API for Python is a Python library for working with maps and geospatial data, powered by web GIS.
+- [bhoonidhi-downloader](https://github.com/geovicco-dev/bhoonidhi-downloader) - A CLI and Python SDK to search and download satellite imagery from ISRO's Bhoonidhi (NRSC) portal.
 - [BlenderGIS](https://github.com/domlysz/BlenderGIS) - A blender addons to make the bridge between Blender and geographic data.
 - [Cartopy](http://scitools.org.uk/cartopy/) - A library providing cartographic tools for python for plotting spatial data.
 - [Centroids](https://github.com/lyzidiamond/centroids) - This application reads a valid geojson FeatureCollection and returns a valid geojson FeatureColleciton of centroids.
