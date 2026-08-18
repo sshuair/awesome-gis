@@ -930,7 +930,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### SaaS
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
-- [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
+- [CARTO](https://carto.com/) - Cloud-native GIS platform that runs spatial analysis inside your data warehouse, with maps, analysis and workflows automatable by AI agents over MCP.
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
 - [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
