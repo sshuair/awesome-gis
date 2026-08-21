@@ -436,6 +436,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Leaflet](http://leafletjs.com/)  - Open-Source JavaScript Library for Mobile-Friendly Interactive Maps.
 - [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request) - This is the small library which helps to connect geoserver with leaflet. Using this library, we can make WMS, WFS, getLegendGraphic, WMS-Image request.
 - [Leaflet TimeDimension](https://github.com/socib/Leaflet.TimeDimension) - Add time dimension capabilities on a Leaflet map.
+- [leaflet-webgl-markers](https://github.com/tang-tc/leaflet-webgl-markers) - Leaflet WebGL plugin for rendering millions of point markers on a single canvas, with GPU Mercator projection, FBO color-coded picking, and zero redraw while dragging or zooming.
 - [LuciadRIA](http://www.luciad.com/solutions/luciadria) - A JavaScript library for 3D globes and maps, with support for military symbology and desktop-like performance
 - [mapbox-gl-draw](https://github.com/mapbox/mapbox-gl-draw) - Draw tools for mapbox-gl-js.
 - [mapboxgl-powerbi](https://github.com/mapbox/mapboxgl-powerbi) - Mapbox GL PowerBI custom visual.
