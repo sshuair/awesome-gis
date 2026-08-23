@@ -973,6 +973,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Data
 - **Data List Site**
     - [a-comprehensive-list-of-all-open-data-portals-around-the-world](https://web.archive.org/web/20211104180422/https://www.opendatasoft.com/blog/2015/11/02/how-we-put-together-a-list-of-1600-open-data-portals-around-the-world-to-help-open-data-community)
+    - [Canadian Rental Address Research](https://github.com/Fink692/canadian-rental-data-sources) - Source-dated directory of official Canadian property, permit, tenancy, and neighbourhood maps and data.
     - [Free GIS Data](http://freegisdata.rtwilson.com/)
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
