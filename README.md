@@ -1038,7 +1038,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
-- [TrainRouter](https://trainrouter.com) - Interactive atlas of 767 notable train routes across 118 countries, colour-coded by type on an OpenStreetMap basemap.
+- [World Train Map](https://worldtrainmap.com) - Interactive atlas of over a thousand notable passenger train routes worldwide, colour-coded by type on an OpenStreetMap basemap; route alignments are traced from OSM railway relations.
 
 ## Other
 ### Data Formats
