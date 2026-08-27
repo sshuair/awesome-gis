@@ -102,6 +102,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Abc-Map](https://abc-map.fr/) - A lightweight and user-friendly Web GIS. Create, import data from various sources, export maps or share them online freely and easily.
 
 ## Remote Sensing Software
+- [AI Segmentation by TerraLab](https://github.com/TerraLabAI/QGIS_AI-Segmentation) - Open-source QGIS plugin for point-and-click AI segmentation of buildings, trees and any object in satellite and drone imagery into vector polygons.
 - [eCognition](http://www.ecognition.com/suite/ecognition-developer) - A powerful development environment for object-based image analysis.
 - [ENVI](https://www.harris.com/solution/envi) :star2: - A geospatial imagery analysis and processing software.
 - [ERDAS IMAGINE](https://www.hexagongeospatial.com/products/power-portfolio/erdas-imagine) :star2: - A geospatial imagery analysis and processing software.
