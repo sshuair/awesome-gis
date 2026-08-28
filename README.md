@@ -927,6 +927,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Descartes Labs](https://www.descarteslabs.com/solutions.html) - A platform for complex global systems.
 - [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
+- [Semablu](https://console.semablu.com)–  AI super-resolution platform turning free 10m Sentinel-2 imagery into analytics-grade 2.5m RGB+NIR data, via REST API or a STAC API.
 
 ### SaaS
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
