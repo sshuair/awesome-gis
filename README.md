@@ -929,6 +929,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
 
 ### SaaS
+- [SM Datum](https://smdatum.com/) - Free browser-based GIS toolkit: format conversion (shapefile/KML/GeoJSON/GeoPackage/DXF), vector analysis, CRS reprojection, raster and hydrology tools, survey calculators. No install or signup.
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
