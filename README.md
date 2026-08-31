@@ -947,6 +947,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
+- [ShowMeOnMap](https://showmeonmap.com) - Natural-language questions to cited interactive maps; live hazard layers, embeds, MCP/WebMCP agent tools.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
