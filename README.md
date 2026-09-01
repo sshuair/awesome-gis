@@ -89,6 +89,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GRASS GIS](https://grass.osgeo.org/) - A free and open source GIS software suite used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization.
 - [gvSIG](http://www.gvsig.com/en) - A powerful, user-friendly, interoperable GIS.
 - [JUMP GIS](http://jump-pilot.sourceforge.net/) - An open source GIS written in Java
+- [MapDraw](https://www.mapdraw.net/) - A free and open source web-based editor for geographic data like paths, areas, and markers. Imports and exports GeoJSON, GPX, and KML, with routing and elevation profiles.
 - [MapInfo Pro](https://www.pitneybowes.com/us/location-intelligence/geographic-information-systems/mapinfo-pro.html) - A full-featured desktop solution to prepare data for web mapping applications and create presentation quality maps that combines data analysis, visual insights, and map publishing.
 - [Marble](https://marble.kde.org/) - A virtual globe and world atlas.
 - [OpenOrienteering Mapper](https://github.com/openorienteering/mapper) - A software for creating maps for the orienteering sport.
