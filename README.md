@@ -1049,6 +1049,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
+- [Yapmap](https://yapmap.cc) - Free voice-controlled 3D world map: talk to fly a photoreal globe anywhere while an AI guide narrates each place, no account needed.
 
 ## Other
 ### Data Formats
