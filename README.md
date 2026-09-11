@@ -1030,6 +1030,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Amazing Maps](http://amazing-maps.tumblr.com/)
 - [MGuide](https://mguide.app) - Interactive campus map for the University of Michigan with 354 buildings, real-time bus tracking, and walking directions. Built with MapLibre GL JS.
 - [Beijing City Lab](http://www.beijingcitylab.com/)
+- [BelongMaps](https://belongmaps.com/) - US area discovery for home buyers and renters; crime, flood, wildfire, school and commute layers, each with a published methodology page.
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
