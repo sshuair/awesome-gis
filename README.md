@@ -1049,6 +1049,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
+-  [WeatherChirp](https://weatherchirp.com/) - Year-round climate normals charts (temperature, rain, sunshine) for 30,000+ cities from ERA5 / Copernicus 1991–2020 baselines.
 
 ## Other
 ### Data Formats
