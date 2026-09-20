@@ -948,6 +948,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
 - [亿景智图](https://zt.changjing.com.cn/) - An enterprise-level map service (Chinese)
 
+- [Zornade](https://zornade.com) - Italian cadastral and geospatial data platform: geocoding, parcel profiles, risk and solar layers, valuations. Free API with key; MCP server for AI assistants.
+
 ## Conference & Communities
 - **Conference**
     - [Esri International User Conference](http://www.esri.com/events/user-conference)
