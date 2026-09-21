@@ -942,6 +942,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with notebook environment, production-ready dashboards, and Google Earth Engine integration.
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
+- [MapBees](https://mapbees.com/) - Browser-based neighborhood analysis on an H3 hex grid, with no GIS install: weighted site-selection scoring, Location Quotient, gap analysis, Getis-Ord Gi* hot spots, Shannon/Simpson diversity, bivariate maps, isochrone territories and Huff market share, plus an AI-driven map agent for conversational insights, built on Overture Maps, OpenStreetMap and national census data. Free tier.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
