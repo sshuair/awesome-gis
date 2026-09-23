@@ -451,6 +451,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [proj4js](https://github.com/proj4js/proj4js) - JavaScript library to transform coordinates from one coordinate system to another, including datum transformations.
 - [react-leaflet](https://github.com/PaulLeCam/react-leaflet) - React components for Leaflet maps.
 - [react-map-gl](https://github.com/uber/react-map-gl) - React friendly API wrapper around MapboxGL JS.
+- [s57-parser](https://github.com/devladpopov/s57-parser) - Parse S-57 and S-101 nautical charts (ENC) in the browser, convert them to GeoJSON and render them with IHO S-52 symbology.
 - [Spatial](https://github.com/troufster/spatial) - A 2d spatial hash module for node.js.
 - [Supercluster](https://github.com/mapbox/supercluster) - A crazy fast geospatial point clustering library for browsers and Node.
 - [SuperMap iClient for JavaScript](http://iclient.supermap.io) - Cloud GIS web client development platform supported by SuperMap.
