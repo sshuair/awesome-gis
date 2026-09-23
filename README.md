@@ -1032,6 +1032,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Beijing City Lab](http://www.beijingcitylab.com/)
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
+- [China Culture Literati Journeys](https://history.walkingchina.com/) - Interactive historical GIS map tracing the lifetime journeys and exile routes of classical Chinese thinkers.
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
 - [dougmccune](http://dougmccune.com/blog/)
