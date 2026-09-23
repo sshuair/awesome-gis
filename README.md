@@ -944,6 +944,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
+- [MapsLinkQuest](https://mapslink.quest/) - Converts a shared Google Maps list link into GPX, KML, CSV or GeoJSON waypoints. Free for up to 25 places per list, paid tiers above that.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
