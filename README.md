@@ -1035,6 +1035,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
 - [dougmccune](http://dougmccune.com/blog/)
+- [Driftlog Country Counter](https://driftlog-counter.pages.dev/) - Maps the countries in your photo GPS or Google Maps Timeline export, using point-in-polygon on Natural Earth borders entirely in the browser (no upload, no geocoding API).
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
