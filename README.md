@@ -1048,6 +1048,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
+- [Tel Aviv 2035](https://tlvnext.com/?lang=en) - Independent 3D map of Tel Aviv-Yafo’s buildings today and what permits and plans allow, from the municipality’s open GIS data.
 - [thematicmapping](http://blog.thematicmapping.org/)
 
 ## Other
