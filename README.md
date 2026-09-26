@@ -996,6 +996,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
     - [WorldPop](http://www.worldpop.org.uk/)
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
+    - [CoworkingView](https://api.coworkingview.com/v1) - Geocoded catalogue of 420+ coworking spaces and private offices in 60+ European and UAE cities, with a keyless REST API (lat/lng per listing) and a CC BY 4.0 price index in JSON and CSV.
     - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
     - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
 
