@@ -120,6 +120,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
 - [DEM Net Elevation API](https://elevationapi.com) - 3D terrain model generation online from open data (DEM, OSM) and imagery, exports to STL and glTF.
 - [Earth Enterprise](https://github.com/google/earthenterprise) - the open source release of Google Earth Enterprise, a geospatial application which provides the ability to build and host custom 3D globes and 2D maps.
+- [erzberg](https://github.com/sorny/erzberg) - Browser tool that turns GeoTIFF and DEM data into topographic line art in 41 draw modes, with SVG, STL and PNG export.
 - [Google Earth](http://earth.google.com/) - A computer program that renders a 3D representation of Earth based on satellite imagery.
 - [halfmaps](https://www.halfmaps.io/) - 3D map exporter that converts real-world geospatial data into models for CAD, GIS, and 3D workflows, with export formats like GLTF, OBJ, STL, and 3MF.
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - 3D desktop and web-based applications, enabling an enterprise to build, edit, navigate, query, and analyze realistic 3D environments.
