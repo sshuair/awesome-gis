@@ -985,6 +985,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Harvard Dataverse](https://dataverse.harvard.edu/)
     - [Los Angeles GeoHub](http://geohub.lacity.org/)
     - [metro extracts](https://mapzen.com/data/metro-extracts/) - City-sized portions of OpenStreetMap
+    - [Mexico postal codes (SEPOMEX)](https://github.com/gomflo/codigos-postales-mexico) - Full catalog of Mexican postal codes and settlements in CSV/JSON, updated weekly.
     - [NetworkRepository.com](http://networkrepository.com/index.php) - The First Interactive Network Repository with Visual Analytics
     - [NYC Open Data](https://nycopendata.socrata.com/)
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
