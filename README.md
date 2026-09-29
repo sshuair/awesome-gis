@@ -616,6 +616,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [rio-hist](https://github.com/mapbox/rio-hist) - Histogram matching plugin for rasterio.
 - [RIOS](https://bitbucket.org/chchrsc/rios/overview) - Raster I/O Simplification. A set of python modules which makes it easy to write raster processing code in Python.
 - [rio-tiler](https://github.com/mapbox/rio-tiler) - Get mercator tile from landsat, sentinel or other AWS hosted raster.
+- [roadstyle](https://github.com/Khoshkhah/roadstyle) - Styled, interactive, offline HTML maps of road networks (OSMnx edges, any GeoDataFrame or file), with road cartography, Google Street View and a JavaScript API.
 - [RSGISLib](http://www.rsgislib.org/)  - The Remote Sensing and GIS software library (RSGISLib) is a collection of tools for processing remote sensing and GIS datasets. The tools are accessed using Python bindings or an XML interface.
 - [Rtree](https://github.com/Toblerity/Rtree) - A wrapper of libspatialindex providing spatial indexing features for Python GIS.
 - [Scikit-image](http://scikit-image.org/) - Scikit-image is a collection of algorithms for image processing.
