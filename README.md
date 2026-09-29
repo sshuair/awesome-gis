@@ -279,6 +279,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Halide](https://github.com/halide/Halide) - Halide is a programming language designed to make it easier to write high-performance image processing code on modern machines.
 - [hydroflow](https://github.com/sistemalabgis/hydroflow) - Compute drainage orders in drainage basins using Strahler and Shreve methods.
 - [ITK](https://itk.org/) - ITK is an open-source, cross-platform system that provides developers with an extensive suite of software tools for image analysis.
+- [lasrs-cpp](https://github.com/bloom256/lasrs-cpp) - C++20 and C library for reading and writing LAS, LAZ and COPC with parallel LAZ decoding, built on the Rust crates las-rs and laz-rs.
 - [LASzip](https://github.com/LASzip/LASzip) - Quickly turns bulky LAS files into compact LAZ files without information loss.
 - [laz-perf](https://github.com/hobu/laz-perf) - Alternative LAZ implementation for C++ and JavaScript.
 - [libGeoTiff](https://trac.osgeo.org/geotiff/) - Manipulate TIFF based interchange format for georeferenced raster imagery.
