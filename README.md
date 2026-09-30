@@ -1048,6 +1048,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
+- [The Field Atlas](https://usnature.vercel.app/) - An illustrated atlas of 421 American wild places with terrain and state indexes, field notes, credited photos, and a browser-stored stamp passport.
 - [thematicmapping](http://blog.thematicmapping.org/)
 
 ## Other
