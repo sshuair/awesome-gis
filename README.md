@@ -69,6 +69,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Design Materials](#design-materials)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
     - [MOOC](#mooc)
+    - [GNSS Learning Resources](#gnss-learning-resources)
     - [PODCASTS](#PODCASTS)
     - [DEFUNCT GEOSPATIAL PODCASTS](#DEFUNCT_GEOSPATIAL_PODCASTS)
   - [Reference](#reference)
@@ -1066,6 +1067,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Intelligence & the Geospatial Revolution](https://www.coursera.org/course/geoint)
 - [Maps and the Geospatial Revolution](https://www.coursera.org/course/maps)
 - [地理信息系统（GIS）实验,汤国安等,南京师范大学,Nanjing Normal University](https://www.icourse163.org/course/NJNU-1206774803)
+
+### **GNSS Learning Resources**
+Reading resources for GNSS position data and RTK correction workflows.
+
+- [Kalmix GNSS Handbook](https://www.kalmixtech.com/blogs/blog/tagged/gnss-handbook) - Free engineering articles on GNSS fundamentals, signal bands, RTCM/NTRIP corrections, NMEA and coordinate systems.
 
 ### PODCASTS
 - [Africa GeoConvo Podcast](https://www.africageoconvo.com)
