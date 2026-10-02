@@ -1039,6 +1039,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [flowingdata](http://flowingdata.com/)
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
 - [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
+- [Lifemap](https://lifemap.org.uk) - Map of life expectancy and healthy life expectancy across UK councils from Office for National Statistics data, with a page for each council and a postcode lookup.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
