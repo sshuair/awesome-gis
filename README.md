@@ -1049,6 +1049,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
+- [VivaMap](https://vivamap.ch) - Quality-of-life map of every Swiss commune and Dutch municipality (tax, transit, schools, noise, air, sunshine, nature, restaurants, healthcare), scored on an H3 hexagon grid. Built with MapLibre GL JS and deck.gl.
 
 ## Other
 ### Data Formats
