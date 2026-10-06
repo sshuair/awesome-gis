@@ -125,7 +125,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Skyline](http://www.skylineglobe.com/SkylineGlobe/corporate/Default.aspx?) - 3D desktop and web-based applications, enabling an enterprise to build, edit, navigate, query, and analyze realistic 3D environments.
 - [World Wind](http://worldwind.arc.nasa.gov/java/) -  An SDK (software development kit) that software engineers can use to build their own applications
 - [LAStools](https://rapidlasso.de/product-overview/) -  A collection of 52 highly efficient, batch-scriptable, multicore command-line tools for processing point clouds. The tools can also be run via a native GUI (laslook) and are available as toolboxes (QGIS, ArcGIS Pro, FME, Erdas)
-
+- [Locus-Earth](https://github.com/ZhuNemo/locus-earth) - A lightweight, open-source, browser-based interactive 3D Earth powered by Cesium, featuring terrain, satellite imagery, and day/night simulation.
+ 
 ## Web Map Servers
 - [ArcGIS Server](http://server.arcgis.com/) - A GIS server for enterprise application.
 - [Baremaps](https://www.baremaps.com/) -  Apache Baremaps is a toolkit and a set of infrastructure components for creating, publishing, and operating online maps.
