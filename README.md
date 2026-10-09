@@ -115,6 +115,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SNAP](http://step.esa.int/main/toolboxes/snap/) - A common architecture for all Sentinel Toolboxes.
 
 ## 3D Applications
+- [3DTexel Heightmap Generator](https://3dtexel.com/heightmap-generator/) - Real-world 16-bit heightmaps and 3D terrain backdrops (GLB, OBJ) built from official LiDAR and DEM sources (IGN LiDAR HD, USGS 3DEP, Copernicus GLO-30), with aerial albedo and normal maps for game engines.
 - [ArcGIS Earth](http://www.esri.com/software/arcgis-earth) - Allows you to explore any part of the world. Work with a variety of 3D and 2D map data formatt, including KML. Display data, sketch placemarks, measure and perform interactive analysis, and add annotations.
 - [Beholder](https://beholder.me) - Real-time OSINT threat intelligence map with WebGPU/CesiumJS 3D globe, aggregating 30+ data sources including aircraft, vessels, satellites, earthquakes, conflict, and cyber threats.
 - [CityEngine](http://www.esri.com/software/cityengine/) - Advanced 3D modeling software.
