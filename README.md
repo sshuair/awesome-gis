@@ -998,6 +998,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
     - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
+    - [ThaiFloodRisk](https://thaifloodrisk.com/en/open-data) - Open flood data for Bangkok and Thailand: street flooding episodes since 2021 and satellite flood extent by district since 2011. CSV files and a free JSON API, CC BY 4.0.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
