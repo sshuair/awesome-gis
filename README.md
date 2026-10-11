@@ -65,6 +65,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Awesome-Awesome](#awesome-awesome)
   - [Amazing Map Sites](#amazing-map-sites)
   - [Other](#other)
+    - [Agent Skills](#agent-skills)
     - [Data Formats](#data-formats)
     - [Design Materials](#design-materials)
     - [Geospatial Start-ups And Companies](#geospatial-start-ups-and-companies)
@@ -1051,6 +1052,11 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [thematicmapping](http://blog.thematicmapping.org/)
 
 ## Other
+### **Agent Skills**
+Reusable geospatial instructions for AI coding agents.
+
+- [GeoAI Skills](https://github.com/TerraLabAI/geoai-skills) - Eight standalone skills covering coordinate systems, PyQGIS, Sentinel-2 indices, open data, geoprocessing and map export checks.
+
 ### Data Formats
 - [Raster Formats](http://www.gdal.org/formats_list.html) - GDAL raster formats: GeoTIFF, Erdas Imagine, ECW, MrSID, JPEG2000, DTED, NITF, ...
 - [Vector Formats](http://www.gdal.org/ogr_formats.html) -  GDAL vector formats: ESRI Shapefile, ESRI ArcSDE, ESRI FileGDB, MapInfo, GML, KML, PostGIS, Oracle Spatial, ...
