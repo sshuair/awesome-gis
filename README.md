@@ -81,6 +81,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Geospatial Data Science with Julia](https://juliaearth.github.io/geospatial-data-science-with-julia) - Open book on geospatial data science with the Julia programming language.
 
 ## Geographic Information System Software
+- [AI Agent by TerraLab](https://plugins.qgis.org/plugins/AI_Agent/) - A QGIS plugin where you describe a GIS task in plain words and an AI agent finds open data, runs the analysis, styles the map and builds the print layout. Free tier and paid plan.
 - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
 - [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
 - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
