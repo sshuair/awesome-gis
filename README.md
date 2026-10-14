@@ -1049,6 +1049,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
+- [TectonicPlateMap.org](https://tectonicplatemap.org/) - Interactive Earth geophysics map visualizing all 52 tectonic plates (PB2002), fault boundaries, live USGS earthquakes, active volcanoes, and ocean trenches.
 
 ## Other
 ### Data Formats
