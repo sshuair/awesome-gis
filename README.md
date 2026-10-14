@@ -83,6 +83,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ## Geographic Information System Software
 - [ArcGIS Desktop](https://www.esri.com/en-us/arcgis/products/arcgis-desktop/overview): Extendable desktop suite to manage, visualize and analyze GIS data in 2D and 3D, including image processing. Includes ArcGIS Pro, ArcMap, ArcCatalog, and ArcGIS Online.
 - [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
+- [GeoD Agent](https://github.com/gaopengbin/geod-agent) - Open-source Windows GIS agent for conversational imagery downloads, local processing and GeoTIFF export, with support for user-configured model providers.
 - [GeoDa](http://geodacenter.github.io/) - A free and open source software tool that serves as an introduction to spatial data analysis.
 - [GISInternals](http://www.gisinternals.com/) - Povidesdaily build packages and software development kits for the GDAL and MapServer
 - [Global Mapper](http://www.bluemarblegeo.com/products/global-mapper.php) - An easy-to-use, robust, and genuinely affordable GIS application that combines a wide array of spatial data processing tools with access to an unparalleled variety of data formats.
