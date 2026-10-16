@@ -571,6 +571,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geosnap](https://github.com/spatialucr/geosnap) - geosnap makes it easier to explore, model, analyze, and visualize the social and spatial dynamics of neighborhoods.
 - [GIPPY](https://github.com/gipit/gippy) - Geospatial Image Processing for Python.
 - [gpdvega](https://github.com/iliatimofeev/gpdvega) - gpdvega is a bridge between GeoPandas and Altair that allows to seamlessly chart geospatial data.
+- [GridPin](https://github.com/gridpin/gridpin) - Offline forward and reverse geocoder with one memory-mapped file per country, no server and no API key.
 - [LANDSAT-Download](https://github.com/olivierhagolle/LANDSAT-Download) - Automated download of LANDSAT data from USGS website.
 - [landsat-extract-gee](https://github.com/loicdtx/landsat-extract-gee) - Get Landsat surface reflectance time-series from google earth engine.
 - [Landsat-util](https://github.com/developmentseed/landsat-util) - Landsat-util is a command line utility that makes it easy to search, download, and process Landsat imagery.
