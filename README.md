@@ -324,6 +324,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [DEM Net Elevation API](https://github.com/dem-net/DEM.Net) - Library focused on Digital Elevation Models, OSM and 3D from open data. Playground: https://elevationapi.com
 - [DotSpatial](https://dotspatial.codeplex.com/) - DotSpatial is a geographic information system library written for .NET 4.
 - [Earth-Lens](https://github.com/Microsoft/Earth-Lens) - Earth Lens, a Microsoft Garage project is an iOS iPad application that helps people and organizations quickly identify and classify objects in aerial imagery through the power of machine learning.
+- [EncDotNet.S100](https://github.com/philliphoff/EncDotNet.S100) - .NET implementation of the IHO S-100 hydrographic data model: reads, validates and renders S-101 ENCs, S-102 bathymetry, S-104/S-111 water levels and currents, S-124 navigational warnings and legacy S-57 charts. Includes a cross-platform desktop chart viewer ([SoundCharts](https://soundcharts.app)) and a command-line tool.
 - [GDAL/OGR CSharp](https://trac.osgeo.org/gdal/wiki/GdalOgrInCsharp) - C# bindings for GDAL and OGR.
 - [Geo](https://github.com/sibartlett/Geo) - A geospatial library for .NET
 - [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - Create GeoJSON from Entity Framework Spatial Data or WKT.
