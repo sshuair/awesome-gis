@@ -930,6 +930,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### SaaS
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
+- [Basesheet](https://basesheet.site) - Free, open-source tool that builds a planning-level US site base plan (parcels, LiDAR contours, soils, flood zones, wetlands) as CAD, GIS and 3D files.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
