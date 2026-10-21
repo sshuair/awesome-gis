@@ -945,6 +945,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
+- [OpenGeocoding](https://opengeocoding.com/) - Hosted geocoding API on open data: address search, autocomplete and reverse geocoding.
 - [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
