@@ -426,6 +426,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geotiff.js](https://github.com/geotiffjs/geotiff.js) - geotiff.js is a small library to parse TIFF files for visualization or analysis.
 - [gmaps.js](https://github.com/hpneo/gmaps) - gmaps.js allows you to use the potential of Google Maps in a simple way.
 - [Google Maps API](https://developers.google.com/maps/documentation/javascript/?hl=pt-br)  - Google Maps API for JavaScript.
+- [google-apple-maps-converter](https://github.com/steven-panxd/google-apple-maps-converter) - Convert Google Maps links to Apple Maps links and back, including short links, dropped pins and directions.
 - [Heatcanvas.js](https://github.com/sunng87/heatcanvas) - Yet another heatmap implementation for Javascript.
 - [Heatmap.js](https://www.patrick-wied.at/static/heatmapjs/) - A heatmap implementation for Javascript.
 - [iTowns](http://www.itowns-project.org/) - A Three.js-based framework written in Javascript/WebGL for visualizing 3D geospatial data. It can connect to WMS/WMTS/TMS servers including elevation data and load many different data formats (3dTiles, gpx, KML and much much more).
