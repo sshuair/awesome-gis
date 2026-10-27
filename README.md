@@ -929,6 +929,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
 
 ### SaaS
+- [APIVerve](https://apiverve.com) - Geo REST APIs under one API key, including reverse geocoding, timezone lookup, IP geolocation, country/state boundaries, ZIP codes and distance calculation, with a free plan.
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
