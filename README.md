@@ -245,6 +245,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 ### Deep Learning Datasets
 - [awesome-remote-sensing-change-detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection) - List of datasets, codes, researchers and contests related to remote sensing change detection.
 - [awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) - List of satellite imagery datasets with annotations for computer vision and deep learning.
+  - [The Trade Economy Index & US Commercial Building Stock Dataset](https://tradesindex.org) - Open spatial/regional dataset covering 9,084,887 US commercial buildings across 51 states/DC, 366 MSAs, and 241,694 geocoded municipal building permits ([GitHub CSV/JSON](https://github.com/levelcfo/trade-economy-index-data) | [Building Value Calculator](https://levelcfo.com/tools/building-revenue-calculator/)).
 
 ## Map Render Engine
 
