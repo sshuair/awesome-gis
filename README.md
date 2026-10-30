@@ -939,6 +939,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
+- [KLICBOT](https://klicbot.nl/) - Free browser viewer and API for Dutch KLIC (cable and pipe) data, with GeoJSON/Shapefile export and a live OGC layer for QGIS/ArcGIS.
 - [LYRASENSE](https://lyrasense.com) - Agentic AI platform for satellite data analysis with notebook environment, production-ready dashboards, and Google Earth Engine integration.
 - [Magrit](http://magrit.cnrs.fr/) - Thematic cartography, free and open-source.
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
