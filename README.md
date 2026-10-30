@@ -949,6 +949,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
+- [Wheremind](https://wheremind.ai/) - Hosted MCP server that gives AI agents live places search, geocoding, nearby search and directions, usable from Claude, ChatGPT, Cursor and Claude Code.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
 - [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
