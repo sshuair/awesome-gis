@@ -96,6 +96,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SAGA](http://www.saga-gis.org/en/index.html) - Open source system for automated geoscientific analyses.
 - [SharpMap](https://github.com/SharpMap/SharpMap) - An easy-to-use mapping library for use in web and desktop applications
 - [TileMill](https://tilemill-project.github.io/tilemill/) - An open source map design studio, developed by a community of volunteer open source contributors
+- [Untethered Maps](https://untetheredmaps.com/) - Free browser-based trip planner and map tools, with optional Pro offline layer packs (parcels, hunting units, dead zones, soils) for use beyond cell coverage.
 - [uDig](http://udig.refractions.net/) - An open source (EPL and BSD) desktop application framework, built with Eclipse Rich Client (RCP) technology.
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - An open source desktop GIS and remote sensing software package for general applications of geospatial analysis and data visualization.
 - [DIVA-GIS](https://www.diva-gis.org/) - DIVA-GIS is a free geographic information system software program used for the analysis of geographic data, in particular point data on biodiversity.
