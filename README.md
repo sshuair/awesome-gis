@@ -998,6 +998,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
     - [ZipCheckup](https://zipcheckup.com/) - Free ZIP-level environmental data platform with 17 verticals (water quality, air quality, PFAS, radon, flood risk) for 42K US ZIP codes. Public API, CC BY 4.0.
+    - [Lake Level](https://lakelevelnow.com) - Live US lake and reservoir levels from USGS, USACE, CDEC, Reclamation and TWDB gauges (44 lakes, 12 states): current elevation, 24h/7d/30d change, feet below full pool, history up to 365 days. Open-source MCP server; JSON, no API key, source gauge URL per result.
 
 ## News Sites
 - [canadiangis](http://canadiangis.com/)
