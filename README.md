@@ -927,6 +927,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Descartes Labs](https://www.descarteslabs.com/solutions.html) - A platform for complex global systems.
 - [Google Earth Engine](https://earthengine.google.com/) - A planetary-scale platform for Earth science data & analysis.
 - [Radiant Earth](https://www.radiant.earth/) - A platform for connecting people globally to Earth imagery, geospatial data, tools and knowledge to meet the world’s most critical challenges.
+- [Zip-Codes.com API](https://www.zip-codes.com/api/) - US and Canadian postal data API: US address validation to ZIP+4, ZIP boundary overlaps with counties and districts, radius search, and 14 years of normalized Census ACS data, with a hosted MCP server for AI agents.
 
 ### SaaS
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
