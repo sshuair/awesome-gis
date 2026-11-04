@@ -936,6 +936,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [GeoSlicing](https://geoslicing.com/) - Web-based GIS platform for parcel analysis, land research, and spatial intelligence. Upload data in multiple formats (CSV, GeoJSON, Shapefile, KML, GeoPackage), perform AI-powered analysis, and generate professional PDF reports.
 - [Geodocs](https://geodocs.io/) - GIS-powered project management platform for construction and infrastructure with geospatial file uploads (KML, KMZ, Shapefile, GeoJSON), MVT vector tiles, dynamic forms, and field data collection.
 - [Factual]( https://www.factual.com/) - A company provides the best location data for mobile advertising, mobile apps, and enterprise solutions.
+- [Fonciq](https://fonciq.ca/) - Québec Land Registry (Registre foncier) data for real-estate professionals via remote MCP or API. Independent, not government-affiliated.
 - [GeoHey](https://geohey.com) - A geographic online one-stop solution (Chinese)
 - [GeoQ](http://www.geoq.cn/) - A location intelligence platform (Chinese)
 - [GIS Cloud](http://www.giscloud.com/) - A next generation platform for apps that manage location information
