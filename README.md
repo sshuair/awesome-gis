@@ -977,6 +977,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [GeoCommons ](http://geocommons.com/) - A community contributed collection of open data from around the world
 
 - **Data Site**
+    - [canchas-mexico](https://github.com/idimetrix/canchas-mexico) - Padel, tennis and pickleball courts in Mexico from OpenStreetMap, as CSV and GeoJSON (ODbL).
     - [Geofabrik](http://download.geofabrik.de/)
     - [Geo Maps](https://github.com/simonepri/geo-maps) - High Quality GeoJSON maps programmatically generated.
     - [Global cities Shapefile data](http://download.bbbike.org/osm/bbbike/)
