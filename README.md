@@ -930,6 +930,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 ### SaaS
 - [ArcGIS Online](https://developers.arcgis.com/) - Thousands of datasets and dozens of tools to manipulate, analyze and present data.
+- [Calculation Hub Coordinate Converter](https://calculation-hub.com/geography/coordinate-converter) - Free decimal-degree, DMS, and UTM coordinate conversions, with zone and datum cautions; not arbitrary CRS reprojection or survey validation.
 - [Cartodb](http://cartodb.com/) - The easiest way to map and analyze your location data
 - [citytracking](http://citytracking.org/) - A two-year project, to change the way people view, talk about, utilize digital city services
 - [Equator Studios](https://equatorstudios.com/) - All-in-one cloud-based GIS mapping solution featuring millions of built-in data sources and AutoCAD export.
