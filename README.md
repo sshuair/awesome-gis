@@ -150,6 +150,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Pharos AI](https://conflicts.app) - Open-source real-time intelligence dashboard for geopolitical conflict tracking with interactive geospatial visualization, OSINT feeds, and actor dossiers.
 - [QGIS Server](https://docs.qgis.org/1.8/en/docs/user_manual/working_with_ogc/ogc_server_support.html) - a FastCGI/CGI application written in C++ that works together with a webserver.
 - [SuperMap iServer](https://www.supermap.com/en/html/SuperMap_GIS_products1160212.html) - A Cloud GIS application server based on high-efficiency cross-platform GIS kernel, having the functions like 2D & 3D integration service publishing, management and cluster, providing multi-layer extension development abilities.
+- [MVT Server](https://github.com/mvt-proj/mvt-rs) - MVT Server is one platform for publishing cartographic resources from PostGIS written in Rust.
 
 ## Front-end Framework
 - [ArcGIS Maps SDK for JavaScript](https://developers.arcgis.com/javascript/) - Build high-performing 2D and 3D mapping applications supported by Esri.
@@ -842,6 +843,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [rust-topojson](https://github.com/georust/rust-topojson) - TopoJSON bindings and utilities for Rust.
 - [rust-wkt](https://github.com/georust/rust-wkt) - Rust read/write support for well-known text (WKT).
 - [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - An advanced geospatial data analysis platform.
+- [MVT Server](https://github.com/mvt-proj/mvt-rs) - MVT Server is one platform for publishing cartographic resources from PostGIS.
 
 ### Scala
 - [geoscript.scala](https://github.com/dwins/geoscript.scala) - Scala implementation of the GeoScript API.
