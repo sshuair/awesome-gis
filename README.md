@@ -560,6 +560,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [geobeam](https://github.com/GoogleCloudPlatform/dataflow-geobeam) - geobeam adds GIS capabilities to your Apache Beam and Dataflow pipelines.
 - [GeoDaSpace](https://github.com/GeoDaCenter/GeoDaSpace) - Software for Advanced Spatial Econometrics.
 - [GeoDjango](http://geodjango.org/) - Django geographic web framework.
+- [geofix](https://github.com/YusufEminoglu/geofix_sdk) - Validate and repair GeoJSON against RFC 7946 (winding, rings, self-intersections, swapped axes, bbox) from the CLI, pre-commit hooks or GitHub Actions; pure Python.
 - [geojson-area](https://github.com/scisco/area) - Calculate the area inside of any GeoJSON geometry. This is a port of Mapbox's geojson-area for Python.
 - [geojsonio.py](https://github.com/jwass/geojsonio.py) - Open GeoJSON data on geojson.io from Python. geojsonio.py also contains a command line utility that is a Python port of geojsonio-cli.
 - [geojson-shave](https://github.com/ben-nour/geojson-shave) - a Python command-line tool for reducing the size of GeoJSON files.
