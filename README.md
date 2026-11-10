@@ -582,6 +582,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Mahotas-imread](https://github.com/luispedro/imread) - Read images to numpy arrays.
 - [mapboxgl-jupyter](https://github.com/mapbox/mapboxgl-jupyter) - Use Mapbox GL JS to visualize data in a Python Jupyter notebook.
 - [matplotlib](http://matplotlib.org/) - Python 2D plotting library.
+- [meshcity](https://github.com/Longado/meshcity) - Cut an area out of an I3S or 3D Tiles city stream into one GLB, one object per building with its attributes.
 - [morecantile](https://github.com/developmentseed/morecantile) - Construct and use map tile grids (a.k.a TileMatrixSet / TMS).
 - [MovingPandas](https://github.com/anitagraser/movingpandas) - Implementation of Trajectory classes and functions built on top of GeoPandas.
 - [mundipy](https://github.com/BuntingLabs/mundipy) - Python framework for fast spatial data manipulation without projections
