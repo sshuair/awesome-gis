@@ -1049,6 +1049,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
 - [thematicmapping](http://blog.thematicmapping.org/)
+- [WhatFliesWhere](https://whatflieswhere.com/from/new-york) - Nonstop route maps for 3,000+ airports, with airlines and seasonal dates.
 
 ## Other
 ### Data Formats
