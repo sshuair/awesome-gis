@@ -944,6 +944,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapAtlas](https://mapatlas.eu/) - A mapping API platform providing geocoding, routing, isochrone, vector tiles, and GeoEnrich services built on OpenStreetMap data.
 - [Mapbox](https://www.mapbox.com/) - Helping you design your own map and presenting your data
 - [MapPoster](https://www.mapposter.xyz/) - Design custom artistic city maps with markers and routes.
+- [MapScale](https://mapscale.io/) - A maps platform for Thailand with vector tiles, Thai/English geocoding, routing and static maps via one API.
 - [NextGIS](http://nextgis.com/) - A cloud geospatial service that allows you to create web GIS right in the browser
 - [PixelGust](https://pixelgust.com/) - A web-based geospatial analysis platform providing 30m terrain data, climate risk assessment, NDVI time series, and environmental reports for any location.
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
