@@ -1038,7 +1038,8 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
-- [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
+- [knowground](https://www.knowground.com)
+- [No Stairs Please](https://nostairsplease.com/) - Interactive North American map and directory of 2,200+ step-free and wheelchair-accessible live-music venues with drive-time routing and booking data. - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
