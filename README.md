@@ -55,6 +55,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [Rust](#rust)
     - [Scala](#scala)
     - [Swift](#swift)
+    - [Zig](#zig)
   - [Open Standards](#open-standards)
   - [Cloud Service](#cloud-service)
     - [DaaS](#daas)
@@ -855,6 +856,9 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [MapboxDirections.swift](https://github.com/mapbox/MapboxDirections.swift) - Traffic-aware directions in Swift or Objective-C on iOS, macOS, tvOS, and watchOS.
 - [Mapbox Navigation SDK for iOS](https://github.com/mapbox/mapbox-navigation-ios) - Turn-by-turn navigation logic and UI in Swift or Objective-C on iOS.
 - [turf-swift](https://github.com/mapbox/turf-swift) - A Swift language port of Turf.js.
+
+### Zig
+- [zig-h3](https://github.com/SMC17/zig-h3) - Uber H3 v4 pure-Zig implementation and C wrapper bindings supporting all 70 public functions.
 
 ## Open Standards
 - [3dP](http://www.opengeospatial.org/standards/3dp)
