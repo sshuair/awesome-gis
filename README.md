@@ -1048,6 +1048,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
 - [snazzymaps](https://snazzymaps.com/) - A google map style gallery
+- [Street Crime Map](https://streetcrimemap.co.uk/) - Street-level police records for England, Wales and Northern Ireland counted by area and category, with coverage notes.
 - [thematicmapping](http://blog.thematicmapping.org/)
 
 ## Other
