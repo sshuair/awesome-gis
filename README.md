@@ -1044,6 +1044,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
 - [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 - [OpenWebGIS is free online GIS](http://openwebgisystem.blogspot.com/)
+- [Pump Price Map](https://pumppricemap.co.uk/) - Area-level UK fuel price figures by postcode district (median and spread) from the Fuel Finder scheme.
 - [Pumperly](https://github.com/GeiserX/pumperly) - An open-source fuel & EV route planner using PostGIS, MapLibre GL JS, Valhalla, and Photon. Covers 36 countries with real-time pricing and is self-hostable.
 - [roads to rome](http://roadstorome.moovellab.com/) - roads to ROME
 - [SCOTT REINHARD MAPS](https://scottreinhardmaps.com/)
