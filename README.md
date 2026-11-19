@@ -1037,6 +1037,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [dougmccune](http://dougmccune.com/blog/)
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
+- [GTA 6 Map](https://gta6map.me/) - Interactive fan map of Leonida, the state in Grand Theft Auto VI, with satellite and atlas views and location markers.
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
 - [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
