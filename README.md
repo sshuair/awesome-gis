@@ -1041,6 +1041,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [knowground](https://www.knowground.com) - Free per-address lookup of US civic and environmental facts (FEMA flood zone, elevation, public schools, EPA hazards, broadband, Census), each value sourced and dated.
 - [Maps of the Year](http://homepage.ntlworld.com/keir.clarke/mapsoftheyear.htm)
 - [mapzilla](https://mapzilla.co.uk/)
+- [Mineral Record](https://mineralrecord.com/pipelines) - Interactive map of 409,268 miles of Texas permitted pipeline, restated from Railroad Commission T-4 filings.
 - [NC STATE UNIVERSITY Center for Geospatial Analytics](https://cnr.ncsu.edu/geospatial/)
 - [Odyssey.js](http://cartodb.github.io/odyssey.js/)
 - [OpenWebGIS is free online GIS](http://openwebgisystem.blogspot.com/)
