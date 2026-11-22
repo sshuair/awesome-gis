@@ -1033,6 +1033,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Cartography and Geovisualization Group at Oregon State University](http://cartography.oregonstate.edu/)
 - [CHATTY MAPS](http://goodcitylife.org/chattymaps/index.html) - the sounds map of city.
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
+- [Chronicles of the Realm (Jiangshan Map)](https://github.com/DeanChensj/jiangshan-map) - Open-source, zero-dependency interactive historical atlas of China (403 BCE–present) with multi-stage dynastic borders, ancient cities, and historical figure journeys.
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
 - [dougmccune](http://dougmccune.com/blog/)
 - [finemapping](http://www.finemapping.com/)
