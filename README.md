@@ -994,6 +994,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [pm2.5-China](http://www.pm25.in/)
     - [T-Drive trajectory data sample](http://research.microsoft.com/apps/pubs/default.aspx?id=152883)
     - [USGS Remote Sensing Image](http://earthexplorer.usgs.gov/)
+    - [Which District India](https://which-district-india.at01.io/data/) - Indian towns and villages with district, local government codes, PIN codes and coordinates where known, as one CSV (CC BY 4.0).
     - [WorldPop](http://www.worldpop.org.uk/)
     - [Citi Bike Trip Histories](https://www.citibikenyc.com/system-data)
     - [Crime Brasil](https://crimebrasil.com.br) - Brazilian crime incidents geocoded by neighborhood (RS, 2.99M records) and municipality (MG, RJ) with free REST API.
