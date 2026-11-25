@@ -1035,6 +1035,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Chinese Bus System](http://jianghao.wang/bus/index.htm)
 - [city roads](https://anvaka.github.io/city-roads/) - This website renders every single road within a city.
 - [dougmccune](http://dougmccune.com/blog/)
+- [Earthquake Globe](https://earthquakes.site/) - Live earthquakes from the USGS feed shown on an interactive 3D globe.
 - [finemapping](http://www.finemapping.com/)
 - [flowingdata](http://flowingdata.com/)
 - [Japan Neighborhoods Crime Map](https://japanneighborhoods.com/guides/tokyo-crime-map) - Interactive Leaflet crime safety map of 5,078 Tokyo neighborhoods, color-coded by safety grade (A+ to F), sourced from Tokyo Metropolitan Police open data (2018-2024).
