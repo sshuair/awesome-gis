@@ -989,6 +989,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
     - [NYC Open Data](https://nycopendata.socrata.com/)
     - [NYC Taxi & Limousine Commission - Trip Record Data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
     - [OpenFlights: Airport and airline data](http://openflights.org/data.html)
+    - [World Airport Database](https://github.com/Loggableim/world-airports-db) - 86,000+ airports (86k SQLite DB + CSV + IATA-subset JSON) with country/region rollups, indexed and checksummed. Public domain, monthly snapshots from OurAirports data.
     - [Open Street Map](https://www.openstreetmap.org/) - A map of the world, created by people like you and free to use under an open license.
     - [Road511](https://road511.com) - Real-time traffic data API aggregating 511 systems from 65 US states and Canadian provinces (events, cameras, bridges, truck routes, GeoJSON-native).
     - [pm2.5-China](http://www.pm25.in/)
