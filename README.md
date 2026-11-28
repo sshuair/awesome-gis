@@ -949,6 +949,7 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 - [Phantom Tide](https://github.com/tg12/phantomtide) - Real-time geospatial intelligence platform for maritime and airspace monitoring, combining vessel tracking, ADS-B flight activity, official notices, environmental context, and satellite detections in a single live map workflow.
 - [stamen](http://stamen.com/) - Data visualization to tell compelling stories for some of the world's most visible companies
 - [Unearth](https://unearthlabs.com/) - A simple, cloud-based GIS mapping platform designed for data and workflow management.
+- [WARNPOINT](https://warnpoint.com/map) - Real-time global conflict and incident map from 1,000+ graded news and official sources, with country risk scores, Sentinel-2 before/after imagery of reported strike sites, GeoJSON/KML export and a public MCP server.
 - [worldmap](http://worldmap.harvard.edu/) - Building your own mapping portal and publish it to the world
 - [Zornade](https://app.zornade.com) - Italian cadastral parcel intelligence platform aggregating 15+ public data sources (hydrogeological risk, real estate prices, demographics) into a per-parcel profile covering 85 million cadastral parcels, with a free REST API.
 - [地图慧](http://www.dituhui.com/) - A self-designed map server for customs (Chinese)
